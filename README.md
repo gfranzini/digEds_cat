@@ -10,3 +10,5 @@ More information:
 * [How to contribute to the Catalogue?](https://github.com/gfranzini/digEds_cat/wiki/Contribute)
 * [Editions to be added to the Catalogue](https://github.com/gfranzini/digEds_cat/issues)
 
+The [RIDE Journal for Digital Editions and Resources](http://ride.i-d-e.de/) publishes reviews of digital editions (German and English).
+
