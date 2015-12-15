@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Catalogue of Digital Editions</title>
+		<link href='https://fonts.googleapis.com/css?family=Amatic+SC:700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+		<meta name="description" content="chart created using amCharts live editor" />
+
+		<!-- amCharts javascript sources -->
+		<script type="text/javascript" src="file:///Users/gretafranzini/Desktop/DigEdsCat/digEdsCat_barStacked/amcharts/amcharts.js"></script>
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/themes/light.js"></script>
+
+		<!-- amCharts javascript code -->
+		<script type="text/javascript">
+			AmCharts.makeChart("chartdiv",
+				{
+					"type": "serial",
+					"categoryField": "category",
+					"rotate": true,
+					"startDuration": 1,
+					"fontFamily": "Nunito",
+					"handDrawn": true,
+					"theme": "light",
+					"categoryAxis": {
+						"gridPosition": "start"
+					},
+					"trendLines": [],
+					"graphs": [
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Antiquity",
+							"title": "Antiquity",
+							"type": "column",
+							"valueField": "column-1"
+						},{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Antiquity/Middle Ages",
+							"title": "Antiquity/Middle Ages",
+							"type": "column",
+							"valueField": "column-2"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Middle Ages",
+							"title": "Middle Ages",
+							"type": "column",
+							"valueField": "column-3"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Middle Ages/Early Modern",
+							"title": "Middle Ages/Early Modern",
+							"type": "column",
+							"valueField": "column-4"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Early Modern",
+							"title": "Early Modern",
+							"type": "column",
+							"valueField": "column-5"
+						},{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Early Modern/Long 19th",
+							"title": "Early Modern/Long 19th",
+							"type": "column",
+							"valueField": "column-6"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Long 19th",
+							"title": "Long 19th",
+							"type": "column",
+							"valueField": "column-7"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Long 19th/Modern",
+							"title": "Long 19th/Modern",
+							"type": "column",
+							"valueField": "column-8"
+						},
+						{
+							"balloonText": "[[title]] of [[category]]:[[value]]",
+							"fillAlphas": 1,
+							"id": "Modern/Contemporary",
+							"title": "Modern/Contemporary",
+							"type": "column",
+							"valueField": "column-9"
+						}
+					],
+					"guides": [],
+					"valueAxes": [
+						{
+							"id": "ValueAxis-1",
+							"stackType": "100%",
+							"title": ""
+						}
+					],
+					"allLabels": [],
+					"balloon": {},
+					"legend": {
+						"enabled": true,
+						"useGraphSettings": true
+					},
+					"titles": [
+						{
+							"id": "Title-1",
+							"size": 15,
+							"text": ""
+						}
+					],
+					"dataProvider": [
+						{
+							"category": "ENG",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 2,
+							"column-4": 16,
+							"column-5": null,
+							"column-6": 10,
+							"column-7": 26,
+							"column-8": null,
+							"column-9": 1
+						},
+						{
+							"category": "ANG/ENM/SGA",
+							"column-1": null,
+							"column-2": 1,
+							"column-3": 11,
+							"column-4": 1,
+							"column-5": 1,
+							"column-6": null,
+							"column-7": null,
+							"column-8": null,
+							"column-9": null
+						},
+						{
+							"category": "LAT",
+							"column-1": 13,
+							"column-2": 1,
+							"column-3": 22,
+							"column-4": 1,
+							"column-5": 7,
+							"column-6": null,
+							"column-7": null,
+							"column-8": null,
+							"column-9": null
+						},
+						{
+							"category": "GRC",
+							"column-1": 7,
+							"column-2": 1,
+							"column-3": null,
+							"column-4": null,
+							"column-5": 1,
+							"column-6": null,
+							"column-7": null,
+							"column-8": null,
+							"column-9": null
+						},
+						{
+							"category": "ITA",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 8,
+							"column-4": 4,
+							"column-5": null,
+							"column-6": null,
+							"column-7": 1,
+							"column-8": null,
+							"column-9": null
+						}
+						,
+						{
+							"category": "SPA",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 3,
+							"column-4": null,
+							"column-5": 4,
+							"column-6": null,
+							"column-7": 1,
+							"column-8": null,
+							"column-9": null
+						}
+						,
+						{
+							"category": "GER/GMH",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 2,
+							"column-4": null,
+							"column-5": 2,
+							"column-6": null,
+							"column-7": 2,
+							"column-8": 2,
+							"column-9": null
+						}
+						,
+						{
+							"category": "FRE",
+							"column-1": null,
+							"column-2": null,
+							"column-3": null,
+							"column-4": null,
+							"column-5": 4,
+							"column-6": null,
+							"column-7": 2,
+							"column-8": 1,
+							"column-9": null
+						}
+						,
+						{
+							"category": "HEB",
+							"column-1": 3,
+							"column-2": null,
+							"column-3": null,
+							"column-4": null,
+							"column-5": null,
+							"column-6": null,
+							"column-7": null,
+							"column-8": null,
+							"column-9": null
+						}
+						,
+						{
+							"category": "DUT",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 1,
+							"column-4": null,
+							"column-5": null,
+							"column-6": null,
+							"column-7": null,
+							"column-8": null,
+							"column-9": 3
+						},
+						{
+							"category": "NOR/NON/DAN",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 1,
+							"column-4": null,
+							"column-5": null,
+							"column-6": null,
+							"column-7": 2,
+							"column-8": 1,
+							"column-9": null
+						},
+						{
+							"category": "ARA/ARC/SYR/PER/OTA",
+							"column-1": 1,
+							"column-2": null,
+							"column-3": 1,
+							"column-4": null,
+							"column-5": null,
+							"column-6": 1,
+							"column-7": 1,
+							"column-8": null,
+							"column-9": null
+						},
+						{
+							"category": "SAN/VIE/BEN",
+							"column-1": null,
+							"column-2": null,
+							"column-3": 2,
+							"column-4": null,
+							"column-5": null,
+							"column-6": null,
+							"column-7": 1,
+							"column-8": 1,
+							"column-9": null
+						},
+						{
+							"category": "MIX",
+							"column-1": 6,
+							"column-2": null,
+							"column-3": 4,
+							"column-4": 1,
+							"column-5": 5,
+							"column-6": 1,
+							"column-7": 2,
+							"column-8": 1,
+							"column-9": 1
+						}
+					]
+				}
+			);
+		</script>
+	</head>
+	<body>
+		<h1 style="font-family: Amatic SC; font-size: 40pt;">Catalogue of Digital Editions</h1>
+		<div id="chartdiv" style="width: 100%; height: 400px; background-color: #FFFFFF;" ></div>
+		<p style="font-family: Nunito; font-weight: 300;">This simple stacked bar chart illustrates the distribution of digital editions collected in my <a href="https://github.com/gfranzini/digEds_cat" title="Opens in new tab" target="_blank" style="color: #EC3B83;">Catalogue of Digital Editions</a>. Coloured bars represent the languages of the source texts (abbreviated here to their <a href="https://www.loc.gov/standards/iso639-2/php/code_list.php" title="Opens in new tab" target="_blank" style="color: #EC3B83;">ISO codes</a>). Hovering over any one bar will reveal the exact number of digital editions per time-period and language.<br />
+		Language groups (e.g. ENM/ANG/SGA) were created on the basis of geographic vicinity and/or language similarity. 'MIX' contains digital editions of Welsh, Mayan, Aramaic and other (currently) under-represented languages. The data for these groups is currently so small (as low as 1 edition per language) that creating separate entries would only clutter the visualisation. As the data grows, I hope to be able to create one entry for each and every language.<br />
+		To exclude time-periods from the visualisation, simply click on the legend item you wish to exclude.
+		<br />
+		Other visualisations are planned to illustrate the many other facets of the <em>Catalogue</em>. 
+		<br /><br />
+		Comments and suggestions to this chart are very welcome! Please leave your messages as "issues" in the <em>Catalogue</em>'s <a style="color: #EC3B83;" href="https://github.com/gfranzini/digEds_cat/issues" title="Opens in new tab" target="_blank">GitHub repository</a> and I'll get back to you. Grazie!
+		</p>
+
+
+		<p style="font-family: Amatic SC; font-size: 20pt;">Author: Greta Franzini</p>
+		<p style="font-family: Nunito; font-weight: 300;">Last updated: <strong>2015-12-15</strong>.<br />
+		Number of digital editions catalogued to date: <strong>205</strong>.<br />
+		Chart created with <a href="http://www.amcharts.com/" title="Opens in new tab" target="_blank" style="color: #EC3B83;">amCharts</a>.</p>
+	</body>
+</html>
