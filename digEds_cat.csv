@@ -209,11 +209,14 @@ Early Modern,1715-1728,Les Cours d’Antoine Desgodets,http://www.desgodets.net,
 Early Modern,1599-1656,Digitale Edition und Kommentierung der Tagebücher des Fürsten Christian II. von Anhalt-Bernburg,http://diglib.hab.de/wdb.php?dir=edoc/ed000228&lang=en,1,1,1,1,GER,Manuscript; Notebook,2013,present,Arndt Schreiber; Antoine Odier,Herzog August Bibliothek Wolfenbüttel; Universität Freiburg,,0,1,1,1,1,1,1,0,0,planned,GER,0,0,0,0,1,1.5,0,0,0,0,0,Keyed,1,0,0,Herzog August Bibliothek Wolfenbüttel,Bernburg,DFG,,,N/A,N/A
 Middle Ages,12th,Adl |  Ils. Die Relatio Adelberts von Heidenheim und der Text Ilsungs,http://www.forschungsdatenarchiv.escience.uni-tuebingen.de/adlils/,1,1,1,0,LAT,Manuscript,2014,2016,Christian Schwaderer,University of Tuebingen,Scholars; general public,1,1,1,1,1,1,1,0,0,GER,GER,0,1,1,1,1,1.5,0,0,1,0.5,1,Keyed,0.5,0,0,Dioezesanarchiv Eichstaett,Bayern,Deutsche Forschungsgemeinschaft,€100000,"HTML5, JavaScript, CSS, XSLT 2.0, eXist",N/A,N/A
 Middle Ages,1280-1420,Je chante ung chant,http://jechante.exeter.ac.uk/archive/index.html,1,1,1,0,FRO,Manuscripts,2007,2010,Prof Yolanda Plumley; Giuliano Di Bacco; Dr Tamsyn Rose-Steel; and Gary Stringer,University of Exeter,Scholars,1,1,1,1,1,0,N/A,N/A,N/A,0,ENG,0,0,1,1,0,1.5,0,0,0,1,0,Keyed,0,0,0,Various,,AHRC,,eXist; TEI/XML; XQuery; XSLT; HTML; CSS,N/A,N/A
+<<<<<<< HEAD
 Modern,1890-1954,Einstein Archives Online,http://www.alberteinstein.info/,1,1,0,0,"ENG, GER, FRE, ITA, LAT, HEB, ARA, JPN, HUN, NNO",Manuscripts,2003,2012,Dalia Mendelsson,Hebrew University of Jerusalem; California Institute of Technology,Scholars; general public,N/A,N/A,N/A,N/A,N/A,0.5,0,0,0,ENG,ENG,0,1,1,1,0,0,0,0,1,0,0,N/A,0,0,0,Various,Various,The Polonsky Foundation,,,N/A,N/A
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+=======
+>>>>>>> origin/master
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Historical Period,Time/Century,Edition_ID,URL,Scholarly,Digital,Edition,Prototype,Language,Writing support,Begin date,End date,Manager,Institution(s),Audience,Philological statement,Account of textual variance,Value of witnesses,XML-TEI Transcription,XML-TEI available to download,Images,Zoom images,"Image manipulation (brightness, saturation, etc.)",Text-Image Linking,Source Text Translation,Website language,Glossary,Indices,String matching,Advanced search,Creative Commons License,Open source/Open access,Linked Open Data,Crowdsourcing,Feedback,Technological statement,Links to ext. resources,OCR or keyed?,Mobile compatibility/application,Print-friendly view,Print facsimile (complementary output),Manuscript(s') repository,Manuscript place of origin,Sponsor/Funding body,Budget (rough),Infrastructure,CDROM: Easy to access?,CDROM: Cost
