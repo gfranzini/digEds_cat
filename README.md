@@ -10,5 +10,7 @@ More information:
 * [How to contribute to the Catalogue?](https://github.com/gfranzini/digEds_cat/wiki/Contribute)
 * [Editions to be added to the Catalogue](https://github.com/gfranzini/digEds_cat/issues)
 
+The [Austrian Centre for Digital Humanities](https://acdh.oeaw.ac.at/acdh/) is currently developing a [web application](https://github.com/acdh-oeaw/dig_ed_cat) to better browse the data contained in this Catalogue.
+
 The [RIDE Journal for Digital Editions and Resources](http://ride.i-d-e.de/) publishes reviews of digital editions (German and English).
 
