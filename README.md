@@ -1,4 +1,4 @@
-![Catalogue_logo](https://github.com/gfranzini/digEds_cat/blob/master/logo_white_GF.png)
+![Catalogue_logo](https://github.com/gfranzini/digEds_cat/blob/master/DigEds_Cat_small.png)
 
 This research seeks to examine best practice in the field of digital editions by collating relevant evidence in a detailed catalogue of extant digital projects. The editions included in the Catalogue come from numerous sources and their selection follows basic criteria: the electronic texts can be ongoing or complete projects, born-digital editions or electronic reproductions of print volumes.
 
