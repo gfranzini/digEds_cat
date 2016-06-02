@@ -12,6 +12,10 @@ As of 2016, the [Austrian Centre for Digital Humanities](https://acdh.oeaw.ac.at
 
 The [RIDE Journal for Digital Editions and Resources](http://ride.i-d-e.de/) publishes reviews of digital editions (German and English).
 
+<h4>Citing the Catalogue</h4>
+I greatly appreciate you citing the Catalogue! Depending on the citation style you need, you could adapt the following:<br />
+Franzini, G. (2016) <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;
+
 <hr />
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Catalogue of Digital Editions</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/gfranzini/digEds_cat" property="cc:attributionName" rel="cc:attributionURL">Greta Franzini</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/gfranzini/digEds_cat" rel="dct:source">https://github.com/gfranzini/digEds_cat</a>.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Catalogue of Digital Editions</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gretafranzini.com" property="cc:attributionName" rel="cc:attributionURL">Greta Franzini</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/gfranzini/digEds_cat" rel="dct:source">https://github.com/gfranzini/digEds_cat</a>.</p>
