@@ -8,9 +8,6 @@ More information:
 * [How to contribute to the Catalogue?](https://github.com/gfranzini/digEds_cat/wiki/Contribute)
 * [Editions to be added to the Catalogue](https://github.com/gfranzini/digEds_cat/issues)
 
-As of 2016, the [Austrian Centre for Digital Humanities](https://acdh.oeaw.ac.at/acdh/) is developing a [web application](https://github.com/acdh-oeaw/dig_ed_cat) for an interactive and user-friendly experience of the Catalogue.
-
-The [RIDE Journal for Digital Editions and Resources](http://ride.i-d-e.de/) publishes reviews of digital editions (German and English).
 
 <h4>Citing the Catalogue</h4>
 I greatly appreciate you citing the Catalogue! Depending on the citation style you need, you could adapt the following:<br />
