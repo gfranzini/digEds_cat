@@ -15,13 +15,13 @@ University of Calgary,51.078164,-114.135796,Canada
 Rutgers University New Brunswick,40.501683,-74.448084,Canada
 Memorial University of Newfoundland,47.5717,-52.7324,Canada
 University of Zagreb,45.8113,15.97,Croatia
-University of Copenhagen,55685,12573,Denmark
+University of Copenhagen,55.685,12.573,Denmark
 St. Catherine's Monastery,28.555934,33.976037,Egypt
 Svenska Litteratursällskapet,60.170814,24.955789,Finland
-Université Sorbonne Nouvelle - Paris 3,48.83997,2354,France
-École Normale Supérieure de Lyon,45736,4833,France
+Université Sorbonne Nouvelle - Paris 3,48.83997,2.354,France
+École Normale Supérieure de Lyon,45.736,4.833,France
 CNRS (Institut de recherche et d’histoire des textes),48.84762,2.26395,France
-CNRS (Centre national de la recherche scientifique),48848,2.2641,France
+CNRS (Centre national de la recherche scientifique),48.848,2.2641,France
 Bibliothèque Nationale de France,48.833604,2.375763,France
 University of Münster (Institute for New Testament Textual Research),51.96148,7.6237,Germany
 University of Göttingen,51.5434,9.9358,Germany
@@ -42,7 +42,7 @@ Indian Ministry of Culture,28.6162,77.2158,India
 University College Dublin,53.307297,-6.21907,Ireland
 Royal Irish Academy,53.3413,-6.2581,Ireland
 National University of Ireland,53.2798,-9.0581,Ireland
-Università degli Studi di Torino,45076,7.69,Italy
+Università degli Studi di Torino,45.076,7.69,Italy
 Università degli Studi di Siena ad Arezzo,43.4623,11.8734,Italy
 Università degli Studi di Roma La Sapienza,41.9004,12.5125,Italy
 Università degli Studi di Pavia,45.1979,9.1728,Italy
@@ -71,7 +71,7 @@ University of Bern,46.9547,7.4305,Switzerland
 University of Basel,47.5589,7.5835,Switzerland
 Swiss Lawyers Society,46.948063,7.447138,Switzerland
 Stiftsbibliothek St. Gallen,47.423144,9.376729,Switzerland
-University of Swansea,51615,-3977,United Kingdom
+University of Swansea,51.615,-3.977,United Kingdom
 University of Sussex,50.8683,-0.0874,United Kingdom
 University of Southampton,50.9375,-1.3969,United Kingdom
 University of Sheffield,53.3807,-1.4829,United Kingdom
@@ -81,9 +81,9 @@ University of Nottingham,52.938634,-1.195158,United Kingdom
 University of Liverpool,53.405926,-2.965583,United Kingdom
 University of Leicester,52.6274,-1.1223,United Kingdom
 University of Hull,53.7718,-0.3673,United Kingdom
-University of Edinburgh,55951,-3191,United Kingdom
+University of Edinburgh,5.5951,-3.191,United Kingdom
 University of Durham,54.764995,-1.578203,United Kingdom
-University of Cambridge,52206,0.1167,United Kingdom
+University of Cambridge,52.206,0.1167,United Kingdom
 University of Birmingham,52.4511,-1.9305,United Kingdom
 University of Aberdeen,57.1683,-2.1061,United Kingdom
 University College London,51.524124,-0.134133,United Kingdom
@@ -96,26 +96,26 @@ London Library,51.507331,-0.136694,United Kingdom
 Leeds Metropolitan University,55.94542,-3.19115,United Kingdom
 King's College London (DDH),51.51501,-0.12282,United Kingdom
 Keele University,53.003441,-2.272032,United Kingdom
-Cardiff University,51489,-3.1789,United Kingdom
-British Library,51.529975,-0.127697,United Kingdom
+Cardiff University,51.489,-3.1789,United Kingdom
+British Library,51.9975,-0.127697,United Kingdom
 British Academy,51.506626,-0.130627,United Kingdom
 Bodleian Library,51.7549,-1.2544,United Kingdom
 Birkbeck College,51.521927,-0.130204,United Kingdom
 University of Washington,47.6608,-122.3167,USA
 University of Virginia,38.0369,-78.5028,USA
 University of Victoria,48.4661,-123.3125,USA
-University of Pennsylvania,40756,-73.9816,USA
+University of Pennsylvania,40.756,-73.9816,USA
 University of Oregon,44.04483,-123.072606,USA
 University of North Carolina,35.904917,-79.046881,USA
 University of Nebraska,40.816929,-96.702476,USA
-University of Maryland,38995,-76.95,USA
+University of Maryland,38.995,-76.95,USA
 University of Kentucky,38.0368,-84.5053,USA
 University of Chicago Library,41.792179,-87.59993,USA
 "University of California, Irvine",33.6506,-117.8425,USA
 University of California,37.8773,-122.2451,USA
-Texas A&M University,30613,-96349,USA
+Texas A&M University,30.613,-96.349,USA
 Southeastern Lousiana University,30.51933,-90.469962,USA
-Society of Biblical Literature,33805,-84.32,USA
+Society of Biblical Literature,33.805,-84.32,USA
 Rutgers University,,,USA
 Roy Rosenzweig Center for History and New Media (George Mason University),38.83323,-77.3082,USA
 Princeton University,40.343985,-74.651459,USA
@@ -125,7 +125,7 @@ Maryland Institute of Technology in the Humanities (MITH),38.98597,-76.94505,USA
 Loyola University Chicago,41.999803,-87.658218,USA
 Harry Ransom Humanities Research Center,30.284362,-97.741263,USA
 Getty Research Institute,34.076908,-118.475506,USA
-Folger Shakespeare Library,38.8899,-77003,USA
+Folger Shakespeare Library,38.8899,-77.003,USA
 Brown University,41.82639,-71.40021,USA
 Bowling Green State University,41.3771,-83.6266,USA
 Arizona State University,33.6094,-112.1597,USA
