@@ -12,6 +12,8 @@ More information:
 The <em>Catalogue</em>'s home institution -that is, where it all began- is the UCL Centre for Digital Humanities.
 <a href="https://www.ucl.ac.uk/dh" title="Opens in new tab" target="_blank"><img src="https://www.ucl.ac.uk/dh/images/buttons/ucldh-234x60-palette.png"></a>
 
+A list of all UCLDH research projects is available <a href="http://www.ucl.ac.uk/dh/projects" target="blank" title="Opens in new tab">here</a>. 
+
 <h4>Citing the Catalogue</h4>
 I greatly appreciate you citing the <em>Catalogue</em>! Depending on the citation style you need, you could adapt the following:<br />
 Franzini, G. (2016) <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;
