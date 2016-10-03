@@ -1,8 +1,4 @@
 Institution_ID,Latitude,Longitude,Country
-Estate of Samuel Beckett,,,
-Emunch,,,
-Bokselskap,,,
-American Council of Learned Societies,,,
 National Museum of Australia,-35.2917,149.1195,Australia
 National Library of Australia,-35.296624,149.129825,Australia
 Stiftung Mozarteum Salzburg,47.803503,13.041992,Austria
@@ -18,12 +14,15 @@ University of Zagreb,45.810570,15.969784,Croatia
 University of Copenhagen,55.680205,12.572393,Denmark
 St. Catherine's Monastery,28.555934,33.976037,Egypt
 Svenska Litteratursällskapet,60.170814,24.955789,Finland
+Université Bordeaux Montaigne,44.795414,-0.616322,France
 Université Sorbonne Nouvelle - Paris 3,48.839804,2.353901,France
+Université Jean Monnet Saint-Etienne,45.427167,4.387831,France
 École Normale Supérieure de Lyon,45.729835,4.826922,France
 CNRS (Institut de recherche et d’histoire des textes),48.84762,2.26395,France
 CNRS (Centre national de la recherche scientifique),48.847597,2.264004,France
 Bibliothèque Nationale de France,48.833604,2.375763,France
 Université Lumière Lyon 2,45.750736,4.837229,France
+Université de Montpellier 3,43.631575,3.870542,France
 University of Münster (Institute for New Testament Textual Research),51.96148,7.6237,Germany
 University of Göttingen,51.5434,9.9358,Germany
 University of Augsburg,48.3351,10.8973,Germany
@@ -39,11 +38,13 @@ Bayerische Staatsbibliothek,48.1478,11.5802,Germany
 Akademie der Wissenschaften und der Literatur Mainz,49.9945,8.2672,Germany
 Goethe Universität Frankfurt Am Main,50.120557,8.653013,Germany
 Universität Freiburg,47.994875,7.846739,Germany
+Ludwig-Maximilians-Universität München,48.150857,11.581044,Germany
 University of Szeged,47.680226,16.577958,Hungary
 Indian Ministry of Culture,28.6162,77.2158,India
 University College Dublin,53.307297,-6.21907,Ireland
 Royal Irish Academy,53.3413,-6.2581,Ireland
 National University of Ireland,53.2798,-9.0581,Ireland
+The Hebrew University of Jerusalem,31.794558,35.241395,Israel
 Università degli Studi di Torino,45.069437,7.688894,Italy
 Università degli Studi di Genova,44.414918,8.926728,Italy
 Università degli Studi di Siena ad Arezzo,43.4623,11.8734,Italy
@@ -54,9 +55,10 @@ Università di Pisa,43.716729,10.398863,Italy
 Società Dantesca Italiana,43.7714,11.2551,Italy
 Fondazione Niccolò Canussio,46.0957,13.4291,Italy
 British School at Rome,41.918599,12.481349,Italy
-Archivio di Stato di Prato,43.98,11.1,Italy
+Archivio di Stato di Prato,43.880170,11.095440,Italy
 European University Institute,43.803081,11.282946,Italy
 Department of Antiquities,,,Libya
+Centrum voor Teksteditie en Bronnenstudie,51.055485,3.72795,Netherlands
 University of Utrecht,52.090151,5.122598,Netherlands
 Nationaal Archief,52.080727,4.326424,Netherlands
 Huygens ING,52.081982,4.326968,Netherlands
@@ -66,7 +68,11 @@ National Library of Norway,59.9148,10.7174,Norway
 University of Warsaw,52.240339,21.018698,Poland
 Staatsarchive Lodz,51.776188,19.454555,Poland
 Narodowy Instytut Fryderyka Chopina,52.236427,21.022191,Poland
+National Library in Warsaw,52.213661,21.003452,Poland
 National Library of Russia,59.933558,30.335748,Russia
+Russian Academy of Sciences,55.710790,37.577826,Russia
+The State Hermitage,59.939832,30.314562,Russia
+National and University Library in Ljubljana,46.04752,14.503966,Slovenia
 University of Alcalá,40.482472,-3.362865,Spain
 Universitat de Barcelona,41.3872,2.1637,Spain
 Biblioteca Nacional de España,40.42394,-3.6902,Spain
@@ -77,6 +83,7 @@ University of Bern,46.9547,7.4305,Switzerland
 University of Basel,47.5589,7.5835,Switzerland
 Swiss Lawyers Society,46.948063,7.447138,Switzerland
 Stiftsbibliothek St. Gallen,47.423144,9.376729,Switzerland
+Estate of Samuel Beckett,51.509627,-0.132562,United Kingdom
 University of Swansea,51.608696,-3.979953,United Kingdom
 University of Sussex,50.8683,-0.0874,United Kingdom
 University of Southampton,50.9375,-1.3969,United Kingdom
@@ -100,13 +107,15 @@ Queen Mary University,51.5248,-0.0385,United Kingdom
 National Library of Scotland,55.9483,-3.1918,United Kingdom
 London Library,51.507331,-0.136694,United Kingdom
 Leeds Metropolitan University,55.94542,-3.19115,United Kingdom
-King's College London (DDH),51.51501,-0.12282,United Kingdom
+King's College London (Department of Digital Humanities),51.51501,-0.12282,United Kingdom
+King’s College London (Department of Classics),51.512091,-0.116056,United Kingdom
 Keele University,53.003441,-2.272032,United Kingdom
 Cardiff University,51.486629,-3.178873,United Kingdom
 British Library,51.9975,-0.127697,United Kingdom
 British Academy,51.506626,-0.130627,United Kingdom
 Bodleian Library,51.7549,-1.2544,United Kingdom
 Birkbeck College,51.521927,-0.130204,United Kingdom
+Canterbury Christ Church University,51.277936,1.090671,United Kingdom
 University of Washington,47.6608,-122.3167,USA
 University of Virginia,38.0369,-78.5028,USA
 University of Victoria,48.4661,-123.3125,USA
@@ -117,7 +126,7 @@ University of Nebraska,40.816929,-96.702476,USA
 University of Maryland,38.986931,-76.942555,USA
 University of Kentucky,38.0368,-84.5053,USA
 University of Chicago Library,41.792179,-87.59993,USA
-"University of California, Irvine",33.6506,-117.8425,USA
+University of California Irvine,33.6506,-117.8425,USA
 University of California,37.8773,-122.2451,USA
 Texas A&M University,30.613301,-96.339906,USA
 Southeastern Lousiana University,30.51933,-90.469962,USA
@@ -136,10 +145,11 @@ Brown University,41.82639,-71.40021,USA
 Bowling Green State University,41.3771,-83.6266,USA
 Arizona State University,33.6094,-112.1597,USA
 California Institute of Technology,34.137657,-118.125291,USA
-Ludwig-Maximilians-Universität München,48.150857,11.581044,Germany
-Canterbury Christ Church University,51.277936,1.090671,United Kingdom
 University of Ohio,39.324446,-82.101417,USA
 University of California Santa Barbara,34.413936,-119.848979,USA
-The Hebrew University of Jerusalem,31.794558,35.241395,Israel
 University of Michigan,42.27804,-83.738239,USA
 Intelex Corporation,38.030571,-78.481133,USA
+Department of Slavic Languages and Literatures at University of Pittsburgh,40.444269,-79.953289,USA
+Emunch,,,
+Bokselskap,,,
+American Council of Learned Societies,40.749655,-73.974965,USA
