@@ -4,7 +4,7 @@ Emunch,,,
 Bokselskap,,,
 American Council of Learned Societies,,,
 National Museum of Australia,-35.2917,149.1195,Australia
-National Library of Australia,35.2961,149.13,Australia
+National Library of Australia,-35.296624,149.129825,Australia
 Stiftung Mozarteum Salzburg,47.803503,13.041992,Austria
 Österreichische Nationalbibliothek,48.205432,16.365011,Austria
 Universidad del País Vasco,43.331825,-2.97303,Basque Country
@@ -14,7 +14,7 @@ University of New Brunswick,45.9462,-66.6406,Canada
 University of Calgary,51.078164,-114.135796,Canada
 Rutgers University New Brunswick,40.501683,-74.448084,Canada
 Memorial University of Newfoundland,47.5717,-52.7324,Canada
-University of Zagreb,45.8113,15.97,Croatia
+University of Zagreb,45.810570,15.969784,Croatia
 University of Copenhagen,55.680205,12.572393,Denmark
 St. Catherine's Monastery,28.555934,33.976037,Egypt
 Svenska Litteratursällskapet,60.170814,24.955789,Finland
@@ -38,20 +38,24 @@ Berlin-Brandenburgische Akademie der Wissenschaften,52.51407,13.39422,Germany
 Bayerische Staatsbibliothek,48.1478,11.5802,Germany
 Akademie der Wissenschaften und der Literatur Mainz,49.9945,8.2672,Germany
 Goethe Universität Frankfurt Am Main,50.120557,8.653013,Germany
+Universität Freiburg,47.994875,7.846739,Germany
 University of Szeged,47.680226,16.577958,Hungary
 Indian Ministry of Culture,28.6162,77.2158,India
 University College Dublin,53.307297,-6.21907,Ireland
 Royal Irish Academy,53.3413,-6.2581,Ireland
 National University of Ireland,53.2798,-9.0581,Ireland
 Università degli Studi di Torino,45.069437,7.688894,Italy
+Università degli Studi di Genova,44.414918,8.926728,Italy
 Università degli Studi di Siena ad Arezzo,43.4623,11.8734,Italy
 Università degli Studi di Roma La Sapienza,41.9004,12.5125,Italy
 Università degli Studi di Pavia,45.1979,9.1728,Italy
 Università degli Studi di Bergamo,45.704445,9.660292,Italy
+Università di Pisa,43.716729,10.398863,Italy
 Società Dantesca Italiana,43.7714,11.2551,Italy
 Fondazione Niccolò Canussio,46.0957,13.4291,Italy
 British School at Rome,41.918599,12.481349,Italy
 Archivio di Stato di Prato,43.98,11.1,Italy
+European University Institute,43.803081,11.282946,Italy
 Department of Antiquities,,,Libya
 University of Utrecht,52.090151,5.122598,Netherlands
 Nationaal Archief,52.080727,4.326424,Netherlands
@@ -66,6 +70,7 @@ National Library of Russia,59.933558,30.335748,Russia
 University of Alcalá,40.482472,-3.362865,Spain
 Universitat de Barcelona,41.3872,2.1637,Spain
 Biblioteca Nacional de España,40.42394,-3.6902,Spain
+Real Biblioteca del Palacio Real de Madrid,40.417962,-3.714300,Spain
 University of Zürich,47.3749,8.5489,Switzerland
 University of Fribourg,46.806253,7.151837,Switzerland
 University of Bern,46.9547,7.4305,Switzerland
@@ -117,7 +122,7 @@ University of California,37.8773,-122.2451,USA
 Texas A&M University,30.613301,-96.339906,USA
 Southeastern Lousiana University,30.51933,-90.469962,USA
 Society of Biblical Literature,33.801862,-84.320123,USA
-Rutgers University,,,USA
+Rutgers University,40.500886,-74.447373,USA
 Roy Rosenzweig Center for History and New Media (George Mason University),38.83323,-77.3082,USA
 Princeton University,40.343985,-74.651459,USA
 Northwestern University Library,42.0537,-87.6733,USA
@@ -130,7 +135,11 @@ Folger Shakespeare Library,38.889369,-77.002748,USA
 Brown University,41.82639,-71.40021,USA
 Bowling Green State University,41.3771,-83.6266,USA
 Arizona State University,33.6094,-112.1597,USA
+California Institute of Technology,34.137657,-118.125291,USA
 Ludwig-Maximilians-Universität München,48.150857,11.581044,Germany
 Canterbury Christ Church University,51.277936,1.090671,United Kingdom
 University of Ohio,39.324446,-82.101417,USA
 University of California Santa Barbara,34.413936,-119.848979,USA
+The Hebrew University of Jerusalem,31.794558,35.241395,Israel
+University of Michigan,42.27804,-83.738239,USA
+Intelex Corporation,38.030571,-78.481133,USA
