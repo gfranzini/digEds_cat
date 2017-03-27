@@ -1,162 +1,162 @@
-Institution Name;Institution GND;Institution Lat;Institution Lng;located at;location geonames ID;location Lat;location Lng;part of;type of location
-National Museum of Australia;http://d-nb.info/gnd/4439156-0;-35.291700000000;149.119500000000;Canberra;2172517;-35.283460000000;149.128070000000;Australia;city
-National Library of Australia;http://d-nb.info/gnd/5118704-8;-35.296624000000;149.129825000000;Parkes;8555700;-35.301770000000;149.130410000000;Australia;city
-Stiftung Mozarteum Salzburg;http://d-nb.info/gnd/16271979-6;47.803503000000;13.041992000000;Andräviertel;6941547;47.805230000000;13.040860000000;Austria;city
-Österreichische Nationalbibliothek;http://d-nb.info/gnd/2050296-5;48.205432000000;16.365011000000;Innere Stadt;2775260;48.209060000000;16.371350000000;Austria;city
-Universidad del País Vasco;http://d-nb.info/gnd/2138252-9;43.331825000000;-2.973030000000;Santsoena;3110032;43.333980000000;-2.974090000000;Spain;city
-University of Antwerp;http://d-nb.info/gnd/5017340-6;51.164100000000;4.406600000000;Kerkeveld;2794549;51.166670000000;4.400000000000;Belgium;city
-Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal);;51.055800000000;3.728100000000;Binnenstad;11352054;51.053740000000;3.725490000000;Belgium;city
-University of New Brunswick;http://d-nb.info/gnd/11143-0;45.946200000000;-66.640600000000;Barkers Point;5893060;45.951650000000;-66.623390000000;Canada;city
-University of Calgary;http://d-nb.info/gnd/3003635-5;51.078164000000;-114.135796000000;Montgomery;6077007;51.075110000000;-114.164490000000;Canada;city
-Rutgers University New Brunswick;http://d-nb.info/gnd/1041483309;40.501683000000;-74.448084000000;New Brunswick;5101717;40.486220000000;-74.451820000000;United States;city
-Memorial University of Newfoundland;http://d-nb.info/gnd/16156656-X;47.571700000000;-52.732400000000;Sand Pits;6140443;47.566590000000;-52.731340000000;Canada;city
-University of Zagreb;http://d-nb.info/gnd/1014349-X;45.810570000000;15.969784000000;Britanski trg;6618988;45.812840000000;15.964970000000;Croatia;city
-University of Copenhagen;http://d-nb.info/gnd/36485-X;55.680205000000;12.572393000000;Inner City;6949461;55.676100000000;12.568300000000;Denmark;city
-St. Catherine's Monastery;;28.555934000000;33.976037000000;Saint Catherine;8521413;28.561910000000;33.949340000000;Egypt;city
-Svenska Litteratursällskapet;http://d-nb.info/gnd/1005799-7;60.170814000000;24.955789000000;Kruununhaka;650744;60.171740000000;24.956600000000;Finland;city
-Université Bordeaux Montaigne;;44.795414000000;-0.616322000000;Talence;2973495;44.804770000000;-0.595430000000;France;city
-Université Sorbonne Nouvelle - Paris 3;http://d-nb.info/gnd/1020917-7;48.839804000000;2.353901000000;Paris 12 Ancien - Quartier Saint-Marcel;9843572;48.837100000000;2.357000000000;France;city
-Université Jean Monnet Saint-Etienne;http://d-nb.info/gnd/3056310-0;45.427167000000;4.387831000000;Saint-Etienne;2980291;45.433890000000;4.390000000000;France;city
-École Normale Supérieure de Lyon;http://d-nb.info/gnd/5130846-0;45.729835000000;4.826922000000;La Mouche;3007992;45.735680000000;4.833140000000;France;city
-CNRS (Institut de recherche et d’histoire des textes);;48.847620000000;2.263950000000;Auteuil;6545275;48.846940000000;2.263660000000;France;city
-CNRS (Centre national de la recherche scientifique);;48.847597000000;2.264004000000;Auteuil;6545275;48.846940000000;2.263660000000;France;city
-Bibliothèque Nationale de France;http://d-nb.info/gnd/1080038-4;48.833604000000;2.375763000000;Austerlitz;6545265;48.832660000000;2.367940000000;France;city
-Université Lumière Lyon 2;http://d-nb.info/gnd/5098102-X;45.750736000000;4.837229000000;Lyon 02;6543968;45.754230000000;4.830890000000;France;city
-Université de Montpellier 3;;43.631575000000;3.870542000000;Castelnau-le-Lez;3028337;43.633330000000;3.900000000000;France;city
-Institute for the History of German Jews;http://d-nb.info/gnd/2013616-X;53.569799000000;9.975629000000;Eimsbüttel;2911293;53.566670000000;9.983330000000;Germany;city
-University of Münster (Institute for New Testament Textual Research);;51.961480000000;7.623700000000;Münster;2867543;51.962360000000;7.625710000000;Germany;city
-University of Göttingen;http://d-nb.info/gnd/1044306068;51.543400000000;9.935800000000;Göttingen;2918632;51.534430000000;9.932280000000;Germany;city
-University of Augsburg;http://d-nb.info/gnd/7871-2;48.335100000000;10.897300000000;Göggingen;2919525;48.337460000000;10.864820000000;Germany;city
-Universität Würzburg;http://d-nb.info/gnd/36189-6;49.782700000000;9.967700000000;Wurzburg;2805615;49.793910000000;9.951210000000;Germany;city
-Universität Tübingen;http://d-nb.info/gnd/36187-2;48.529478000000;9.043770000000;Tübingen;2820860;48.522660000000;9.052220000000;Germany;city
-Universität Trier;http://d-nb.info/gnd/2153481-0;49.745762000000;6.688459000000;Tarforst;2823992;49.741570000000;6.691960000000;Germany;city
-Südwest-Rundfunk Tübingen;;48.522776000000;9.066659000000;Tübingen;2820860;48.522660000000;9.052220000000;Germany;city
-Leipzig University Library;;51.332497000000;12.368185000000;Leipzig;2879139;51.339620000000;12.371290000000;Germany;city
-Herzog August Bibliothek Wolfenbüttel;http://d-nb.info/gnd/1072988283;52.164700000000;10.530400000000;Auguststadt;2954132;52.163960000000;10.524690000000;Germany;city
-Heinrich-Heine-Institut Düsseldorf;http://d-nb.info/gnd/2062050-0;51.222277000000;6.772870000000;Dusseldorf;2934246;51.221720000000;6.776160000000;Germany;city
-Berlin-Brandenburgische Akademie der Wissenschaften;http://d-nb.info/gnd/2131094-4;52.514070000000;13.394220000000;Friedrichswerder;8379171;52.515650000000;13.397700000000;Germany;city
-Bayerische Staatsbibliothek;http://d-nb.info/gnd/2068538-5;48.147800000000;11.580200000000;Maxvorstadt;6940468;48.147020000000;11.569030000000;Germany;city
-Akademie der Wissenschaften und der Literatur Mainz;http://d-nb.info/gnd/16325235-X;49.994500000000;8.267200000000;Mainz-Oberstadt;8128529;49.986250000000;8.264470000000;Germany;city
-Goethe Universität Frankfurt Am Main;http://d-nb.info/gnd/35074-6;50.120557000000;8.653013000000;Bockenheim;2947354;50.124980000000;8.645380000000;Germany;city
-Universität Freiburg;http://d-nb.info/gnd/2038600-X;47.994875000000;7.846739000000;Freiburg;2925177;47.995900000000;7.852220000000;Germany;city
-Ludwig-Maximilians-Universität München;http://d-nb.info/gnd/2002585-3;48.150857000000;11.581044000000;Maxvorstadt;6940468;48.147020000000;11.569030000000;Germany;city
-SUB Göttingen;;51.533836000000;9.932205000000;Göttingen;2918632;51.534430000000;9.932280000000;Germany;city
-Bildarchiv Foto Marburg;http://d-nb.info/gnd/4655897-4;50.809739000000;8.774703000000;Marburg;2873759;50.809040000000;8.770690000000;Germany;city
-University of Szeged;http://d-nb.info/gnd/35684-0;47.680226000000;16.577958000000;Lővérek;8063078;47.674920000000;16.575280000000;Hungary;city
-Indian Ministry of Culture;;28.616200000000;77.215800000000;AB2 Pandara Road;11205650;28.605700000000;77.231030000000;India;city
-University College Dublin;http://d-nb.info/gnd/5283001-9;53.307297000000;-6.219070000000;Belfield;6691005;53.310650000000;-6.220660000000;Ireland;city
-Royal Irish Academy;http://d-nb.info/gnd/37842-2;53.341300000000;-6.258100000000;Stephen's Green;6690997;53.339820000000;-6.260320000000;Ireland;city
-National University of Ireland;http://d-nb.info/gnd/260703-7;53.279800000000;-9.058100000000;Shancroagh;3312398;53.283890000000;-9.046670000000;Ireland;city
-University College Cork;http://d-nb.info/gnd/260719-0;51.892008000000;-8.493452000000;The Lough;7869985;51.890640000000;-8.488400000000;Ireland;city
-The Hebrew University of Jerusalem;http://d-nb.info/gnd/2023678-5;31.794558000000;35.241395000000;Nayot;9204036;31.795890000000;35.245170000000;Palestine;city
-Università degli Studi di Torino;http://d-nb.info/gnd/262196-4;45.069437000000;7.688894000000;Turin;3165524;45.070490000000;7.686820000000;Italy;city
-Università degli Studi di Genova;http://d-nb.info/gnd/16007089-2;44.414918000000;8.926728000000;Castelletto;7603217;44.412630000000;8.933020000000;Italy;city
-Università degli Studi di Siena ad Arezzo;;43.462300000000;11.873400000000;Arezzo;3182884;43.462760000000;11.880680000000;Italy;city
-Università degli Studi di Roma La Sapienza;http://d-nb.info/gnd/5049421-1;41.900400000000;12.512500000000;Esquilino;6545157;41.899310000000;12.513900000000;Italy;city
-Università degli Studi di Pavia;http://d-nb.info/gnd/40464-0;45.197900000000;9.172800000000;Pavia;3171366;45.192050000000;9.159170000000;Italy;city
-Università degli Studi di Bergamo;http://d-nb.info/gnd/1057906557;45.704445000000;9.660292000000;Bergamo;3182164;45.696010000000;9.667210000000;Italy;city
-Università di Pisa;http://d-nb.info/gnd/5007653-X;43.716729000000;10.398863000000;Pisa;3170647;43.708530000000;10.403600000000;Italy;city
-Società Dantesca Italiana;http://d-nb.info/gnd/1018004-7;43.771400000000;11.255100000000;Florence;3176959;43.779250000000;11.246260000000;Italy;city
-Fondazione Niccolò Canussio;http://d-nb.info/gnd/5526415-3;46.095700000000;13.429100000000;Cividale del Friuli;3178605;46.090190000000;13.428610000000;Italy;city
-British School at Rome;http://d-nb.info/gnd/1009986-4;41.918599000000;12.481349000000;Pinciano;7521561;41.911510000000;12.479350000000;Italy;city
-Archivio di Stato di Prato;;43.880170000000;11.095440000000;Prato;3169921;43.880500000000;11.096990000000;Italy;city
-European University Institute;http://d-nb.info/gnd/1228587-0;43.803081000000;11.282946000000;Ponte alla Badia;8956573;43.803900000000;11.279700000000;Italy;city
-Scuola Normale Superiore di Pisa;;43.719591000000;10.400328000000;Pisa;3170647;43.708530000000;10.403600000000;Italy;city
-Èulogos S.p.A.;;41.933631000000;12.537019000000;Monte Sacro;3169706;41.933330000000;12.533330000000;Italy;city
-Istituto di Linguistica Computazionale (ILC);;43.719255000000;10.423982000000;Al Simonelli Ovest;8963995;43.730690000000;10.430370000000;Italy;city
-Archivio Storico della Pontificia Università Gregoriana;;41.899002000000;12.484645000000;Pigna;6545151;41.896350000000;12.484630000000;Italy;city
-Istituto di Informatica e Telematica (IIT);;43.719250000000;10.423993000000;Al Simonelli Ovest;8963995;43.730690000000;10.430370000000;Italy;city
-Centrum voor Teksteditie en Bronnenstudie;http://d-nb.info/gnd/10082555-2;51.055485000000;3.727950000000;Binnenstad;11352054;51.053740000000;3.725490000000;Belgium;city
-University of Utrecht;http://d-nb.info/gnd/5570633-2;52.090151000000;5.122598000000;Utrecht;2745912;52.090830000000;5.122220000000;Netherlands;city
-Nationaal Archief;http://d-nb.info/gnd/10041732-2;52.080727000000;4.326424000000;Het Spuikwartier;2754207;52.083330000000;4.316670000000;Netherlands;city
-Huygens ING;http://d-nb.info/gnd/16344478-X;52.081982000000;4.326968000000;Het Spuikwartier;2754207;52.083330000000;4.316670000000;Netherlands;city
-University of Wellington;http://d-nb.info/gnd/5045706-8;-41.289230000000;174.767700000000;Kelburn;2188922;-41.283330000000;174.766670000000;New Zealand;city
-University of Oslo;http://d-nb.info/gnd/1013645-9;59.940500000000;10.720900000000;Blindern;3160966;59.937430000000;10.718190000000;Norway;city
-National Library of Norway;http://d-nb.info/gnd/2165809-2;59.914800000000;10.717400000000;Frogner;6940545;59.919240000000;10.708920000000;Norway;city
-University of Warsaw;http://d-nb.info/gnd/1023111403;52.240339000000;21.018698000000;Powiśle;761340;52.238340000000;21.028390000000;Poland;city
-Staatsarchive Lodz;;51.776188000000;19.454555000000;Osiedle Katedralna;8426307;51.775290000000;19.455030000000;Poland;city
-Narodowy Instytut Fryderyka Chopina;http://d-nb.info/gnd/6123664-0;52.236427000000;21.022191000000;Powiśle;761340;52.238340000000;21.028390000000;Poland;city
-University of Wrocław;;51.114011000000;17.034477000000;Stare Miasto;8425992;51.110340000000;17.037140000000;Poland;city
-National Library in Warsaw;;52.213661000000;21.003452000000;Filtry;8425839;52.218780000000;20.996550000000;Poland;city
-National Library of Russia;http://d-nb.info/gnd/3020410-0;59.933558000000;30.335748000000;Saint Petersburg;498817;59.938630000000;30.314130000000;Russia;city
-Russian Academy of Sciences;http://d-nb.info/gnd/5052646-7;55.710790000000;37.577826000000;Novyye Cherëmushki;517161;55.700000000000;37.583330000000;Russia;city
-The State Hermitage;http://d-nb.info/gnd/1027089429;59.939832000000;30.314562000000;Saint Petersburg;498817;59.938630000000;30.314130000000;Russia;city
-National and University Library in Ljubljana;;46.047520000000;14.503966000000;Ljubljana;3196359;46.051080000000;14.505130000000;Slovenia;city
-University of Alcalá;;40.482472000000;-3.362865000000;Alcalá de Henares;3130616;40.482050000000;-3.359960000000;Spain;city
-Universitat de Barcelona;http://d-nb.info/gnd/42050-5;41.387200000000;2.163700000000;Eixample;6544100;41.388960000000;2.161790000000;Spain;city
-Biblioteca Nacional de España;http://d-nb.info/gnd/1027025-5;40.423940000000;-3.690200000000;Serrano;6545087;40.426400000000;-3.687610000000;Spain;city
-Real Biblioteca del Palacio Real de Madrid;;40.417962000000;-3.714300000000;Opera;6545088;40.418280000000;-3.708810000000;Spain;city
-University of Zürich;http://d-nb.info/gnd/6109294-0;47.374900000000;8.548900000000;Zürich (Kreis 1) / Rathaus;6295483;47.371610000000;8.545010000000;Switzerland;city
-University of Fribourg;http://d-nb.info/gnd/1068116757;46.806253000000;7.151837000000;Fribourg;2660718;46.802370000000;7.151280000000;Switzerland;city
-University of Bern;http://d-nb.info/gnd/2023768-6;46.954700000000;7.430500000000;Bern / Engehalde;2660903;46.960100000000;7.438430000000;Switzerland;city
-University of Basel;http://d-nb.info/gnd/36146-X;47.558900000000;7.583500000000;Grossbasel;7645785;47.556020000000;7.589060000000;Switzerland;city
-Swiss Lawyers Society;;46.948063000000;7.447138000000;Bern;2661552;46.948090000000;7.447440000000;Switzerland;city
-Stiftsbibliothek St. Gallen;http://d-nb.info/gnd/2089619-0;47.423144000000;9.376729000000;St. Gallen;2658822;47.423910000000;9.374770000000;Switzerland;city
-SIB Swiss Institute of Bioinformatics ;;46.519648000000;6.574022000000;Chavannes;2661197;46.530050000000;6.570680000000;Switzerland;city
-Estate of Samuel Beckett;;51.509627000000;-0.132562000000;Soho;6545173;51.514400000000;-0.135350000000;United Kingdom;city
-University of Swansea;http://d-nb.info/gnd/7588199-8;51.608696000000;-3.979953000000;Killay;2645649;51.619520000000;-4.013680000000;United Kingdom;city
-University of Sussex;http://d-nb.info/gnd/1025891-7;50.868300000000;-0.087400000000;Falmer;2649716;50.865290000000;-0.077330000000;United Kingdom;city
-University of Southampton;http://d-nb.info/gnd/5045962-4;50.937500000000;-1.396900000000;Bassett;2656185;50.946330000000;-1.405520000000;United Kingdom;city
-University of Sheffield;http://d-nb.info/gnd/9595-3;53.380700000000;-1.482900000000;Sheffield;2638077;53.382970000000;-1.465900000000;United Kingdom;city
-University of Reading;http://d-nb.info/gnd/261796-1;51.441413000000;-0.941833000000;Earley;2650555;51.440850000000;-0.923840000000;United Kingdom;city
-University of Oxford;http://d-nb.info/gnd/38352-1;51.758900000000;-1.254300000000;Oxford;2640729;51.752220000000;-1.255960000000;United Kingdom;city
-University of Nottingham;http://d-nb.info/gnd/1030181-1;52.938634000000;-1.195158000000;Wilford;2633903;52.925730000000;-1.160000000000;United Kingdom;city
-University of Liverpool;http://d-nb.info/gnd/261911-8;53.405926000000;-2.965583000000;Liverpool;2644210;53.410580000000;-2.977940000000;United Kingdom;city
-University of Leicester;http://d-nb.info/gnd/10119891-7;52.627400000000;-1.122300000000;Leicester;2644668;52.638600000000;-1.131690000000;United Kingdom;city
-University of Hull;http://d-nb.info/gnd/1055477-4;53.771800000000;-0.367300000000;Dunswell;2650649;53.801060000000;-0.371390000000;United Kingdom;city
-University of Edinburgh;http://d-nb.info/gnd/5324753-X;55.944503000000;-3.189271000000;Grassmarket;7671015;55.947570000000;-3.196000000000;United Kingdom;city
-University of Durham;http://d-nb.info/gnd/261225-2;54.764995000000;-1.578203000000;Durham;2650628;54.776760000000;-1.575660000000;United Kingdom;city
-University of Cambridge;http://d-nb.info/gnd/260720-7;52.204249000000;0.114886000000;Cambridge;2653941;52.200000000000;0.116670000000;United Kingdom;city
-University of Birmingham;http://d-nb.info/gnd/40138-9;52.451100000000;-1.930500000000;Selly Park;10345361;52.441960000000;-1.924200000000;United Kingdom;city
-University of Aberdeen;http://d-nb.info/gnd/262019-4;57.168300000000;-2.106100000000;Old Aberdeen;2641045;57.166970000000;-2.105170000000;United Kingdom;city
-University College London;http://d-nb.info/gnd/62498-6;51.524124000000;-0.134133000000;Euston;6690576;51.526770000000;-0.133250000000;United Kingdom;city
-Royal Holloway;http://d-nb.info/gnd/5127949-6;51.426300000000;-0.563100000000;Englefield Green;2649992;51.428450000000;-0.575510000000;United Kingdom;city
-Regency Town House;http://d-nb.info/gnd/6525998-1;50.825300000000;-0.159400000000;Hove;2646504;50.830880000000;-0.167200000000;United Kingdom;city
-Queen Mary University;http://d-nb.info/gnd/6029847-9;51.524800000000;-0.038500000000;East London;6692464;51.523320000000;-0.038880000000;United Kingdom;city
-National Library of Scotland;http://d-nb.info/gnd/1005767-5;55.948300000000;-3.191800000000;Old Town;7644905;55.948540000000;-3.194620000000;United Kingdom;city
-London Library;http://d-nb.info/gnd/35655-4;51.507331000000;-0.136694000000;St James's;6615507;51.507300000000;-0.139820000000;United Kingdom;city
-Leeds Metropolitan University;http://d-nb.info/gnd/16012590-X;55.945420000000;-3.191150000000;Grassmarket;7671015;55.947570000000;-3.196000000000;United Kingdom;city
-King's College London (Department of Digital Humanities);;51.515010000000;-0.122820000000;Covent Garden;2652222;51.514240000000;-0.124710000000;United Kingdom;city
-King’s College London (Department of Classics);;51.512091000000;-0.116056000000;Covent Garden;2652222;51.514240000000;-0.124710000000;United Kingdom;city
-Keele University;http://d-nb.info/gnd/42232-0;53.003441000000;-2.272032000000;Keele;2645897;53.003820000000;-2.287410000000;United Kingdom;city
-Cardiff University;http://d-nb.info/gnd/10050925-3;51.486629000000;-3.178873000000;Cathays Park;2653514;51.486600000000;-3.183950000000;United Kingdom;city
-British Library;http://d-nb.info/gnd/1005765-1;51.997500000000;-0.127697000000;Wallington;2634866;51.987850000000;-0.118980000000;United Kingdom;city
-British Academy;http://d-nb.info/gnd/2006093-2;51.506626000000;-0.130627000000;London;2643743;51.508530000000;-0.125740000000;United Kingdom;city
-Bodleian Library;http://d-nb.info/gnd/38352-1;51.754900000000;-1.254400000000;Oxford;2640729;51.752220000000;-1.255960000000;United Kingdom;city
-Birkbeck College;http://d-nb.info/gnd/1015698-7;51.521927000000;-0.130204000000;Russell Square;10858976;51.521530000000;-0.126300000000;United Kingdom;city
-Canterbury Christ Church University;http://d-nb.info/gnd/1073847195;51.277936000000;1.090671000000;Canterbury;2653877;51.279040000000;1.079920000000;United Kingdom;city
-University of Washington;http://d-nb.info/gnd/36224-4;47.660800000000;-122.316700000000;University District;7153937;47.660280000000;-122.311670000000;United States;city
-University of Virginia;http://d-nb.info/gnd/5145804-4;38.036900000000;-78.502800000000;McCormick Road Houses;4772213;38.035420000000;-78.511680000000;United States;city
-University of Victoria;http://d-nb.info/gnd/5088685-X;48.466100000000;-123.312500000000;Cadboro Bay;5913113;48.466670000000;-123.300000000000;Canada;city
-University of Pennsylvania;http://d-nb.info/gnd/1071874950;39.952218000000;-75.193209000000;University City;4561871;39.950710000000;-75.194760000000;United States;city
-University of Oregon;http://d-nb.info/gnd/10140521-2;44.044830000000;-123.072606000000;Eugene;5725846;44.052070000000;-123.086750000000;United States;city
-University of North Carolina;http://d-nb.info/gnd/74337-9;35.904917000000;-79.046881000000;Chapel Hill;4460162;35.913200000000;-79.055840000000;United States;city
-University of Nebraska;http://d-nb.info/gnd/1034526-7;40.816929000000;-96.702476000000;Countryside Estates;5066320;40.836670000000;-96.719460000000;United States;city
-University of Maryland;http://d-nb.info/gnd/1048209997;38.986931000000;-76.942555000000;College Park;4351977;38.980670000000;-76.936920000000;United States;city
-University of Kentucky;http://d-nb.info/gnd/1042848-3;38.036800000000;-84.505300000000;Hollywood;4295089;38.027860000000;-84.493550000000;United States;city
-University of Chicago Library;http://d-nb.info/gnd/64684-2;41.792179000000;-87.599930000000;Hyde Park;4896728;41.794200000000;-87.593940000000;United States;city
-University of California Irvine;http://d-nb.info/gnd/26537-8;33.650600000000;-117.842500000000;Irvine;5359777;33.669460000000;-117.823110000000;United States;city
-University of California;http://d-nb.info/gnd/2025100-2;37.877300000000;-122.245100000000;Southside;11126294;37.867470000000;-122.252810000000;United States;city
-Texas A&M University;http://d-nb.info/gnd/140763-6;30.613301000000;-96.339906000000;Spear;4733497;30.601590000000;-96.336910000000;United States;city
-Southeastern Lousiana University;;30.519330000000;-90.469962000000;University Place;4344353;30.516860000000;-90.474530000000;United States;city
-Society of Biblical Literature;http://d-nb.info/gnd/4181719-9;33.801862000000;-84.320123000000;Turner Village;4227430;33.800940000000;-84.327700000000;United States;city
-Rutgers University;http://d-nb.info/gnd/5281802-0;40.500886000000;-74.447373000000;New Brunswick;5101717;40.486220000000;-74.451820000000;United States;city
-Roy Rosenzweig Center for History and New Media (George Mason University);;38.833230000000;-77.308200000000;Green Acres;4762018;38.839830000000;-77.303600000000;United States;city
-Princeton University;http://d-nb.info/gnd/1011480-4;40.343985000000;-74.651459000000;Princeton;5102922;40.348720000000;-74.659050000000;United States;city
-Northwestern University Library;http://d-nb.info/gnd/1044287-X;42.053700000000;-87.673300000000;South Evanston;4911902;42.037250000000;-87.680610000000;United States;city
-New York Public Library;http://d-nb.info/gnd/1024673-3;40.753800000000;-73.981700000000;Diamond District;6944378;40.756600000000;-73.978600000000;United States;city
-Maryland Institute of Technology in the Humanities (MITH);;38.985970000000;-76.945050000000;College Park;4351977;38.980670000000;-76.936920000000;United States;city
-Loyola University Chicago;http://d-nb.info/gnd/10072143-6;41.999803000000;-87.658218000000;North Edgewater;4903885;41.993370000000;-87.662280000000;United States;city
-Harry Ransom Humanities Research Center;http://d-nb.info/gnd/3018790-4;30.284362000000;-97.741263000000;Austin;4671654;30.267150000000;-97.743060000000;United States;city
-Getty Research Institute;http://d-nb.info/gnd/10069245-X;34.076908000000;-118.475506000000;Westgate Heights;5408363;34.066400000000;-118.473140000000;United States;city
-Folger Shakespeare Library;http://d-nb.info/gnd/16140610-5;38.889369000000;-77.002748000000;Capitol Hill;4137919;38.889000000000;-77.000250000000;United States;city
-Brown University;http://d-nb.info/gnd/221387-4;41.826390000000;-71.400210000000;Cork Hill (historical);5221655;41.819270000000;-71.400890000000;United States;city
-Bowling Green State University;http://d-nb.info/gnd/1010847-6;41.377100000000;-83.626600000000;Bowling Green;5147968;41.374770000000;-83.651320000000;United States;city
-Arizona State University;http://d-nb.info/gnd/1039847-8;33.609400000000;-112.159700000000;Westcliff Park;5320418;33.613100000000;-112.154600000000;United States;city
-California Institute of Technology;http://d-nb.info/gnd/5084090-3;34.137657000000;-118.125291000000;Oak Knoll;5378360;34.124450000000;-118.135900000000;United States;city
-University of Ohio;;39.324446000000;-82.101417000000;Athens;4505542;39.329240000000;-82.101260000000;United States;city
-University of California Santa Barbara;http://d-nb.info/gnd/1055045-8;34.413936000000;-119.848979000000;Isla Vista;5359864;34.413330000000;-119.860970000000;United States;city
-University of Michigan;http://d-nb.info/gnd/1011457-9;42.278040000000;-83.738239000000;Ann Arbor;4984247;42.277560000000;-83.740880000000;United States;city
-Intelex Corporation;;38.030571000000;-78.481133000000;Charlottesville;4752031;38.029310000000;-78.476680000000;United States;city
-Department of Slavic Languages and Literatures at University of Pittsburgh;;40.444269000000;-79.953289000000;Oakland;5204165;40.442010000000;-79.962550000000;United States;city
-American Council of Learned Societies;http://d-nb.info/gnd/40535-8;40.749655000000;-73.974965000000;Tudor City;6332416;40.748610000000;-73.971390000000;United States;city
+Institution Name,Institution GND,Institution Lat,Institution Lng,located at,location geonames ID,location Lat,location Lng,part of,type of location
+National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.291700000000,149.119500000000,Canberra,2172517,-35.283460000000,149.128070000000,Australia,city
+National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624000000,149.129825000000,Parkes,8555700,-35.301770000000,149.130410000000,Australia,city
+Stiftung Mozarteum Salzburg,http://d-nb.info/gnd/16271979-6,47.803503000000,13.041992000000,Andräviertel,6941547,47.805230000000,13.040860000000,Austria,city
+Österreichische Nationalbibliothek,http://d-nb.info/gnd/2050296-5,48.205432000000,16.365011000000,Innere Stadt,2775260,48.209060000000,16.371350000000,Austria,city
+Universidad del País Vasco,http://d-nb.info/gnd/2138252-9,43.331825000000,-2.973030000000,Santsoena,3110032,43.333980000000,-2.974090000000,Spain,city
+University of Antwerp,http://d-nb.info/gnd/5017340-6,51.164100000000,4.406600000000,Kerkeveld,2794549,51.166670000000,4.400000000000,Belgium,city
+Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal),,51.055800000000,3.728100000000,Binnenstad,11352054,51.053740000000,3.725490000000,Belgium,city
+University of New Brunswick,http://d-nb.info/gnd/11143-0,45.946200000000,-66.640600000000,Barkers Point,5893060,45.951650000000,-66.623390000000,Canada,city
+University of Calgary,http://d-nb.info/gnd/3003635-5,51.078164000000,-114.135796000000,Montgomery,6077007,51.075110000000,-114.164490000000,Canada,city
+Rutgers University New Brunswick,http://d-nb.info/gnd/1041483309,40.501683000000,-74.448084000000,New Brunswick,5101717,40.486220000000,-74.451820000000,United States,city
+Memorial University of Newfoundland,http://d-nb.info/gnd/16156656-X,47.571700000000,-52.732400000000,Sand Pits,6140443,47.566590000000,-52.731340000000,Canada,city
+University of Zagreb,http://d-nb.info/gnd/1014349-X,45.810570000000,15.969784000000,Britanski trg,6618988,45.812840000000,15.964970000000,Croatia,city
+University of Copenhagen,http://d-nb.info/gnd/36485-X,55.680205000000,12.572393000000,Inner City,6949461,55.676100000000,12.568300000000,Denmark,city
+St. Catherine's Monastery,,28.555934000000,33.976037000000,Saint Catherine,8521413,28.561910000000,33.949340000000,Egypt,city
+Svenska Litteratursällskapet,http://d-nb.info/gnd/1005799-7,60.170814000000,24.955789000000,Kruununhaka,650744,60.171740000000,24.956600000000,Finland,city
+Université Bordeaux Montaigne,,44.795414000000,-0.616322000000,Talence,2973495,44.804770000000,-0.595430000000,France,city
+Université Sorbonne Nouvelle - Paris 3,http://d-nb.info/gnd/1020917-7,48.839804000000,2.353901000000,Paris 12 Ancien - Quartier Saint-Marcel,9843572,48.837100000000,2.357000000000,France,city
+Université Jean Monnet Saint-Etienne,http://d-nb.info/gnd/3056310-0,45.427167000000,4.387831000000,Saint-Etienne,2980291,45.433890000000,4.390000000000,France,city
+École Normale Supérieure de Lyon,http://d-nb.info/gnd/5130846-0,45.729835000000,4.826922000000,La Mouche,3007992,45.735680000000,4.833140000000,France,city
+CNRS (Institut de recherche et d’histoire des textes),,48.847620000000,2.263950000000,Auteuil,6545275,48.846940000000,2.263660000000,France,city
+CNRS (Centre national de la recherche scientifique),,48.847597000000,2.264004000000,Auteuil,6545275,48.846940000000,2.263660000000,France,city
+Bibliothèque Nationale de France,http://d-nb.info/gnd/1080038-4,48.833604000000,2.375763000000,Austerlitz,6545265,48.832660000000,2.367940000000,France,city
+Université Lumière Lyon 2,http://d-nb.info/gnd/5098102-X,45.750736000000,4.837229000000,Lyon 02,6543968,45.754230000000,4.830890000000,France,city
+Université de Montpellier 3,,43.631575000000,3.870542000000,Castelnau-le-Lez,3028337,43.633330000000,3.900000000000,France,city
+Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799000000,9.975629000000,Eimsbüttel,2911293,53.566670000000,9.983330000000,Germany,city
+University of Münster (Institute for New Testament Textual Research),,51.961480000000,7.623700000000,Münster,2867543,51.962360000000,7.625710000000,Germany,city
+University of Göttingen,http://d-nb.info/gnd/1044306068,51.543400000000,9.935800000000,Göttingen,2918632,51.534430000000,9.932280000000,Germany,city
+University of Augsburg,http://d-nb.info/gnd/7871-2,48.335100000000,10.897300000000,Göggingen,2919525,48.337460000000,10.864820000000,Germany,city
+Universität Würzburg,http://d-nb.info/gnd/36189-6,49.782700000000,9.967700000000,Wurzburg,2805615,49.793910000000,9.951210000000,Germany,city
+Universität Tübingen,http://d-nb.info/gnd/36187-2,48.529478000000,9.043770000000,Tübingen,2820860,48.522660000000,9.052220000000,Germany,city
+Universität Trier,http://d-nb.info/gnd/2153481-0,49.745762000000,6.688459000000,Tarforst,2823992,49.741570000000,6.691960000000,Germany,city
+Südwest-Rundfunk Tübingen,,48.522776000000,9.066659000000,Tübingen,2820860,48.522660000000,9.052220000000,Germany,city
+Leipzig University Library,,51.332497000000,12.368185000000,Leipzig,2879139,51.339620000000,12.371290000000,Germany,city
+Herzog August Bibliothek Wolfenbüttel,http://d-nb.info/gnd/1072988283,52.164700000000,10.530400000000,Auguststadt,2954132,52.163960000000,10.524690000000,Germany,city
+Heinrich-Heine-Institut Düsseldorf,http://d-nb.info/gnd/2062050-0,51.222277000000,6.772870000000,Dusseldorf,2934246,51.221720000000,6.776160000000,Germany,city
+Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.514070000000,13.394220000000,Friedrichswerder,8379171,52.515650000000,13.397700000000,Germany,city
+Bayerische Staatsbibliothek,http://d-nb.info/gnd/2068538-5,48.147800000000,11.580200000000,Maxvorstadt,6940468,48.147020000000,11.569030000000,Germany,city
+Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.994500000000,8.267200000000,Mainz-Oberstadt,8128529,49.986250000000,8.264470000000,Germany,city
+Goethe Universität Frankfurt Am Main,http://d-nb.info/gnd/35074-6,50.120557000000,8.653013000000,Bockenheim,2947354,50.124980000000,8.645380000000,Germany,city
+Universität Freiburg,http://d-nb.info/gnd/2038600-X,47.994875000000,7.846739000000,Freiburg,2925177,47.995900000000,7.852220000000,Germany,city
+Ludwig-Maximilians-Universität München,http://d-nb.info/gnd/2002585-3,48.150857000000,11.581044000000,Maxvorstadt,6940468,48.147020000000,11.569030000000,Germany,city
+SUB Göttingen,,51.533836000000,9.932205000000,Göttingen,2918632,51.534430000000,9.932280000000,Germany,city
+Bildarchiv Foto Marburg,http://d-nb.info/gnd/4655897-4,50.809739000000,8.774703000000,Marburg,2873759,50.809040000000,8.770690000000,Germany,city
+University of Szeged,http://d-nb.info/gnd/35684-0,47.680226000000,16.577958000000,Lővérek,8063078,47.674920000000,16.575280000000,Hungary,city
+Indian Ministry of Culture,,28.616200000000,77.215800000000,AB2 Pandara Road,11205650,28.605700000000,77.231030000000,India,city
+University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297000000,-6.219070000000,Belfield,6691005,53.310650000000,-6.220660000000,Ireland,city
+Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.341300000000,-6.258100000000,Stephen's Green,6690997,53.339820000000,-6.260320000000,Ireland,city
+National University of Ireland,http://d-nb.info/gnd/260703-7,53.279800000000,-9.058100000000,Shancroagh,3312398,53.283890000000,-9.046670000000,Ireland,city
+University College Cork,http://d-nb.info/gnd/260719-0,51.892008000000,-8.493452000000,The Lough,7869985,51.890640000000,-8.488400000000,Ireland,city
+The Hebrew University of Jerusalem,http://d-nb.info/gnd/2023678-5,31.794558000000,35.241395000000,Nayot,9204036,31.795890000000,35.245170000000,Palestine,city
+Università degli Studi di Torino,http://d-nb.info/gnd/262196-4,45.069437000000,7.688894000000,Turin,3165524,45.070490000000,7.686820000000,Italy,city
+Università degli Studi di Genova,http://d-nb.info/gnd/16007089-2,44.414918000000,8.926728000000,Castelletto,7603217,44.412630000000,8.933020000000,Italy,city
+Università degli Studi di Siena ad Arezzo,,43.462300000000,11.873400000000,Arezzo,3182884,43.462760000000,11.880680000000,Italy,city
+Università degli Studi di Roma La Sapienza,http://d-nb.info/gnd/5049421-1,41.900400000000,12.512500000000,Esquilino,6545157,41.899310000000,12.513900000000,Italy,city
+Università degli Studi di Pavia,http://d-nb.info/gnd/40464-0,45.197900000000,9.172800000000,Pavia,3171366,45.192050000000,9.159170000000,Italy,city
+Università degli Studi di Bergamo,http://d-nb.info/gnd/1057906557,45.704445000000,9.660292000000,Bergamo,3182164,45.696010000000,9.667210000000,Italy,city
+Università di Pisa,http://d-nb.info/gnd/5007653-X,43.716729000000,10.398863000000,Pisa,3170647,43.708530000000,10.403600000000,Italy,city
+Società Dantesca Italiana,http://d-nb.info/gnd/1018004-7,43.771400000000,11.255100000000,Florence,3176959,43.779250000000,11.246260000000,Italy,city
+Fondazione Niccolò Canussio,http://d-nb.info/gnd/5526415-3,46.095700000000,13.429100000000,Cividale del Friuli,3178605,46.090190000000,13.428610000000,Italy,city
+British School at Rome,http://d-nb.info/gnd/1009986-4,41.918599000000,12.481349000000,Pinciano,7521561,41.911510000000,12.479350000000,Italy,city
+Archivio di Stato di Prato,,43.880170000000,11.095440000000,Prato,3169921,43.880500000000,11.096990000000,Italy,city
+European University Institute,http://d-nb.info/gnd/1228587-0,43.803081000000,11.282946000000,Ponte alla Badia,8956573,43.803900000000,11.279700000000,Italy,city
+Scuola Normale Superiore di Pisa,,43.719591000000,10.400328000000,Pisa,3170647,43.708530000000,10.403600000000,Italy,city
+Èulogos S.p.A.,,41.933631000000,12.537019000000,Monte Sacro,3169706,41.933330000000,12.533330000000,Italy,city
+Istituto di Linguistica Computazionale (ILC),,43.719255000000,10.423982000000,Al Simonelli Ovest,8963995,43.730690000000,10.430370000000,Italy,city
+Archivio Storico della Pontificia Università Gregoriana,,41.899002000000,12.484645000000,Pigna,6545151,41.896350000000,12.484630000000,Italy,city
+Istituto di Informatica e Telematica (IIT),,43.719250000000,10.423993000000,Al Simonelli Ovest,8963995,43.730690000000,10.430370000000,Italy,city
+Centrum voor Teksteditie en Bronnenstudie,http://d-nb.info/gnd/10082555-2,51.055485000000,3.727950000000,Binnenstad,11352054,51.053740000000,3.725490000000,Belgium,city
+University of Utrecht,http://d-nb.info/gnd/5570633-2,52.090151000000,5.122598000000,Utrecht,2745912,52.090830000000,5.122220000000,Netherlands,city
+Nationaal Archief,http://d-nb.info/gnd/10041732-2,52.080727000000,4.326424000000,Het Spuikwartier,2754207,52.083330000000,4.316670000000,Netherlands,city
+Huygens ING,http://d-nb.info/gnd/16344478-X,52.081982000000,4.326968000000,Het Spuikwartier,2754207,52.083330000000,4.316670000000,Netherlands,city
+University of Wellington,http://d-nb.info/gnd/5045706-8,-41.289230000000,174.767700000000,Kelburn,2188922,-41.283330000000,174.766670000000,New Zealand,city
+University of Oslo,http://d-nb.info/gnd/1013645-9,59.940500000000,10.720900000000,Blindern,3160966,59.937430000000,10.718190000000,Norway,city
+National Library of Norway,http://d-nb.info/gnd/2165809-2,59.914800000000,10.717400000000,Frogner,6940545,59.919240000000,10.708920000000,Norway,city
+University of Warsaw,http://d-nb.info/gnd/1023111403,52.240339000000,21.018698000000,Powiśle,761340,52.238340000000,21.028390000000,Poland,city
+Staatsarchive Lodz,,51.776188000000,19.454555000000,Osiedle Katedralna,8426307,51.775290000000,19.455030000000,Poland,city
+Narodowy Instytut Fryderyka Chopina,http://d-nb.info/gnd/6123664-0,52.236427000000,21.022191000000,Powiśle,761340,52.238340000000,21.028390000000,Poland,city
+University of Wrocław,,51.114011000000,17.034477000000,Stare Miasto,8425992,51.110340000000,17.037140000000,Poland,city
+National Library in Warsaw,,52.213661000000,21.003452000000,Filtry,8425839,52.218780000000,20.996550000000,Poland,city
+National Library of Russia,http://d-nb.info/gnd/3020410-0,59.933558000000,30.335748000000,Saint Petersburg,498817,59.938630000000,30.314130000000,Russia,city
+Russian Academy of Sciences,http://d-nb.info/gnd/5052646-7,55.710790000000,37.577826000000,Novyye Cherëmushki,517161,55.700000000000,37.583330000000,Russia,city
+The State Hermitage,http://d-nb.info/gnd/1027089429,59.939832000000,30.314562000000,Saint Petersburg,498817,59.938630000000,30.314130000000,Russia,city
+National and University Library in Ljubljana,,46.047520000000,14.503966000000,Ljubljana,3196359,46.051080000000,14.505130000000,Slovenia,city
+University of Alcalá,,40.482472000000,-3.362865000000,Alcalá de Henares,3130616,40.482050000000,-3.359960000000,Spain,city
+Universitat de Barcelona,http://d-nb.info/gnd/42050-5,41.387200000000,2.163700000000,Eixample,6544100,41.388960000000,2.161790000000,Spain,city
+Biblioteca Nacional de España,http://d-nb.info/gnd/1027025-5,40.423940000000,-3.690200000000,Serrano,6545087,40.426400000000,-3.687610000000,Spain,city
+Real Biblioteca del Palacio Real de Madrid,,40.417962000000,-3.714300000000,Opera,6545088,40.418280000000,-3.708810000000,Spain,city
+University of Zürich,http://d-nb.info/gnd/6109294-0,47.374900000000,8.548900000000,Zürich (Kreis 1) / Rathaus,6295483,47.371610000000,8.545010000000,Switzerland,city
+University of Fribourg,http://d-nb.info/gnd/1068116757,46.806253000000,7.151837000000,Fribourg,2660718,46.802370000000,7.151280000000,Switzerland,city
+University of Bern,http://d-nb.info/gnd/2023768-6,46.954700000000,7.430500000000,Bern / Engehalde,2660903,46.960100000000,7.438430000000,Switzerland,city
+University of Basel,http://d-nb.info/gnd/36146-X,47.558900000000,7.583500000000,Grossbasel,7645785,47.556020000000,7.589060000000,Switzerland,city
+Swiss Lawyers Society,,46.948063000000,7.447138000000,Bern,2661552,46.948090000000,7.447440000000,Switzerland,city
+Stiftsbibliothek St. Gallen,http://d-nb.info/gnd/2089619-0,47.423144000000,9.376729000000,St. Gallen,2658822,47.423910000000,9.374770000000,Switzerland,city
+SIB Swiss Institute of Bioinformatics ,,46.519648000000,6.574022000000,Chavannes,2661197,46.530050000000,6.570680000000,Switzerland,city
+Estate of Samuel Beckett,,51.509627000000,-0.132562000000,Soho,6545173,51.514400000000,-0.135350000000,United Kingdom,city
+University of Swansea,http://d-nb.info/gnd/7588199-8,51.608696000000,-3.979953000000,Killay,2645649,51.619520000000,-4.013680000000,United Kingdom,city
+University of Sussex,http://d-nb.info/gnd/1025891-7,50.868300000000,-0.087400000000,Falmer,2649716,50.865290000000,-0.077330000000,United Kingdom,city
+University of Southampton,http://d-nb.info/gnd/5045962-4,50.937500000000,-1.396900000000,Bassett,2656185,50.946330000000,-1.405520000000,United Kingdom,city
+University of Sheffield,http://d-nb.info/gnd/9595-3,53.380700000000,-1.482900000000,Sheffield,2638077,53.382970000000,-1.465900000000,United Kingdom,city
+University of Reading,http://d-nb.info/gnd/261796-1,51.441413000000,-0.941833000000,Earley,2650555,51.440850000000,-0.923840000000,United Kingdom,city
+University of Oxford,http://d-nb.info/gnd/38352-1,51.758900000000,-1.254300000000,Oxford,2640729,51.752220000000,-1.255960000000,United Kingdom,city
+University of Nottingham,http://d-nb.info/gnd/1030181-1,52.938634000000,-1.195158000000,Wilford,2633903,52.925730000000,-1.160000000000,United Kingdom,city
+University of Liverpool,http://d-nb.info/gnd/261911-8,53.405926000000,-2.965583000000,Liverpool,2644210,53.410580000000,-2.977940000000,United Kingdom,city
+University of Leicester,http://d-nb.info/gnd/10119891-7,52.627400000000,-1.122300000000,Leicester,2644668,52.638600000000,-1.131690000000,United Kingdom,city
+University of Hull,http://d-nb.info/gnd/1055477-4,53.771800000000,-0.367300000000,Dunswell,2650649,53.801060000000,-0.371390000000,United Kingdom,city
+University of Edinburgh,http://d-nb.info/gnd/5324753-X,55.944503000000,-3.189271000000,Grassmarket,7671015,55.947570000000,-3.196000000000,United Kingdom,city
+University of Durham,http://d-nb.info/gnd/261225-2,54.764995000000,-1.578203000000,Durham,2650628,54.776760000000,-1.575660000000,United Kingdom,city
+University of Cambridge,http://d-nb.info/gnd/260720-7,52.204249000000,0.114886000000,Cambridge,2653941,52.200000000000,0.116670000000,United Kingdom,city
+University of Birmingham,http://d-nb.info/gnd/40138-9,52.451100000000,-1.930500000000,Selly Park,10345361,52.441960000000,-1.924200000000,United Kingdom,city
+University of Aberdeen,http://d-nb.info/gnd/262019-4,57.168300000000,-2.106100000000,Old Aberdeen,2641045,57.166970000000,-2.105170000000,United Kingdom,city
+University College London,http://d-nb.info/gnd/62498-6,51.524124000000,-0.134133000000,Euston,6690576,51.526770000000,-0.133250000000,United Kingdom,city
+Royal Holloway,http://d-nb.info/gnd/5127949-6,51.426300000000,-0.563100000000,Englefield Green,2649992,51.428450000000,-0.575510000000,United Kingdom,city
+Regency Town House,http://d-nb.info/gnd/6525998-1,50.825300000000,-0.159400000000,Hove,2646504,50.830880000000,-0.167200000000,United Kingdom,city
+Queen Mary University,http://d-nb.info/gnd/6029847-9,51.524800000000,-0.038500000000,East London,6692464,51.523320000000,-0.038880000000,United Kingdom,city
+National Library of Scotland,http://d-nb.info/gnd/1005767-5,55.948300000000,-3.191800000000,Old Town,7644905,55.948540000000,-3.194620000000,United Kingdom,city
+London Library,http://d-nb.info/gnd/35655-4,51.507331000000,-0.136694000000,St James's,6615507,51.507300000000,-0.139820000000,United Kingdom,city
+Leeds Metropolitan University,http://d-nb.info/gnd/16012590-X,55.945420000000,-3.191150000000,Grassmarket,7671015,55.947570000000,-3.196000000000,United Kingdom,city
+King's College London (Department of Digital Humanities),,51.515010000000,-0.122820000000,Covent Garden,2652222,51.514240000000,-0.124710000000,United Kingdom,city
+King’s College London (Department of Classics),,51.512091000000,-0.116056000000,Covent Garden,2652222,51.514240000000,-0.124710000000,United Kingdom,city
+Keele University,http://d-nb.info/gnd/42232-0,53.003441000000,-2.272032000000,Keele,2645897,53.003820000000,-2.287410000000,United Kingdom,city
+Cardiff University,http://d-nb.info/gnd/10050925-3,51.486629000000,-3.178873000000,Cathays Park,2653514,51.486600000000,-3.183950000000,United Kingdom,city
+British Library,http://d-nb.info/gnd/1005765-1,51.997500000000,-0.127697000000,Wallington,2634866,51.987850000000,-0.118980000000,United Kingdom,city
+British Academy,http://d-nb.info/gnd/2006093-2,51.506626000000,-0.130627000000,London,2643743,51.508530000000,-0.125740000000,United Kingdom,city
+Bodleian Library,http://d-nb.info/gnd/38352-1,51.754900000000,-1.254400000000,Oxford,2640729,51.752220000000,-1.255960000000,United Kingdom,city
+Birkbeck College,http://d-nb.info/gnd/1015698-7,51.521927000000,-0.130204000000,Russell Square,10858976,51.521530000000,-0.126300000000,United Kingdom,city
+Canterbury Christ Church University,http://d-nb.info/gnd/1073847195,51.277936000000,1.090671000000,Canterbury,2653877,51.279040000000,1.079920000000,United Kingdom,city
+University of Washington,http://d-nb.info/gnd/36224-4,47.660800000000,-122.316700000000,University District,7153937,47.660280000000,-122.311670000000,United States,city
+University of Virginia,http://d-nb.info/gnd/5145804-4,38.036900000000,-78.502800000000,McCormick Road Houses,4772213,38.035420000000,-78.511680000000,United States,city
+University of Victoria,http://d-nb.info/gnd/5088685-X,48.466100000000,-123.312500000000,Cadboro Bay,5913113,48.466670000000,-123.300000000000,Canada,city
+University of Pennsylvania,http://d-nb.info/gnd/1071874950,39.952218000000,-75.193209000000,University City,4561871,39.950710000000,-75.194760000000,United States,city
+University of Oregon,http://d-nb.info/gnd/10140521-2,44.044830000000,-123.072606000000,Eugene,5725846,44.052070000000,-123.086750000000,United States,city
+University of North Carolina,http://d-nb.info/gnd/74337-9,35.904917000000,-79.046881000000,Chapel Hill,4460162,35.913200000000,-79.055840000000,United States,city
+University of Nebraska,http://d-nb.info/gnd/1034526-7,40.816929000000,-96.702476000000,Countryside Estates,5066320,40.836670000000,-96.719460000000,United States,city
+University of Maryland,http://d-nb.info/gnd/1048209997,38.986931000000,-76.942555000000,College Park,4351977,38.980670000000,-76.936920000000,United States,city
+University of Kentucky,http://d-nb.info/gnd/1042848-3,38.036800000000,-84.505300000000,Hollywood,4295089,38.027860000000,-84.493550000000,United States,city
+University of Chicago Library,http://d-nb.info/gnd/64684-2,41.792179000000,-87.599930000000,Hyde Park,4896728,41.794200000000,-87.593940000000,United States,city
+University of California Irvine,http://d-nb.info/gnd/26537-8,33.650600000000,-117.842500000000,Irvine,5359777,33.669460000000,-117.823110000000,United States,city
+University of California,http://d-nb.info/gnd/2025100-2,37.877300000000,-122.245100000000,Southside,11126294,37.867470000000,-122.252810000000,United States,city
+Texas A&M University,http://d-nb.info/gnd/140763-6,30.613301000000,-96.339906000000,Spear,4733497,30.601590000000,-96.336910000000,United States,city
+Southeastern Lousiana University,,30.519330000000,-90.469962000000,University Place,4344353,30.516860000000,-90.474530000000,United States,city
+Society of Biblical Literature,http://d-nb.info/gnd/4181719-9,33.801862000000,-84.320123000000,Turner Village,4227430,33.800940000000,-84.327700000000,United States,city
+Rutgers University,http://d-nb.info/gnd/5281802-0,40.500886000000,-74.447373000000,New Brunswick,5101717,40.486220000000,-74.451820000000,United States,city
+Roy Rosenzweig Center for History and New Media (George Mason University),,38.833230000000,-77.308200000000,Green Acres,4762018,38.839830000000,-77.303600000000,United States,city
+Princeton University,http://d-nb.info/gnd/1011480-4,40.343985000000,-74.651459000000,Princeton,5102922,40.348720000000,-74.659050000000,United States,city
+Northwestern University Library,http://d-nb.info/gnd/1044287-X,42.053700000000,-87.673300000000,South Evanston,4911902,42.037250000000,-87.680610000000,United States,city
+New York Public Library,http://d-nb.info/gnd/1024673-3,40.753800000000,-73.981700000000,Diamond District,6944378,40.756600000000,-73.978600000000,United States,city
+Maryland Institute of Technology in the Humanities (MITH),,38.985970000000,-76.945050000000,College Park,4351977,38.980670000000,-76.936920000000,United States,city
+Loyola University Chicago,http://d-nb.info/gnd/10072143-6,41.999803000000,-87.658218000000,North Edgewater,4903885,41.993370000000,-87.662280000000,United States,city
+Harry Ransom Humanities Research Center,http://d-nb.info/gnd/3018790-4,30.284362000000,-97.741263000000,Austin,4671654,30.267150000000,-97.743060000000,United States,city
+Getty Research Institute,http://d-nb.info/gnd/10069245-X,34.076908000000,-118.475506000000,Westgate Heights,5408363,34.066400000000,-118.473140000000,United States,city
+Folger Shakespeare Library,http://d-nb.info/gnd/16140610-5,38.889369000000,-77.002748000000,Capitol Hill,4137919,38.889000000000,-77.000250000000,United States,city
+Brown University,http://d-nb.info/gnd/221387-4,41.826390000000,-71.400210000000,Cork Hill (historical),5221655,41.819270000000,-71.400890000000,United States,city
+Bowling Green State University,http://d-nb.info/gnd/1010847-6,41.377100000000,-83.626600000000,Bowling Green,5147968,41.374770000000,-83.651320000000,United States,city
+Arizona State University,http://d-nb.info/gnd/1039847-8,33.609400000000,-112.159700000000,Westcliff Park,5320418,33.613100000000,-112.154600000000,United States,city
+California Institute of Technology,http://d-nb.info/gnd/5084090-3,34.137657000000,-118.125291000000,Oak Knoll,5378360,34.124450000000,-118.135900000000,United States,city
+University of Ohio,,39.324446000000,-82.101417000000,Athens,4505542,39.329240000000,-82.101260000000,United States,city
+University of California Santa Barbara,http://d-nb.info/gnd/1055045-8,34.413936000000,-119.848979000000,Isla Vista,5359864,34.413330000000,-119.860970000000,United States,city
+University of Michigan,http://d-nb.info/gnd/1011457-9,42.278040000000,-83.738239000000,Ann Arbor,4984247,42.277560000000,-83.740880000000,United States,city
+Intelex Corporation,,38.030571000000,-78.481133000000,Charlottesville,4752031,38.029310000000,-78.476680000000,United States,city
+Department of Slavic Languages and Literatures at University of Pittsburgh,,40.444269000000,-79.953289000000,Oakland,5204165,40.442010000000,-79.962550000000,United States,city
+American Council of Learned Societies,http://d-nb.info/gnd/40535-8,40.749655000000,-73.974965000000,Tudor City,6332416,40.748610000000,-73.971390000000,United States,city
