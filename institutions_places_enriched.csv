@@ -56,7 +56,7 @@ Università degli Studi di Roma La Sapienza,http://d-nb.info/gnd/5049421-1,41.90
 Università degli Studi di Pavia,http://d-nb.info/gnd/40464-0,45.197900000000,9.172800000000,Pavia,3171366,45.192050000000,9.159170000000,Italy,city
 Università degli Studi di Bergamo,http://d-nb.info/gnd/1057906557,45.704445000000,9.660292000000,Bergamo,3182164,45.696010000000,9.667210000000,Italy,city
 Università di Pisa,http://d-nb.info/gnd/5007653-X,43.716729000000,10.398863000000,Pisa,3170647,43.708530000000,10.403600000000,Italy,city
-Società Dantesca Italiana,http://d-nb.info/gnd/1018004-7,43.771400000000,11.255100000000,Florence,3176959,43.779250000000,11.246260000000,Italy,city
+Società Dantesca Italiana,http://d-nb.info/gnd/1018004-7,43.771400000000,11.255100000000,Firenze,3176959,43.779250000000,11.246260000000,Italy,city
 Fondazione Niccolò Canussio,http://d-nb.info/gnd/5526415-3,46.095700000000,13.429100000000,Cividale del Friuli,3178605,46.090190000000,13.428610000000,Italy,city
 British School at Rome,http://d-nb.info/gnd/1009986-4,41.918599000000,12.481349000000,Pinciano,7521561,41.911510000000,12.479350000000,Italy,city
 Archivio di Stato di Prato,,43.880170000000,11.095440000000,Prato,3169921,43.880500000000,11.096990000000,Italy,city
@@ -66,6 +66,7 @@ Scuola Normale Superiore di Pisa,,43.719591000000,10.400328000000,Pisa,3170647,4
 Istituto di Linguistica Computazionale (ILC),,43.719255000000,10.423982000000,Al Simonelli Ovest,8963995,43.730690000000,10.430370000000,Italy,city
 Archivio Storico della Pontificia Università Gregoriana,,41.899002000000,12.484645000000,Pigna,6545151,41.896350000000,12.484630000000,Italy,city
 Istituto di Informatica e Telematica (IIT),,43.719250000000,10.423993000000,Al Simonelli Ovest,8963995,43.730690000000,10.430370000000,Italy,city
+Istituto di Teoria e Tecniche dell’Informazione Giuridica (ITTIG-CNR),http://d-nb.info/gnd/10162236-3,43.791760000000,11.228091000000,Firenze,3176959,43.779250000000,11.246260000000,Italy,city
 Centrum voor Teksteditie en Bronnenstudie,http://d-nb.info/gnd/10082555-2,51.055485000000,3.727950000000,Binnenstad,11352054,51.053740000000,3.725490000000,Belgium,city
 University of Utrecht,http://d-nb.info/gnd/5570633-2,52.090151000000,5.122598000000,Utrecht,2745912,52.090830000000,5.122220000000,Netherlands,city
 Nationaal Archief,http://d-nb.info/gnd/10041732-2,52.080727000000,4.326424000000,Het Spuikwartier,2754207,52.083330000000,4.316670000000,Netherlands,city
