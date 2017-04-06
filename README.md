@@ -16,7 +16,7 @@ A list of all UCLDH research projects is available <a href="http://www.ucl.ac.uk
 
 <h4>Citing the Catalogue</h4>
 I greatly appreciate you citing the <em>Catalogue</em>! Depending on the citation style you need, you could adapt the following:<br />
-Franzini, G. <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;
+Franzini, G. (2012-) <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;
 
 <hr />
 
