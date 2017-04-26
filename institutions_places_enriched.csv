@@ -29,7 +29,7 @@ Université de Montpellier 3,,43.631575000000,3.870542000000,Castelnau-le-Lez,30
 Bibliothèque municipale de Rouen,http://d-nb.info/gnd/1032332-6,49.431302000000,1.083780000000,Rouen,2982652,49.443130000000,1.099320000000,France,city
 Centre Flaubert de l'Université de Rouen,,49.458428000000,1.068000000000,Rouen,2982652,49.443130000000,1.099320000000,France,city
 Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799000000,9.975629000000,Eimsbüttel,2911293,53.566670000000,9.983330000000,Germany,city
-University of Münster (Institute for New Testament Textual Research),,51.961480000000,7.623700000000,Münster,2867543,51.962360000000,7.625710000000,Germany,city
+University of Münster,,51.961480000000,7.623700000000,Münster,2867543,51.962360000000,7.625710000000,Germany,city
 University of Göttingen,http://d-nb.info/gnd/1044306068,51.543400000000,9.935800000000,Göttingen,2918632,51.534430000000,9.932280000000,Germany,city
 University of Augsburg,http://d-nb.info/gnd/7871-2,48.335100000000,10.897300000000,Göggingen,2919525,48.337460000000,10.864820000000,Germany,city
 Universität Würzburg,http://d-nb.info/gnd/36189-6,49.782700000000,9.967700000000,Wurzburg,2805615,49.793910000000,9.951210000000,Germany,city
@@ -56,6 +56,7 @@ University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297000000,-6.2190
 Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.341300000000,-6.258100000000,Stephen's Green,6690997,53.339820000000,-6.260320000000,Ireland,city
 National University of Ireland,http://d-nb.info/gnd/260703-7,53.279800000000,-9.058100000000,Shancroagh,3312398,53.283890000000,-9.046670000000,Ireland,city
 University College Cork,http://d-nb.info/gnd/260719-0,51.892008000000,-8.493452000000,The Lough,7869985,51.890640000000,-8.488400000000,Ireland,city
+The Israel Museum,,31.772123000000,35.204083000000,Jerusalem,281184,31.769040000000,35.216330000000,Israel,city
 Università degli Studi di Torino,http://d-nb.info/gnd/262196-4,45.069437000000,7.688894000000,Turin,3165524,45.070490000000,7.686820000000,Italy,city
 Università degli Studi di Genova,http://d-nb.info/gnd/16007089-2,44.414918000000,8.926728000000,Castelletto,7603217,44.412630000000,8.933020000000,Italy,city
 Università degli Studi di Siena ad Arezzo,,43.462300000000,11.873400000000,Arezzo,3182884,43.462760000000,11.880680000000,Italy,city
@@ -148,6 +149,8 @@ University of Kentucky,http://d-nb.info/gnd/1042848-3,38.036800000000,-84.505300
 University of Chicago Library,http://d-nb.info/gnd/64684-2,41.792179000000,-87.599930000000,Hyde Park,4896728,41.794200000000,-87.593940000000,United States,city
 University of California Irvine,http://d-nb.info/gnd/26537-8,33.650600000000,-117.842500000000,Irvine,5359777,33.669460000000,-117.823110000000,United States,city
 University of California,http://d-nb.info/gnd/2025100-2,37.877300000000,-122.245100000000,Southside,11126294,37.867470000000,-122.252810000000,United States,city
+University of California Press,,37.949408000000,-122.367276000000,Richmond,5387428,37.935760000000,-122.347750000000,United States,city
+California Digital Library,,37.808471000000,-122.267483000000,Oakland,5378538,37.804370000000,-122.27080000000,United States,city
 Texas A&M University,http://d-nb.info/gnd/140763-6,30.613301000000,-96.339906000000,Spear,4733497,30.601590000000,-96.336910000000,United States,city
 Southeastern Lousiana University,,30.519330000000,-90.469962000000,University Place,4344353,30.516860000000,-90.474530000000,United States,city
 Society of Biblical Literature,http://d-nb.info/gnd/4181719-9,33.801862000000,-84.320123000000,Turner Village,4227430,33.800940000000,-84.327700000000,United States,city
@@ -169,8 +172,9 @@ University of Ohio,,39.324446000000,-82.101417000000,Athens,4505542,39.329240000
 University of California Santa Barbara,http://d-nb.info/gnd/1055045-8,34.413936000000,-119.848979000000,Isla Vista,5359864,34.413330000000,-119.860970000000,United States,city
 University of Michigan,http://d-nb.info/gnd/1011457-9,42.278040000000,-83.738239000000,Ann Arbor,4984247,42.277560000000,-83.740880000000,United States,city
 Intelex Corporation,,38.030571000000,-78.481133000000,Charlottesville,4752031,38.029310000000,-78.476680000000,United States,city
-Department of Slavic Languages and Literatures at University of Pittsburgh,,40.444269000000,-79.953289000000,Oakland,5204165,40.442010000000,-79.962550000000,United States,city
+Department of Slavic Languages and Literatures at University of Pittsburgh,,40.444269000000,-79.953289000000,Pittsburgh,5206379,40.440620000000,-79.995890000000,United States,city
 American Council of Learned Societies,http://d-nb.info/gnd/40535-8,40.749655000000,-73.974965000000,Tudor City,6332416,40.748610000000,-73.971390000000,United States,city
 Institute for the Study of the Ancient World,,40.779927000000,-73.960265000000,New York City,5128581,40.714270000000,-74.005970000000,United States,city
+Google,,37.419860000000,-122.078831000000,Palo Alto,5380748,37.441880000000,-122.143020000000,United States,city
 N/A,,,,,,,,,
 Various,,,,,,,,,
