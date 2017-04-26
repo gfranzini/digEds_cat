@@ -4,6 +4,7 @@ National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624000000,14
 Stiftung Mozarteum Salzburg,http://d-nb.info/gnd/16271979-6,47.803503000000,13.041992000000,Andräviertel,6941547,47.805230000000,13.040860000000,Austria,city
 Österreichische Nationalbibliothek,http://d-nb.info/gnd/2050296-5,48.205432000000,16.365011000000,Innere Stadt,2775260,48.209060000000,16.371350000000,Austria,city
 Austrian Centre for Digital Humanities at the Austrian Academy of Sciences,http://d-nb.info/gnd/1123037736,48.209133000000,16.377123000000,Vienna,2761369,48.20849000000,16.372080000000,Austria,city
+Universität für Musik und darstellende Kunst,,48.195714000000,16.381390000000,Vienna,2761369,48.20849000000,16.372080000000,Austria,city
 University of Antwerp,http://d-nb.info/gnd/5017340-6,51.164100000000,4.406600000000,Kerkeveld,2794549,51.166670000000,4.400000000000,Belgium,city
 Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal- en letterkunde),,51.055800000000,3.728100000000,Binnenstad,11352054,51.053740000000,3.725490000000,Belgium,city
 University of New Brunswick,http://d-nb.info/gnd/11143-0,45.946200000000,-66.640600000000,Barkers Point,5893060,45.951650000000,-66.623390000000,Canada,city
@@ -28,6 +29,7 @@ Université Lumière Lyon 2,http://d-nb.info/gnd/5098102-X,45.750736000000,4.837
 Université de Montpellier 3,,43.631575000000,3.870542000000,Castelnau-le-Lez,3028337,43.633330000000,3.900000000000,France,city
 Bibliothèque municipale de Rouen,http://d-nb.info/gnd/1032332-6,49.431302000000,1.083780000000,Rouen,2982652,49.443130000000,1.099320000000,France,city
 Centre Flaubert de l'Université de Rouen,,49.458428000000,1.068000000000,Rouen,2982652,49.443130000000,1.099320000000,France,city
+Centre d'Études Supérieures de la Renaissance,,47.391996000000,0.682313000000,Tours,2972191,47.383330000000,0.683330000000,France,city
 Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799000000,9.975629000000,Eimsbüttel,2911293,53.566670000000,9.983330000000,Germany,city
 University of Münster,,51.961480000000,7.623700000000,Münster,2867543,51.962360000000,7.625710000000,Germany,city
 University of Göttingen,http://d-nb.info/gnd/1044306068,51.543400000000,9.935800000000,Göttingen,2918632,51.534430000000,9.932280000000,Germany,city
@@ -39,7 +41,7 @@ Südwest-Rundfunk Tübingen,,48.522776000000,9.066659000000,Tübingen,2820860,48
 Leipzig University Library,,51.332497000000,12.368185000000,Leipzig,2879139,51.339620000000,12.371290000000,Germany,city
 Herzog August Bibliothek Wolfenbüttel,http://d-nb.info/gnd/1072988283,52.164700000000,10.530400000000,Auguststadt,2954132,52.163960000000,10.524690000000,Germany,city
 Heinrich-Heine-Institut Düsseldorf,http://d-nb.info/gnd/2062050-0,51.222277000000,6.772870000000,Dusseldorf,2934246,51.221720000000,6.776160000000,Germany,city
-Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.514070000000,13.394220000000,Friedrichswerder,8379171,52.515650000000,13.397700000000,Germany,city
+Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.514070000000,13.394220000000,Berlin,2950159,52.524370000000,13.410530000000,Germany,city
 Bayerische Staatsbibliothek,http://d-nb.info/gnd/2068538-5,48.147800000000,11.580200000000,Maxvorstadt,6940468,48.147020000000,11.569030000000,Germany,city
 Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.994500000000,8.267200000000,Mainz-Oberstadt,8128529,49.986250000000,8.264470000000,Germany,city
 Goethe Universität Frankfurt Am Main,http://d-nb.info/gnd/35074-6,50.120557000000,8.653013000000,Bockenheim,2947354,50.124980000000,8.645380000000,Germany,city
@@ -49,6 +51,7 @@ SUB Göttingen,,51.533836000000,9.932205000000,Göttingen,2918632,51.53443000000
 Bildarchiv Foto Marburg,http://d-nb.info/gnd/4655897-4,50.809739000000,8.774703000000,Marburg,2873759,50.809040000000,8.770690000000,Germany,city
 Städel Museum,,50.103094000000,8.674058000000,Frankfurt am Main,2925533,50.110924000000,8.682127000000,Germany,city
 Historisches Museum Frankfurt am Main,,50.109285000000,8.682487000000,Frankfurt am Main,2925533,50.110924000000,8.682127000000,Germany,city
+Max Planck Institute for the History of Science,,52.445403000000,13.277609000000,Berlin,2950159,52.524370000000,13.410530000000,Germany,city
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226000000,16.577958000000,Lővérek,8063078,47.674920000000,16.575280000000,Hungary,city
 Indian Ministry of Culture,,28.616200000000,77.215800000000,AB2 Pandara Road,11205650,28.605700000000,77.231030000000,India,city
 Maynooth University,,53.383885000000,-6.600075000000,Maynooth,2962668,53.3850000000,-6.593610000000,Ireland,city
@@ -176,5 +179,6 @@ Department of Slavic Languages and Literatures at University of Pittsburgh,,40.4
 American Council of Learned Societies,http://d-nb.info/gnd/40535-8,40.749655000000,-73.974965000000,Tudor City,6332416,40.748610000000,-73.971390000000,United States,city
 Institute for the Study of the Ancient World,,40.779927000000,-73.960265000000,New York City,5128581,40.714270000000,-74.005970000000,United States,city
 Google,,37.419860000000,-122.078831000000,Palo Alto,5380748,37.441880000000,-122.143020000000,United States,city
+University of Michigan Press,,42.270756000000,-83.746844000000,Ann Arbor,4984247,42.277560000000,-83.740880000000,United States,city
 N/A,,,,,,,,,
 Various,,,,,,,,,
