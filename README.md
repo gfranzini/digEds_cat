@@ -8,13 +8,13 @@ More information:
 * [How to contribute to the Catalogue?](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution)
 * [Editions to be added to the Catalogue](https://github.com/gfranzini/digEds_cat/issues)
 
-<h4>Home institution</h4>
-The <em>Catalogue</em>'s home institution -that is, where it all began- is the UCL Centre for Digital Humanities. A list of all UCLDH research projects is available <a href="http://www.ucl.ac.uk/dh/projects" target="blank" title="Opens in new tab">here</a>. 
+<h3>Home institution</h3>
+The <em>Catalogue</em>'s home institution -that is, where it all began- is the UCL Centre for Digital Humanities. A list of all UCLDH research projects is available <a href="http://www.ucl.ac.uk/dh/projects" target="blank" title="Opens in new tab">here</a>.<br />
 <a href="https://www.ucl.ac.uk/dh" title="Opens in new tab" target="_blank"><img src="https://www.ucl.ac.uk/dh/images/buttons/ucldh-234x60-palette.png"></a>
 
 
 
-<h4>Citing the Catalogue</h4>
+<h3>Citing the Catalogue</h3>
 To cite the <em>Catalogue</em> you could adapt the following:<br />
 <strong>Franzini, G. (2012-) <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;</strong>
 
