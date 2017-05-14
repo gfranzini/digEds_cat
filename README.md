@@ -9,14 +9,14 @@ More information:
 * [Editions to be added to the Catalogue](https://github.com/gfranzini/digEds_cat/issues)
 
 <h4>Home institution</h4>
-The <em>Catalogue</em>'s home institution -that is, where it all began- is the UCL Centre for Digital Humanities.
+The <em>Catalogue</em>'s home institution -that is, where it all began- is the UCL Centre for Digital Humanities. A list of all UCLDH research projects is available <a href="http://www.ucl.ac.uk/dh/projects" target="blank" title="Opens in new tab">here</a>. 
 <a href="https://www.ucl.ac.uk/dh" title="Opens in new tab" target="_blank"><img src="https://www.ucl.ac.uk/dh/images/buttons/ucldh-234x60-palette.png"></a>
 
-A list of all UCLDH research projects is available <a href="http://www.ucl.ac.uk/dh/projects" target="blank" title="Opens in new tab">here</a>. 
+
 
 <h4>Citing the Catalogue</h4>
-I greatly appreciate you citing the <em>Catalogue</em>! Depending on the citation style you need, you could adapt the following:<br />
-Franzini, G. (2012-) <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;
+To cite the <em>Catalogue</em> you could adapt the following:<br />
+<strong>Franzini, G. (2012-) <em>A Catalogue of Digital Editions</em>. Web. &lt;<a href="https://github.com/gfranzini/digEds_cat">https://github.com/gfranzini/digEds_cat</a>&gt;</strong>
 
 <hr />
 
