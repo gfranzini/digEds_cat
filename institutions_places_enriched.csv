@@ -9,6 +9,8 @@ Robert Musil-Institut für Literaturforschung - Kärntner Literaturarchiv at Alp
 Universität für Musik und darstellende Kunst,,48.195714,16.38139,Vienna,2761369,48.20849,16.37208,Austria,city
 University of Antwerp,http://d-nb.info/gnd/5017340-6,51.1641,4.4066,Kerkeveld,2794549,51.16667,4.4,Belgium,city
 Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal- en Letterkunde),,51.0558,3.7281,Binnenstad,11352054,51.05374,3.72549,Belgium,city
+Royal Museum for Central Africa,,50.830895,4.518294,Tervuren,2785622,50.82372,4.51418,Belgium,city
+King Baudouin Foundation,,50.840375,4.362300,Bruxelles,2800866,50.85045,4.34878,Belgium,city
 University of New Brunswick,http://d-nb.info/gnd/11143-0,45.9462,-66.6406,Barkers Point,5893060,45.95165,-66.62339,Canada,city
 University of Calgary,http://d-nb.info/gnd/3003635-5,51.078164,-114.135796,Montgomery,6077007,51.07511,-114.16449,Canada,city
 Memorial University of Newfoundland,http://d-nb.info/gnd/16156656-X,47.5717,-52.7324,Sand Pits,6140443,47.56659,-52.73134,Canada,city
@@ -18,8 +20,9 @@ University of Zagreb,http://d-nb.info/gnd/1014349-X,45.81057,15.969784,Britanski
 University of Copenhagen,http://d-nb.info/gnd/36485-X,55.680205,12.572393,Inner City,6949461,55.6761,12.5683,Denmark,city
 St. Catherine's Monastery,,28.555934,33.976037,Saint Catherine,8521413,28.56191,33.94934,Egypt,city
 Svenska Litteratursällskapet,http://d-nb.info/gnd/1005799-7,60.170814,24.955789,Kruununhaka,650744,60.17174,24.9566,Finland,city
+Institut Universitaire de France,,48.847431,2.348720,Paris,2988507,48.85341,2.3488,France,city
 Université Bordeaux Montaigne,,44.795414,-0.616322,Talence,2973495,44.80477,-0.59543,France,city
-Université Sorbonne Nouvelle - Paris 3,http://d-nb.info/gnd/1020917-7,48.839804,2.353901,Paris 12 Ancien - Quartier Saint-Marcel,9843572,48.8371,2357,France,city
+Université Sorbonne Nouvelle - Paris 3,http://d-nb.info/gnd/1020917-7,48.839804,2.353901,Paris,2988507,48.85341,2.3488,France,city
 École française d'Extrême-Orient,,48.864541,2.292172,Paris,2988507,48.85341,2.3488,France,city
 Université d’Angers,,47.477092,-0.549938,Angers,3037656,47.46667,-0.55,France,city
 Université Jean Monnet Saint-Etienne,http://d-nb.info/gnd/3056310-0,45.427167,4.387831,Saint-Etienne,2980291,45.43389,4.39,France,city
@@ -28,16 +31,20 @@ CNRS (Institut de recherche et d’histoire des textes),,48.84762,2.26395,Auteui
 CNRS (Centre national de la recherche scientifique),,48.847597,2.264004,Auteuil,6545275,48.84694,2.26366,France,city
 CNRS (Centre de théorie et analyse du droit) de l’Université de Paris Nanterre,,48.903904,2.213466,Nanterre,2990970,48.89198,2.20675,France,city
 Bibliothèque Nationale de France,http://d-nb.info/gnd/1080038-4,48.833604,2.375763,Austerlitz,6545265,48.83266,2.36794,France,city
-Université Lumière Lyon 2,http://d-nb.info/gnd/5098102-X,45.750736,4.837229,Lyon 02,6543968,45.75423,4.83089,France,city
+Université Lumière Lyon 2,http://d-nb.info/gnd/5098102-X,45.750736,4.837229,Lyon,2996944,45.74846,4.84671,France,city
 Université Jean Moulin Lyon 3,,45.748137,4.860366,Lyon,2996944,45.74846,4.84671,France,city
+UMR 5648 CIHAM (Centre interuniversitaire d'histoire et d'archéologie médiévale),http://d-nb.info/gnd/5098102-X,45.750736,4.837229,Lyon,2996944,45.74846,4.84671,France,city
+UMR 8584 LEM (Laboratoire d'étude sur les monothéismes),,48.831061,2.340174,Paris,2988507,48.85341,2.3488,France,city
+Laboratoire d'excellence HASTEC (Histoire et anthropologie des sciences techniques et croyances),,48.831061,2.340174,Paris,2988507,48.85341,2.3488,France,city
 Université de Montpellier 3,,43.631575,3.870542,Castelnau-le-Lez,3028337,43.63333,3.9,France,city
 Bibliothèque municipale de Rouen,http://d-nb.info/gnd/1032332-6,49.431302,1.08378,Rouen,2982652,49.44313,1.09932,France,city
-Centre Flaubert de l'Université de Rouen,,49.458428,1068,Rouen,2982652,49.44313,1.09932,France,city
+Centre Flaubert de l'Université de Rouen,,49.458428,1.068,Rouen,2982652,49.44313,1.09932,France,city
 Institut Ausonius Université Bordeaux Montaigne,,44.795424,-0.616349,Pessac,2987805,44.81011,-0.64129,France,city
 Centre d'Études Supérieures de la Renaissance,,47.391996,0.682313,Tours,2972191,47.38333,0.68333,France,city
 École de l’Innovation et de l’Expertise Informatique (EPITECH),,45.756988,4.857023,Lyon,2996944,45.74846,4.84671,France,city
 École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB),,45.780139,4.862513,Villeurbanne,2968254,45.76667,4.88333,France,city
 Christophorus Records,,0,0,Freiburg,2925177,47.9959,7.85222,Germany,city
+Frankfurter Goethehaus,,50.111227,8.677608,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city
 Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799,9.975629,Eimsbüttel,2911293,53.56667,9.98333,Germany,city
 University of Münster,,51.96148,7.6237,Münster,2867543,51.96236,7.62571,Germany,city
 University of Leipzig,,51.338576,12.378464,Leipzig,2879139,51.33962,12.37129,Germany,city
@@ -56,7 +63,7 @@ Heinrich-Heine-Institut Düsseldorf,http://d-nb.info/gnd/2062050-0,51.222277,6.7
 Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.51407,13.39422,Berlin,2950159,52.52437,13.41053,Germany,city
 Bayerische Staatsbibliothek,http://d-nb.info/gnd/2068538-5,48.1478,11.5802,Maxvorstadt,6940468,48.14702,11.56903,Germany,city
 Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.9945,8.2672,Mainz-Oberstadt,8128529,49.98625,8.26447,Germany,city
-Goethe Universität Frankfurt Am Main,http://d-nb.info/gnd/35074-6,50.120557,8.653013,Bockenheim,2947354,50.12498,8.64538,Germany,city
+Goethe Universität Frankfurt am Main,http://d-nb.info/gnd/35074-6,50.120557,8.653013,Bockenheim,2947354,50.12498,8.64538,Germany,city
 Universität Freiburg,http://d-nb.info/gnd/2038600-X,47.994875,7.846739,Freiburg,2925177,47.9959,7.85222,Germany,city
 Ludwig-Maximilians-Universität München,http://d-nb.info/gnd/2002585-3,48.150857,11.581044,Maxvorstadt,6940468,48.14702,11.56903,Germany,city
 SUB Göttingen,,51.533836,9.932205,Göttingen,2918632,51.53443,9.93228,Germany,city
@@ -68,11 +75,12 @@ Cologne Center for eHumanities,,50.926364,6.929763,Cologne,2886242,50.93333,6.95
 University of Paderborn,,51.708209,8.771941,Paderborn,2855745,51.71905,8.75439,Germany,city
 Staatsbibliothek Berlin – Preußischer Kulturbesitz,,52.517518,13.390997,Berlin,2950159,52.52437,13.41053,Germany,city
 Humboldt-Universität zu Berlin,,52.517889,13.393661,Berlin,2950159,52.52437,13.41053,Germany,city
+Klassik Stiftung Weimar,,50.980289,11.332184,Weimar,2812482,50.9803,11.32903,Germany,city
 Archaeological Museum of Thessaloniki,,40.625243,22.953826,Thessaloniki,734077,40.64361,22.93086,Greece,city
 Aristotle University of Thessaloniki,,40.630841,22.959209,Thessaloniki,734077,40.64361,22.93086,Greece,city
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city
 Indian Ministry of Culture,,28.6162,77.2158,AB2 Pandara Road,11205650,28.6057,77.23103,India,city
-Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53385,-6.59361,Ireland,city
+Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city
 University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Belfield,6691005,53.31065,-6.22066,Ireland,city
 Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.3413,-6.2581,Stephen's Green,6690997,53.33982,-6.26032,Ireland,city
 National University of Ireland,http://d-nb.info/gnd/260703-7,53.2798,-9.0581,Shancroagh,3312398,53.28389,-9.04667,Ireland,city
@@ -107,7 +115,7 @@ Huygens ING,http://d-nb.info/gnd/16344478-X,52.081982,4.326968,Het Spuikwartier,
 University of Wellington,http://d-nb.info/gnd/5045706-8,-41.28923,174.7677,Kelburn,2188922,-41.28333,174.76667,New Zealand,city
 University of Oslo,http://d-nb.info/gnd/1013645-9,59.9405,10.7209,Blindern,3160966,59.93743,10.71819,Norway,city
 National Library of Norway,http://d-nb.info/gnd/2165809-2,59.9148,10.7174,Frogner,6940545,59.91924,10.70892,Norway,city
-The Hebrew University of Jerusalem,http://d-nb.info/gnd/2023678-5,31.794558,35.241395,Nayot,9204036,31.79589,35.24517,Palestine,city
+Hebrew University of Jerusalem,http://d-nb.info/gnd/2023678-5,31.794558,35.241395,Nayot,9204036,31.79589,35.24517,Palestine,city
 University of Warsaw,http://d-nb.info/gnd/1023111403,52.240339,21.018698,Powiśle,761340,52.23834,21.02839,Poland,city
 Staatsarchive Lodz,,51.776188,19.454555,Osiedle Katedralna,8426307,51.77529,19.45503,Poland,city
 Narodowy Instytut Fryderyka Chopina,http://d-nb.info/gnd/6123664-0,52.236427,21.022191,Powiśle,761340,52.23834,21.02839,Poland,city
@@ -129,10 +137,22 @@ University of Basel,http://d-nb.info/gnd/36146-X,47.5589,7.5835,Grossbasel,76457
 Swiss Lawyers Society,,46.948063,7.447138,Bern,2661552,46.94809,7.44744,Switzerland,city
 Stiftsbibliothek St. Gallen,http://d-nb.info/gnd/2089619-0,47.423144,9.376729,St. Gallen,2658822,47.42391,9.37477,Switzerland,city
 SIB Swiss Institute of Bioinformatics ,,46.519648,6.574022,Chavannes,2661197,46.53005,6.57068,Switzerland,city
+National Museum of the Royal Navy,,50.800598,-1.109769,Portsmouth,2639996,50.79899,-1.09125,United Kingdom,city
+Royal Geographical Society,,51.501549,-0.174978,London,2643743,51.50853,-0.12574,United Kingdom,city
+Royal Society,,51.505950,-0.132320,London,2643743,51.50853,-0.12574,United Kingdom,city
+Wellcome Library,,51.525847,-0.133812,London,2643743,51.50853,-0.12574,United Kingdom,city
+Royal Botanical Gardens Kew,,51.478744,-0.295573,London,2648579,55.86515,-4.25763,United Kingdom,city
+RSA,,51.509387,-0.122736,London,2648579,55.86515,-4.25763,United Kingdom,city
+School of Oriental and African Studies (SOAS) Library at University of London,,51.522346,-0.129272,London,2648579,55.86515,-4.25763,United Kingdom,city
+Royal College of Physicians and Surgeons of Glasgow,,55.862413,-4.263449,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city
+Mitchell Library,,55.865055,-4.272154,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city
+David Livingstone Centre,,55.801817,-4.083357,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city
 Estate of Samuel Beckett,,51.509627,-0.132562,Soho,6545173,51.5144,-0.13535,United Kingdom,city
 University of Swansea,http://d-nb.info/gnd/7588199-8,51.608696,-3.979953,Killay,2645649,51.61952,-4.01368,United Kingdom,city
 University of Sussex,http://d-nb.info/gnd/1025891-7,50.8683,-0.0874,Falmer,2649716,50.86529,-0.07733,United Kingdom,city
 University of Southampton,http://d-nb.info/gnd/5045962-4,50.9375,-1.3969,Bassett,2656185,50.94633,-1.40552,United Kingdom,city
+University of Manchester,,53.466833,-2.233865,Manchester,2643123,53.48095,-2.23743,United Kingdom,city
+John Rylands University Library,,53.464451,-2.235346,Manchester,2643123,53.48095,-2.23743,United Kingdom,city
 University of Sheffield,http://d-nb.info/gnd/9595-3,53.3807,-1.4829,Sheffield,2638077,53.38297,-1.4659,United Kingdom,city
 University of Reading,http://d-nb.info/gnd/261796-1,51.441413,-0.941833,Earley,2650555,51.44085,-0.92384,United Kingdom,city
 University of Oxford,http://d-nb.info/gnd/38352-1,51.7589,-1.2543,Oxford,2640729,51.75222,-1.25596,United Kingdom,city
@@ -141,7 +161,7 @@ University of Liverpool,http://d-nb.info/gnd/261911-8,53.405926,-2.965583,Liverp
 University of Leicester,http://d-nb.info/gnd/10119891-7,52.6274,-1.1223,Leicester,2644668,52.6386,-1.13169,United Kingdom,city
 University of Hull,http://d-nb.info/gnd/1055477-4,53.7718,-0.3673,Dunswell,2650649,53.80106,-0.37139,United Kingdom,city
 University of Exeter,,50.737151,-3.535214,Exeter,2649808,50.7236,-3.52751,United Kingdom,city
-University of Edinburgh,http://d-nb.info/gnd/5324753-X,55.944503,-3.189271,Grassmarket,7671015,55.94757,-3196,United Kingdom,city
+University of Edinburgh,http://d-nb.info/gnd/5324753-X,55.944503,-3.189271,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city
 Edinburgh Napier University,,55.918022,-3.239665,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city
 University of Durham,http://d-nb.info/gnd/261225-2,54.764995,-1.578203,Durham,2650628,54.77676,-1.57566,United Kingdom,city
 University of Cambridge,http://d-nb.info/gnd/260720-7,52.204249,0.114886,Cambridge,2653941,52.2,0.11667,United Kingdom,city
@@ -154,7 +174,8 @@ Regency Town House,http://d-nb.info/gnd/6525998-1,50.8253,-0.1594,Hove,2646504,5
 Queen Mary University,http://d-nb.info/gnd/6029847-9,51.5248,-0.0385,East London,6692464,51.52332,-0.03888,United Kingdom,city
 National Library of Scotland,http://d-nb.info/gnd/1005767-5,55.9483,-3.1918,Old Town,7644905,55.94854,-3.19462,United Kingdom,city
 London Library,http://d-nb.info/gnd/35655-4,51.507331,-0.136694,St James's,6615507,51.5073,-0.13982,United Kingdom,city
-Leeds Metropolitan University,http://d-nb.info/gnd/16012590-X,55.94542,-3.19115,Grassmarket,7671015,55.94757,-3196,United Kingdom,city
+Leeds Metropolitan University,http://d-nb.info/gnd/16012590-X,55.94542,-3.19115,Grassmarket,7671015,55.94757,-3.196,United Kingdom,city
+King's College London (Department of History),,51.504866,-0.112719,London,2643743,51.50853,-0.12574,United Kingdom,city
 King's College London (Department of Digital Humanities),,51.51501,-0.12282,Covent Garden,2652222,51.51424,-0.12471,United Kingdom,city
 King’s College London (Department of Classics),,51.512091,-0.116056,Covent Garden,2652222,51.51424,-0.12471,United Kingdom,city
 King's College London,,51.511485,-0.116016,London,2643743,51.50853,-0.12574,United Kingdom,city
@@ -165,6 +186,7 @@ British Academy,http://d-nb.info/gnd/2006093-2,51.506626,-0.130627,London,264374
 Bodleian Library,http://d-nb.info/gnd/38352-1,51.7549,-1.2544,Oxford,2640729,51.75222,-1.25596,United Kingdom,city
 Birkbeck College,http://d-nb.info/gnd/1015698-7,51.521927,-0.130204,Russell Square,10858976,51.52153,-0.1263,United Kingdom,city
 Canterbury Christ Church University,http://d-nb.info/gnd/1073847195,51.277936,1.090671,Canterbury,2653877,51.27904,1.07992,United Kingdom,city
+Hellenic Institute of Royal Holloway,,51.425240,-0.567398,Egham,2650188,51.43158,-0.55239,United Kingdom,city
 University of Washington,http://d-nb.info/gnd/36224-4,47.6608,-122.3167,University District,7153937,47.66028,-122.31167,United States,city
 University of Virginia,http://d-nb.info/gnd/5145804-4,38.0369,-78.5028,McCormick Road Houses,4772213,38.03542,-78.51168,United States,city
 University of Pennsylvania,http://d-nb.info/gnd/1071874950,39.952218,-75.193209,University City,4561871,39.95071,-75.19476,United States,city
@@ -190,7 +212,7 @@ Maryland Institute of Technology in the Humanities (MITH),,38.98597,-76.94505,Co
 Loyola University Chicago,http://d-nb.info/gnd/10072143-6,41.999803,-87.658218,North Edgewater,4903885,41.99337,-87.66228,United States,city
 Harry Ransom Humanities Research Center,http://d-nb.info/gnd/3018790-4,30.284362,-97.741263,Austin,4671654,30.26715,-97.74306,United States,city
 Getty Research Institute,http://d-nb.info/gnd/10069245-X,34.076908,-118.475506,Westgate Heights,5408363,34.0664,-118.47314,United States,city
-Folger Shakespeare Library,http://d-nb.info/gnd/16140610-5,38.889369,-77.002748,Capitol Hill,4137919,38889,-77.00025,United States,city
+Folger Shakespeare Library,http://d-nb.info/gnd/16140610-5,38.889369,-77.002748,Washington DC,4138106,38.91706,-77.00025,United States,city
 Brown University,http://d-nb.info/gnd/221387-4,41.82639,-71.40021,Cork Hill (historical),5221655,41.81927,-71.40089,United States,city
 Bowling Green State University,http://d-nb.info/gnd/1010847-6,41.3771,-83.6266,Bowling Green,5147968,41.37477,-83.65132,United States,city
 Arizona State University,http://d-nb.info/gnd/1039847-8,33.6094,-112.1597,Westcliff Park,5320418,33.6131,-112.1546,United States,city
@@ -211,6 +233,9 @@ Ball State University,,40.206105,-85.406993,Muncie,4924006,40.19338,-85.38636,Un
 Brigham Young University,,40.251872,-111.649377,Provo,5780026,40.23384,-111.65853,United States,city
 Buffalo Bill Center of the West,,44.525615,-109.073314,Cody,1586861,44.523333,-109.057222,United States,city
 Dumbarton Oaks,,38.914149,-77.064011,Washington DC,4138106,38.91706,-77.00025,United States,city
+"Huntingon Library, Art Collections, and Botanical Gardens",,34.129041,-118.114517,San Marino,5392400,34.1214,-118.10646,United States,city
+Houghton Library,,42.373169,-71.115915,Cambridge,4931972,42.3751,-71.10561,United States,city
+Gladys Krieble Delmas Foundation,,40.751219,-73.979982,New York City,5128581,40.71427,-74.00597,United States,city
 Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city
 N/A,,,,,,,,,
 Various,,,,,,,,,
