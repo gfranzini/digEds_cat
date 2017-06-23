@@ -38,7 +38,7 @@ UMR 8584 LEM (Laboratoire d'étude sur les monothéismes),,48.831061,2.340174,Pa
 Laboratoire d'excellence HASTEC (Histoire et anthropologie des sciences techniques et croyances),,48.831061,2.340174,Paris,2988507,48.85341,2.3488,France,city
 Université de Montpellier 3,,43.631575,3.870542,Castelnau-le-Lez,3028337,43.63333,3.9,France,city
 Bibliothèque municipale de Rouen,http://d-nb.info/gnd/1032332-6,49.431302,1.08378,Rouen,2982652,49.44313,1.09932,France,city
-Centre Flaubert de l'Université de Rouen,,49.458428,1.068,Rouen,2982652,49.44313,1.09932,France,city
+Centre Flaubert de l'Université de Rouen,,49.458428,1068,Rouen,2982652,49.44313,1.09932,France,city
 Institut Ausonius Université Bordeaux Montaigne,,44.795424,-0.616349,Pessac,2987805,44.81011,-0.64129,France,city
 Centre d'Études Supérieures de la Renaissance,,47.391996,0.682313,Tours,2972191,47.38333,0.68333,France,city
 École de l’Innovation et de l’Expertise Informatique (EPITECH),,45.756988,4.857023,Lyon,2996944,45.74846,4.84671,France,city
@@ -76,11 +76,14 @@ University of Paderborn,,51.708209,8.771941,Paderborn,2855745,51.71905,8.75439,G
 Staatsbibliothek Berlin – Preußischer Kulturbesitz,,52.517518,13.390997,Berlin,2950159,52.52437,13.41053,Germany,city
 Humboldt-Universität zu Berlin,,52.517889,13.393661,Berlin,2950159,52.52437,13.41053,Germany,city
 Klassik Stiftung Weimar,,50.980289,11.332184,Weimar,2812482,50.9803,11.32903,Germany,city
+Thüringer Universitäts- und Landesbibliothek,,50.930577,11.587758,Jena,2895044,50.92878,11.5899,Germany,city
+Landesarchiv Thüringen - Staatsarchiv Greiz,,50.660061,12.196998,Greiz,6551044,50.6577,12.19047,Germany,city
+Friedrich-Schiller-Universität Jena,,50.929545,11.589813,Jena,2895044,50.92878,11.5899,Germany,city
 Archaeological Museum of Thessaloniki,,40.625243,22.953826,Thessaloniki,734077,40.64361,22.93086,Greece,city
 Aristotle University of Thessaloniki,,40.630841,22.959209,Thessaloniki,734077,40.64361,22.93086,Greece,city
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city
 Indian Ministry of Culture,,28.6162,77.2158,AB2 Pandara Road,11205650,28.6057,77.23103,India,city
-Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city
+Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53385,-6.59361,Ireland,city
 University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Belfield,6691005,53.31065,-6.22066,Ireland,city
 Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.3413,-6.2581,Stephen's Green,6690997,53.33982,-6.26032,Ireland,city
 National University of Ireland,http://d-nb.info/gnd/260703-7,53.2798,-9.0581,Shancroagh,3312398,53.28389,-9.04667,Ireland,city
@@ -174,7 +177,7 @@ Regency Town House,http://d-nb.info/gnd/6525998-1,50.8253,-0.1594,Hove,2646504,5
 Queen Mary University,http://d-nb.info/gnd/6029847-9,51.5248,-0.0385,East London,6692464,51.52332,-0.03888,United Kingdom,city
 National Library of Scotland,http://d-nb.info/gnd/1005767-5,55.9483,-3.1918,Old Town,7644905,55.94854,-3.19462,United Kingdom,city
 London Library,http://d-nb.info/gnd/35655-4,51.507331,-0.136694,St James's,6615507,51.5073,-0.13982,United Kingdom,city
-Leeds Metropolitan University,http://d-nb.info/gnd/16012590-X,55.94542,-3.19115,Grassmarket,7671015,55.94757,-3.196,United Kingdom,city
+Leeds Metropolitan University,http://d-nb.info/gnd/16012590-X,55.94542,-3.19115,Grassmarket,7671015,55.94757,-3196,United Kingdom,city
 King's College London (Department of History),,51.504866,-0.112719,London,2643743,51.50853,-0.12574,United Kingdom,city
 King's College London (Department of Digital Humanities),,51.51501,-0.12282,Covent Garden,2652222,51.51424,-0.12471,United Kingdom,city
 King’s College London (Department of Classics),,51.512091,-0.116056,Covent Garden,2652222,51.51424,-0.12471,United Kingdom,city
