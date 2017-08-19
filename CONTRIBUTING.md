@@ -15,9 +15,7 @@ There are **three different ways to contribute a digital edition**:
 
 It's important you're consistent and follow these guidelines for the [web application](https://dig-ed-cat.eos.arz.oeaw.ac.at/) to display your contribution correctly.
 
-
-
-### Data fields
+## Contributing via GitHub
 The fields the _Catalogue_ uses to classify information are listed below. Some take free text, others use predefined values. 
 The words "**not provided**" are used to indicate that the website or project does not provide the relevant information.
 However you choose to contribute a digital edition to the _Catalogue_, please ensure you address as many of the following fields as possible.
