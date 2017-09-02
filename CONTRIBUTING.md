@@ -20,57 +20,6 @@ The fields the _Catalogue_ uses to classify information are listed below. Some t
 The words "**not provided**" are used to indicate that the website or project does not provide the relevant information.
 However you choose to contribute a digital edition to the _Catalogue_, please ensure you address as many of the following fields as possible.
 
-**Overview (click on a link below to jump to the corresponding field description).**
-1. [Historical Period](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#historical-period)
-2. [Time/Century](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#timecentury)
-3. [Edition name](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#edition-name)
-4. [URL](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#url)
-5. [Scholarly](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#scholarly)
-6. [Digital vs. Digitised](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#digital-vs-digitised)
-7. [Edition](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#edition)
-8. [Language](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#language)
-9. [Writing support](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#writing-support)
-10. [Begin date](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#begin-date)
-11. [End date](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#end-date)
-12. [Manager(s)](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#manager)
-13. [Participating institution(s)](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#participating-institutions)
-14. [Audience](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#audience)
-15. [Philological statement](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#philological-statement)
-16. [Account of textual variance](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#account-of-textual-variance)
-17. [Value of witnesses](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#value-of-witnesses)
-18. [XML(-TEI) transcription](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#xml-tei-transcription)
-19. [XML(-TEI) transcription is available to download](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#xml-tei-transcription-is-available-to-download)
-20. [Images](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#images)
-21. [Zoom images](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#zoom-images)
-22. [Image manipulation](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#image-manipulation)
-23. [Text-image linking](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#text-image-linking)
-24. [Source text translation](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#source-text-translation)
-25. [Website language](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#website-language)
-26. [Glossary](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#glossary)
-27. [Indices](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#indices)
-28. [String matching search](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#string-matching-search)
-29. [Advanced search](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#advanced-search)
-30. [Creative Commons License](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#creative-commons-license)
-31. [Open Source/Open Access](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#open-sourceopen-access)
-32. [Linked Open Data (LOD)](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#linked-open-data-lod)
-33. [Application Programming Interface (API)](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#application-programming-interface-api)
-34. [Crowdsourcing](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#crowdsourcing)
-35. [Feedback](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#feedback)
-36. [Technological statement](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#technological-statement)
-37. [Links to external sources](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#links-to-external-resources)
-38. [OCR'd or keyed](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#ocrd-or-keyed)
-39. [Mobile-friendly/application](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#mobile-friendlyapplication)
-40. [Print-friendly view](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#print-friendly-view)
-41. [Print facsimile (complementary output)](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#print-facsimile-complementary-output)
-42. [Repository of source material](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#repository-of-source-material)
-43. [Place of origin of source material](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#place-of-origin-of-source-material)
-44. [Sponsor/Funding body](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#sponsorfunding-body)
-45. [Budget (rough)](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#budget-rough)
-46. [Infrastructure](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#infrastructure)
-47. [Current availability](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#current-availability)
-48. [Sahle Catalog](https://github.com/gfranzini/digEds_cat/wiki/Data-description-&-contribution#sahle-catalog)
-***
-
 #### Historical Period
 This field broadly categorises the source material of a digital edition by the following periods:
 
@@ -130,7 +79,7 @@ The target audience of the digital edition project (scholars, students, general 
 
 #### Account of textual variance
 * `0`: No account of textual variance is given. The digital edition is a reproduction of a given print edition without any account of variants.
-* `0.5`: The digital edition is a reproduction of a given print scholarly edition and reproduces the selected textual variants extant in the apparatus criticus of that edition, or: the edition does not follow a digital paradigm, in that the variants are not automatically computable the way they are encoded.
+* `0.5`: The digital edition is a reproduction of a given print scholarly edition and reproduces the selected textual variants extant in the apparatus criticus of that edition; or the edition does not follow a digital paradigm, in that the variants are not automatically computable the way they are encoded.
 * `1`: This edition is “based on full-text transcription of original texts into electronic form” (vd. Proposition 2 in [this article](http://www.tei-c.org/About/Archive_new/ETE/Preview/robinson.xml) by P. Robinson).
 
 #### Value of witnesses
