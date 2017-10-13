@@ -1,6 +1,8 @@
 Institution Name,Institution GND,Institution Lat,Institution Lng,located at,location geonames ID,location Lat,location Lng,part of,type of location,institution website
 National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
 National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Parkes,8555700,-35.30177,149.13041,Australia,city,https://www.nla.gov.au
+Zentrum für Informationsmodellierung Universität Graz,,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
+Franz Nabl Institut für Literaturforschung Universität Graz,,47.074703,15.451488,Graz,2778067,47.06667,15.45,Austria,city,https://franz-nabl-institut.uni-graz.at/
 Stiftung Mozarteum Salzburg,http://d-nb.info/gnd/16271979-6,47.803503,13.041992,Andräviertel,6941547,47.80523,13.04086,Austria,city,http://www.mozarteum.at
 Österreichische Nationalbibliothek,http://d-nb.info/gnd/2050296-5,48.205432,16.365011,Innere Stadt,2775260,48.20906,16.37135,Austria,city,https://www.onb.ac.at
 Austrian Centre for Digital Humanities at the Austrian Academy of Sciences,http://d-nb.info/gnd/1123037736,48.209133,16.377123,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/acdh/acdh-home/
@@ -43,6 +45,7 @@ Institut Ausonius Université Bordeaux Montaigne,,44.795424,-0.616349,Pessac,298
 Centre d'Études Supérieures de la Renaissance,,47.391996,0.682313,Tours,2972191,47.38333,0.68333,France,city,http://cesr.univ-tours.fr
 École de l’Innovation et de l’Expertise Informatique (EPITECH),,45.756988,4.857023,Lyon,2996944,45.74846,4.84671,France,city,http://www.epitech.eu
 École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB),,45.780139,4.862513,Villeurbanne,2968254,45.76667,4.88333,France,city,http://www.enssib.fr
+Université Blaise Pascal,,45.764098,3.112335,Aubière,3036364,45.75157,3.11251,France,city,http://www.univ-bpclermont.fr
 Christophorus Records,,0,0,Freiburg,2925177,47.9959,7.85222,Germany,city,http://www.christophorus-records.de/v2.php
 Frankfurter Goethehaus,,50.111227,8.677608,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,http://www.goethehaus-frankfurt.de
 Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799,9.975629,Eimsbüttel,2911293,53.56667,9.98333,Germany,city,http://www.igdj-hh.de/home-175.html
