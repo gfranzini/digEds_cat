@@ -82,11 +82,12 @@ Klassik Stiftung Weimar,,50.980289,11.332184,Weimar,2812482,50.9803,11.32903,Ger
 Thüringer Universitäts- und Landesbibliothek,,50.930577,11.587758,Jena,2895044,50.92878,11.5899,Germany,city,http://www.thulb.uni-jena.de
 Landesarchiv Thüringen - Staatsarchiv Greiz,,50.660061,12.196998,Greiz,6551044,50.6577,12.19047,Germany,city,http://www.thueringen.de/th1/tsk/kultur/staatsarchive/standorte/greiz/index.aspx
 Friedrich-Schiller-Universität Jena,,50.929545,11.589813,Jena,2895044,50.92878,11.5899,Germany,city,https://www.uni-jena.de
+Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11.571,Germany,city,http://www.mgh.de
 Archaeological Museum of Thessaloniki,,40.625243,22.953826,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.amth.gr/en
 Aristotle University of Thessaloniki,,40.630841,22.959209,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.auth.gr/en
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city,http://www.u-szeged.hu/english
 Indian Ministry of Culture,,28.6162,77.2158,AB2 Pandara Road,11205650,28.6057,77.23103,India,city,http://www.indiaculture.nic.in
-Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
+Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
 University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Belfield,6691005,53.31065,-6.22066,Ireland,city,http://www.ucd.ie
 Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.3413,-6.2581,Stephen's Green,6690997,53.33982,-6.26032,Ireland,city,https://www.ria.ie
 National University of Ireland,http://d-nb.info/gnd/260703-7,53.2798,-9.0581,Shancroagh,3312398,53.28389,-9.04667,Ireland,city,http://www.nui.ie
@@ -243,8 +244,8 @@ Dumbarton Oaks,,38.914149,-77.064011,Washington DC,4138106,38.91706,-77.00025,Un
 Houghton Library,,42.373169,-71.115915,Cambridge,4931972,42.3751,-71.10561,United States,city,hcl.harvard.edu/libraries/houghton/
 Gladys Krieble Delmas Foundation,,40.751219,-73.979982,New York City,5128581,40.71427,-74.00597,United States,city,delmas.org
 Ramapo College of New Jersey,,41.081503,-74.174627,Mahwah,5100776,41.08871,-74.14376,United States,city,www.ramapo.edu
+Trinity University,,29.461845,-98.483159,San Antonio,4726206,29.42412,-98.49363,United States,city,https://new.trinity.edu/
 Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,www.filos.unam.mx
-Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11.571,Germany,city,http://www.mgh.de
 N/A,,,,,,,,,,
 Various,,,,,,,,,,
 not provided,,,,,,,,,,
