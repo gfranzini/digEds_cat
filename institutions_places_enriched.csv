@@ -82,14 +82,14 @@ Klassik Stiftung Weimar,,50.980289,11.332184,Weimar,2812482,50.9803,11.32903,Ger
 Thüringer Universitäts- und Landesbibliothek,,50.930577,11.587758,Jena,2895044,50.92878,11.5899,Germany,city,http://www.thulb.uni-jena.de
 Landesarchiv Thüringen - Staatsarchiv Greiz,,50.660061,12.196998,Greiz,6551044,50.6577,12.19047,Germany,city,http://www.thueringen.de/th1/tsk/kultur/staatsarchive/standorte/greiz/index.aspx
 Friedrich-Schiller-Universität Jena,,50.929545,11.589813,Jena,2895044,50.92878,11.5899,Germany,city,https://www.uni-jena.de
-Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11.571,Germany,city,http://www.mgh.de
+Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11571,Germany,city,http://www.mgh.de
 Beethoven-Haus Bonn,,50.736873,7.101201,Bonn,2946447,50.73438,7.09549,Germany,city,https://www.beethoven.de/home
 Detmold Hochschule für Musik,,51.930908,8.876223,Detmold,2937936,51.93855,8.87318,Germany,city,http://www.hfm-detmold.de/
 Archaeological Museum of Thessaloniki,,40.625243,22.953826,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.amth.gr/en
 Aristotle University of Thessaloniki,,40.630841,22.959209,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.auth.gr/en
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city,http://www.u-szeged.hu/english
 Indian Ministry of Culture,,28.6162,77.2158,AB2 Pandara Road,11205650,28.6057,77.23103,India,city,http://www.indiaculture.nic.in
-Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
+Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
 University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Belfield,6691005,53.31065,-6.22066,Ireland,city,http://www.ucd.ie
 Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.3413,-6.2581,Stephen's Green,6690997,53.33982,-6.26032,Ireland,city,https://www.ria.ie
 National University of Ireland,http://d-nb.info/gnd/260703-7,53.2798,-9.0581,Shancroagh,3312398,53.28389,-9.04667,Ireland,city,http://www.nui.ie
@@ -151,7 +151,7 @@ Royal Geographical Society,,51.501549,-0.174978,London,2643743,51.50853,-0.12574
 Royal Society,,51.505950,-0.132320,London,2643743,51.50853,-0.12574,United Kingdom,city,https://royalsociety.org
 Wellcome Library,,51.525847,-0.133812,London,2643743,51.50853,-0.12574,United Kingdom,city,https://wellcomelibrary.org
 Royal Botanical Gardens Kew,,51.478744,-0.295573,London,2648579,55.86515,-4.25763,United Kingdom,city,https://www.kew.org
-Royal Society of Arts Library,,51.509387,-0.122736,London,2648579,55.86515,-4.25763,United Kingdom,city,www.thersa.org
+Royal Society of Arts Library,,51.509387,-0.122736,London,2648579,55.86515,-4.25763,United Kingdom,city,https://www.thersa.org
 School of Oriental and African Studies (SOAS) Library at University of London,,51.522346,-0.129272,London,2648579,55.86515,-4.25763,United Kingdom,city,https://www.soas.ac.uk/library/
 Royal College of Physicians and Surgeons of Glasgow,,55.862413,-4.263449,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,https://rcpsg.ac.uk
 Mitchell Library,,55.865055,-4.272154,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,http://www.glasgowlife.org.uk/libraries/the-mitchell-library/pages/home.aspx
@@ -222,32 +222,32 @@ Loyola University Chicago,http://d-nb.info/gnd/10072143-6,41.999803,-87.658218,N
 Harry Ransom Humanities Research Center,http://d-nb.info/gnd/3018790-4,30.284362,-97.741263,Austin,4671654,30.26715,-97.74306,United States,city,http://www.hrc.utexas.edu
 Getty Research Institute,http://d-nb.info/gnd/10069245-X,34.076908,-118.475506,Westgate Heights,5408363,34.0664,-118.47314,United States,city,http://www.getty.edu/research/
 Folger Shakespeare Library,http://d-nb.info/gnd/16140610-5,38.889369,-77.002748,Washington DC,4138106,38.91706,-77.00025,United States,city,http://www.folger.edu
-Brown University,http://d-nb.info/gnd/221387-4,41.82639,-71.40021,Cork Hill (historical),5221655,41.81927,-71.40089,United States,city,www.brown.edu
-Bowling Green State University,http://d-nb.info/gnd/1010847-6,41.3771,-83.6266,Bowling Green,5147968,41.37477,-83.65132,United States,city,www.bgsu.edu
-Arizona State University,http://d-nb.info/gnd/1039847-8,33.6094,-112.1597,Westcliff Park,5320418,33.6131,-112.1546,United States,city,www.asu.edu
-California Institute of Technology,http://d-nb.info/gnd/5084090-3,34.137657,-118.125291,Oak Knoll,5378360,34.12445,-118.1359,United States,city,www.caltech.edu
-University of Ohio,,39.324446,-82.101417,Athens,4505542,39.32924,-82.10126,United States,city,www.ohio.edu
-University of California Santa Barbara,http://d-nb.info/gnd/1055045-8,34.413936,-119.848979,Isla Vista,5359864,34.41333,-119.86097,United States,city,www.ucsb.edu
-University of Michigan,http://d-nb.info/gnd/1011457-9,42.27804,-83.738239,Ann Arbor,4984247,42.27756,-83.74088,United States,city,www.umich.edu
-Intelex Corporation,,38.030571,-78.481133,Charlottesville,4752031,38.02931,-78.47668,United States,city,www.nlx.com/home
-University of Pittsburgh (Department of Slavic Languages and Literatures),,40.444269,-79.953289,Pittsburgh,5206379,40.44062,-79.99589,United States,city,www.slavic.pitt.edu
-American Council of Learned Societies,http://d-nb.info/gnd/40535-8,40.749655,-73.974965,Tudor City,6332416,40.74861,-73.97139,United States,city,www.acls.org
-Institute for the Study of the Ancient World,,40.779927,-73.960265,New York City,5128581,40.71427,-74.00597,United States,city,isaw.nyu.edu
-Google,,37.41986,-122.078831,Palo Alto,5380748,37.44188,-122.14302,United States,city,www.google.com
-University of Michigan Press,,42.270756,-83.746844,Ann Arbor,4984247,42.27756,-83.74088,United States,city,www.press.umich.edu
-Center for Hellenic Studies,,38.917565,-77.062046,Washington DC,4138106,38.91706,-77.00025,United States,city,chs.harvard.edu
-Rochester Institute of Technology,,43.086106,-77.670501,Rochester,5134086,43.15478,-77.61556,United States,city,www.rit.edu
-Indiana University of Pennsylvania,,40.614226,-79.161084,Indiana,4921868,40.00032,-86.25027,United States,city,www.iup.edu
-Ball State University,,40.206105,-85.406993,Muncie,4924006,40.19338,-85.38636,United States,city,cms.bsu.edu
-Brigham Young University,,40.251872,-111.649377,Provo,5780026,40.23384,-111.65853,United States,city,home.byu.edu/home/
-Buffalo Bill Center of the West,,44.525615,-109.073314,Cody,1586861,44.523333,-109.057222,United States,city,centerofthewest.org
-Dumbarton Oaks,,38.914149,-77.064011,Washington DC,4138106,38.91706,-77.00025,United States,city,www.doaks.org
-"Huntingon Library, Art Collections, and Botanical Gardens",,34.129041,-118.114517,San Marino,5392400,34.1214,-118.10646,United States,city,www.huntington.org
-Houghton Library,,42.373169,-71.115915,Cambridge,4931972,42.3751,-71.10561,United States,city,hcl.harvard.edu/libraries/houghton/
-Gladys Krieble Delmas Foundation,,40.751219,-73.979982,New York City,5128581,40.71427,-74.00597,United States,city,delmas.org
-Ramapo College of New Jersey,,41.081503,-74.174627,Mahwah,5100776,41.08871,-74.14376,United States,city,www.ramapo.edu
+Brown University,http://d-nb.info/gnd/221387-4,41.82639,-71.40021,Cork Hill (historical),5221655,41.81927,-71.40089,United States,city,https://www.brown.edu
+Bowling Green State University,http://d-nb.info/gnd/1010847-6,41.3771,-83.6266,Bowling Green,5147968,41.37477,-83.65132,United States,city,https://www.bgsu.edu
+Arizona State University,http://d-nb.info/gnd/1039847-8,33.6094,-112.1597,Westcliff Park,5320418,33.6131,-112.1546,United States,city,https://www.asu.edu
+California Institute of Technology,http://d-nb.info/gnd/5084090-3,34.137657,-118.125291,Oak Knoll,5378360,34.12445,-118.1359,United States,city,http://www.caltech.edu
+University of Ohio,,39.324446,-82.101417,Athens,4505542,39.32924,-82.10126,United States,city,https://www.ohio.edu
+University of California Santa Barbara,http://d-nb.info/gnd/1055045-8,34.413936,-119.848979,Isla Vista,5359864,34.41333,-119.86097,United States,city,https://www.ucsb.edu
+University of Michigan,http://d-nb.info/gnd/1011457-9,42.27804,-83.738239,Ann Arbor,4984247,42.27756,-83.74088,United States,city,http://www.umich.edu
+Intelex Corporation,,38.030571,-78.481133,Charlottesville,4752031,38.02931,-78.47668,United States,city,http://www.nlx.com/home
+University of Pittsburgh (Department of Slavic Languages and Literatures),,40.444269,-79.953289,Pittsburgh,5206379,40.44062,-79.99589,United States,city,http://www.slavic.pitt.edu
+American Council of Learned Societies,http://d-nb.info/gnd/40535-8,40.749655,-73.974965,Tudor City,6332416,40.74861,-73.97139,United States,city,http://www.acls.org
+Institute for the Study of the Ancient World,,40.779927,-73.960265,New York City,5128581,40.71427,-74.00597,United States,city,http://isaw.nyu.edu
+Google,,37.41986,-122.078831,Palo Alto,5380748,37.44188,-122.14302,United States,city,https://www.google.com
+University of Michigan Press,,42.270756,-83.746844,Ann Arbor,4984247,42.27756,-83.74088,United States,city,https://www.press.umich.edu
+Center for Hellenic Studies,,38.917565,-77.062046,Washington DC,4138106,38.91706,-77.00025,United States,city,https://chs.harvard.edu
+Rochester Institute of Technology,,43.086106,-77.670501,Rochester,5134086,43.15478,-77.61556,United States,city,http://www.rit.edu
+Indiana University of Pennsylvania,,40.614226,-79.161084,Indiana,4921868,40.00032,-86.25027,United States,city,https://www.iup.edu
+Ball State University,,40.206105,-85.406993,Muncie,4924006,40.19338,-85.38636,United States,city,http://cms.bsu.edu
+Brigham Young University,,40.251872,-111.649377,Provo,5780026,40.23384,-111.65853,United States,city,https://home.byu.edu/home/
+Buffalo Bill Center of the West,,44.525615,-109.073314,Cody,1586861,44.523333,-109.057222,United States,city,https://centerofthewest.org
+Dumbarton Oaks,,38.914149,-77.064011,Washington DC,4138106,38.91706,-77.00025,United States,city,http://www.doaks.org
+"Huntingon Library, Art Collections, and Botanical Gardens",,34.129041,-118.114517,San Marino,5392400,34.1214,-118.10646,United States,city,http://www.huntington.org
+Houghton Library,,42.373169,-71.115915,Cambridge,4931972,42.3751,-71.10561,United States,city,http://hcl.harvard.edu/libraries/houghton/
+Gladys Krieble Delmas Foundation,,40.751219,-73.979982,New York City,5128581,40.71427,-74.00597,United States,city,http://delmas.org
+Ramapo College of New Jersey,,41.081503,-74.174627,Mahwah,5100776,41.08871,-74.14376,United States,city,https://www.ramapo.edu
 Trinity University,,29.461845,-98.483159,San Antonio,4726206,29.42412,-98.49363,United States,city,https://new.trinity.edu/
-Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,www.filos.unam.mx
+Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,http://www.filos.unam.mx
 N/A,,,,,,,,,,
 Various,,,,,,,,,,
 not provided,,,,,,,,,,
