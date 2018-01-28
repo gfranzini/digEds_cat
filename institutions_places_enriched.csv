@@ -156,25 +156,25 @@ National Museum of the Royal Navy,,50.800598,-1.109769,Portsmouth,2639996,50.798
 Royal Geographical Society,,51.501549,-0.174978,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.rgs.org/HomePage.htm
 Royal Society,,51.505950,-0.132320,London,2643743,51.50853,-0.12574,United Kingdom,city,https://royalsociety.org
 Wellcome Library,,51.525847,-0.133812,London,2643743,51.50853,-0.12574,United Kingdom,city,https://wellcomelibrary.org
-Royal Botanical Gardens Kew,,51.478744,-0.295573,London,2648579,55.86515,-4.25763,United Kingdom,city,https://www.kew.org
-Royal Society of Arts Library,,51.509387,-0.122736,London,2648579,55.86515,-4.25763,United Kingdom,city,https://www.thersa.org
-School of Oriental and African Studies (SOAS) Library at University of London,,51.522346,-0.129272,London,2648579,55.86515,-4.25763,United Kingdom,city,https://www.soas.ac.uk/library/
+Royal Botanical Gardens Kew,,51.478744,-0.295573,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.kew.org
+Royal Society of Arts Library,,51.509387,-0.122736,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.thersa.org
+School of Oriental and African Studies (SOAS) Library at University of London,,51.522346,-0.129272,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.soas.ac.uk/library/
 Royal College of Physicians and Surgeons of Glasgow,,55.862413,-4.263449,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,https://rcpsg.ac.uk
 Mitchell Library,,55.865055,-4.272154,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,http://www.glasgowlife.org.uk/libraries/the-mitchell-library/pages/home.aspx
 David Livingstone Centre,,55.801817,-4.083357,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,https://www.david-livingstone-trust.org
-Estate of Samuel Beckett,,51.509627,-0.132562,Soho,6545173,51.5144,-0.13535,United Kingdom,city,
-University of Swansea,http://d-nb.info/gnd/7588199-8,51.608696,-3.979953,Killay,2645649,51.61952,-4.01368,United Kingdom,city,http://www.swansea.ac.uk
+Estate of Samuel Beckett,,51.509627,-0.132562,London,2643743,51.50853,-0.12574,United Kingdom,city,
+University of Swansea,http://d-nb.info/gnd/7588199-8,51.608696,-3.979953,Swansea,2636432,51.62079,-3.94323,United Kingdom,city,http://www.swansea.ac.uk
 University of Sussex,http://d-nb.info/gnd/1025891-7,50.8683,-0.0874,Falmer,2649716,50.86529,-0.07733,United Kingdom,city,http://www.sussex.ac.uk
-University of Southampton,http://d-nb.info/gnd/5045962-4,50.9375,-1.3969,Bassett,2656185,50.94633,-1.40552,United Kingdom,city,https://www.southampton.ac.uk
+University of Southampton,http://d-nb.info/gnd/5045962-4,50.9375,-1.3969,Southampton,2637487,50.90395,-1.40428,United Kingdom,city,https://www.southampton.ac.uk
 University of Manchester,,53.466833,-2.233865,Manchester,2643123,53.48095,-2.23743,United Kingdom,city,http://www.manchester.ac.uk
 John Rylands University Library,,53.464451,-2.235346,Manchester,2643123,53.48095,-2.23743,United Kingdom,city,http://www.library.manchester.ac.uk/rylands/
 University of Sheffield,http://d-nb.info/gnd/9595-3,53.3807,-1.4829,Sheffield,2638077,53.38297,-1.4659,United Kingdom,city,https://www.sheffield.ac.uk
-University of Reading,http://d-nb.info/gnd/261796-1,51.441413,-0.941833,Earley,2650555,51.44085,-0.92384,United Kingdom,city,http://www.reading.ac.uk
+University of Reading,http://d-nb.info/gnd/261796-1,51.441413,-0.941833,Reading,2639577,51.45625,-0.97113,United Kingdom,city,http://www.reading.ac.uk
 University of Oxford,http://d-nb.info/gnd/38352-1,51.7589,-1.2543,Oxford,2640729,51.75222,-1.25596,United Kingdom,city,http://www.ox.ac.uk
 University of Nottingham,http://d-nb.info/gnd/1030181-1,52.938634,-1.195158,Wilford,2633903,52.92573,-1.16,United Kingdom,city,http://www.nottingham.ac.uk
 University of Liverpool,http://d-nb.info/gnd/261911-8,53.405926,-2.965583,Liverpool,2644210,53.41058,-2.97794,United Kingdom,city,https://www.liverpool.ac.uk
 University of Leicester,http://d-nb.info/gnd/10119891-7,52.6274,-1.1223,Leicester,2644668,52.6386,-1.13169,United Kingdom,city,https://le.ac.uk
-University of Hull,http://d-nb.info/gnd/1055477-4,53.7718,-0.3673,Dunswell,2650649,53.80106,-0.37139,United Kingdom,city,http://www.hull.ac.uk/clearing.aspx
+University of Hull,http://d-nb.info/gnd/1055477-4,53.7718,-0.3673,Hull,2645425,53.7446,-0.33525,United Kingdom,city,http://www.hull.ac.uk/clearing.aspx
 University of Exeter,,50.737151,-3.535214,Exeter,2649808,50.7236,-3.52751,United Kingdom,city,http://www.exeter.ac.uk
 University of Edinburgh,http://d-nb.info/gnd/5324753-X,55.944503,-3.189271,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city,http://www.ed.ac.uk
 Edinburgh Napier University,,55.918022,-3.239665,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city,http://www.napier.ac.uk
@@ -185,7 +185,7 @@ Parker Library Corpus Christi College Cambridge,,52.203013,0.118729,Cambridge,26
 University of Birmingham,http://d-nb.info/gnd/40138-9,52.4511,-1.9305,Selly Park,10345361,52.44196,-1.9242,United Kingdom,city,http://www.birmingham.ac.uk/index.aspx
 Birmingham Conservatoire of Birmingham City University,,52.479281,-1.904862,Birmingham,2655603,52.48142,1.89983,United Kingdom,city,http://www.bcu.ac.uk/conservatoire
 University of Aberdeen,http://d-nb.info/gnd/262019-4,57.1683,-2.1061,Old Aberdeen,2641045,57.16697,-2.10517,United Kingdom,city,https://www.abdn.ac.uk
-University College London,http://d-nb.info/gnd/62498-6,51.524124,-0.134133,Euston,6690576,51.52677,-0.13325,United Kingdom,city,https://www.ucl.ac.uk
+University College London,http://d-nb.info/gnd/62498-6,51.524124,-0.134133,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.ucl.ac.uk
 Royal Holloway,http://d-nb.info/gnd/5127949-6,51.4263,-0.5631,Englefield Green,2649992,51.42845,-0.57551,United Kingdom,city,https://www.royalholloway.ac.uk/home.aspx
 Regency Town House,http://d-nb.info/gnd/6525998-1,50.8253,-0.1594,Hove,2646504,50.83088,-0.1672,United Kingdom,city,http://rth.org.uk
 Queen Mary University,http://d-nb.info/gnd/6029847-9,51.5248,-0.0385,East London,6692464,51.52332,-0.03888,United Kingdom,city,http://www.qmul.ac.uk
@@ -206,6 +206,10 @@ Canterbury Christ Church University,http://d-nb.info/gnd/1073847195,51.277936,1.
 Hellenic Institute of Royal Holloway,,51.425240,-0.567398,Egham,2650188,51.43158,-0.55239,United Kingdom,city,http://hellenic-institute.rhul.ac.uk
 The British Museum,,51.519421,-0.126956,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.britishmuseum.org/
 Waddesdon Manor,,51.842311,-0.937498,Aylesbury,2656719,51.81665,-0.81458,United Kingdom,city,https://waddesdon.org.uk/
+The National Archives,,51.481538,-0.280039,Richmond,2639389,51.46171,-0.30633,United Kingdom,city,http://www.nationalarchives.gov.uk/
+Hatfield House,,51.760799,-0.209179,Hatfield,2647349,51.76338,-0.22419,United Kingdom,city,http://www.hatfield-house.co.uk/
+Longleat House,,51.185767,-2.274421,Warminster,2634755,51.20434,-2.17873,United Kingdom,city,https://www.longleat.co.uk/longleat-house
+Magdalene College Old Library,,52.210726,0.116075,Cambridge,2653941,52.2,0.11667,United Kingdom,city,https://www.magd.cam.ac.uk/
 University of Washington,http://d-nb.info/gnd/36224-4,47.6608,-122.3167,Seattle,7153937,47.66028,-122.31167,United States,city,http://www.washington.edu
 University of Virginia,http://d-nb.info/gnd/5145804-4,38.0369,-78.5028,McCormick Road Houses,4772213,38.03542,-78.51168,United States,city,http://www.virginia.edu
 University of Pennsylvania,http://d-nb.info/gnd/1071874950,39.952218,-75.193209,University City,4561871,39.95071,-75.19476,United States,city,http://www.upenn.edu
