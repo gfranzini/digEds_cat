@@ -1,6 +1,7 @@
 Institution Name,Institution GND,Institution Lat,Institution Lng,located at,location geonames ID,location Lat,location Lng,part of,type of location,institution website
 National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
 National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Parkes,8555700,-35.30177,149.13041,Australia,city,https://www.nla.gov.au
+State Library Victoria,,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
 Zentrum für Informationsmodellierung Universität Graz,,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
 Franz Nabl Institut für Literaturforschung Universität Graz,,47.074703,15.451488,Graz,2778067,47.06667,15.45,Austria,city,https://franz-nabl-institut.uni-graz.at/
 Stiftung Mozarteum Salzburg,http://d-nb.info/gnd/16271979-6,47.803503,13.041992,Andräviertel,6941547,47.80523,13.04086,Austria,city,http://www.mozarteum.at
@@ -56,6 +57,7 @@ Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.56979
 University of Münster,,51.96148,7.6237,Münster,2867543,51.96236,7.62571,Germany,city,https://www.uni-muenster.de/en/
 University of Leipzig,,51.338576,12.378464,Leipzig,2879139,51.33962,12.37129,Germany,city,https://www.uni-leipzig.de/en/
 University of Göttingen,http://d-nb.info/gnd/1044306068,51.5434,9.9358,Göttingen,2918632,51.53443,9.93228,Germany,city,http://www.uni-goettingen.de/en/1.html
+Stadtarchiv Göttingen,,51.528430,9.940511,Göttingen,2918632,51.53443,9.93228,Germany,city,http://www.stadtarchiv.goettingen.de/
 University of Augsburg,http://d-nb.info/gnd/7871-2,48.3351,10.8973,Göggingen,2919525,48.33746,10.86482,Germany,city,https://www.uni-augsburg.de/en/
 University of Würzburg,http://d-nb.info/gnd/36189-6,49.7827,9.9677,Wurzburg,2805615,49.79391,9.95121,Germany,city,https://www.uni-wuerzburg.de/en/ueber/university/
 University of Tübingen,http://d-nb.info/gnd/36187-2,48.529478,9.04377,Tübingen,2820860,48.52266,9.05222,Germany,city,https://www.uni-tuebingen.de/en/university.html
@@ -94,7 +96,7 @@ Archaeological Museum of Thessaloniki,,40.625243,22.953826,Thessaloniki,734077,4
 Aristotle University of Thessaloniki,,40.630841,22.959209,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.auth.gr/en
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city,http://www.u-szeged.hu/english
 National and University Library of Iceland,,64.142973,-21.950709,Reykjavík,3413829,64.13548,-21.89541,Iceland,city,https://landsbokasafn.is/index.php/english
-Indian Ministry of Culture,,28.6162,77.2158,AB2 Pandara Road,11205650,28.6057,77.23103,India,city,http://www.indiaculture.nic.in
+Indian Ministry of Culture,,28.6162,77.2158,New Delhi,1273294,28.65195,77.23149,India,city,http://www.indiaculture.nic.in
 Maynooth University,,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
 University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.ucd.ie
 Trinity College Dublin,,53.343810,-6.254567,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.tcd.ie/
@@ -106,7 +108,7 @@ The Israel Museum,,31.772123,35.204083,Jerusalem,281184,31.76904,35.21633,Israel
 Università degli Studi di Torino,http://d-nb.info/gnd/262196-4,45.069437,7.688894,Turin,3165524,45.07049,7.68682,Italy,city,https://www.unito.it
 Università degli Studi di Genova,http://d-nb.info/gnd/16007089-2,44.414918,8.926728,Castelletto,7603217,44.41263,8.93302,Italy,city,https://unige.it
 Università degli Studi di Siena ad Arezzo,,43.4623,11.8734,Arezzo,3182884,43.46276,11.88068,Italy,city,https://www.unisi.it/altre-strutture/arezzo
-Università degli Studi di Roma La Sapienza,http://d-nb.info/gnd/5049421-1,41.9004,12.5125,Esquilino,6545157,41.89931,12.5139,Italy,city,http://www.uniroma1.it
+Università degli Studi di Roma La Sapienza,http://d-nb.info/gnd/5049421-1,41.9004,12.5125,Roma,3169070,41.89193,12.51133,Italy,city,http://www.uniroma1.it
 Università degli Studi di Pavia,http://d-nb.info/gnd/40464-0,45.1979,9.1728,Pavia,3171366,45.19205,9.15917,Italy,city,http://www.unipv.eu/site/home.html
 Università degli Studi di Bergamo,http://d-nb.info/gnd/1057906557,45.704445,9.660292,Bergamo,3182164,45.69601,9.66721,Italy,city,https://www.unibg.it
 Università degli Studi di Bologna,,44.496899,11.351758,Bologna,3181928,44.49381,11.33875,Italy,city,http://www.unibo.it/en/homepage
@@ -140,7 +142,7 @@ University of Oslo,http://d-nb.info/gnd/1013645-9,59.9405,10.7209,Blindern,31609
 National Library of Norway,http://d-nb.info/gnd/2165809-2,59.9148,10.7174,Frogner,6940545,59.91924,10.70892,Norway,city,http://www.nb.no/English
 Hebrew University of Jerusalem,http://d-nb.info/gnd/2023678-5,31.794558,35.241395,Nayot,9204036,31.79589,35.24517,Palestine,city,http://new.huji.ac.il/en
 University of Warsaw,,52.240339,21.018698,Powiśle,761340,52.23834,21.02839,Poland,city,http://en.uw.edu.pl
-Staatsarchive Lodz,,51.776188,19.454555,Osiedle Katedralna,8426307,51.77529,19.45503,Poland,city,
+Staatsarchive Łódź,,51.776188,19.454555,Łódź,3093133,51.75,19.46667,Poland,city,
 Narodowy Instytut Fryderyka Chopina,http://d-nb.info/gnd/6123664-0,52.236427,21.022191,Powiśle,761340,52.23834,21.02839,Poland,city,http://en.chopin.nifc.pl/institute/
 University of Wrocław,,51.114011,17.034477,Stare Miasto,8425992,51.11034,17.03714,Poland,city,https://international.uni.wroc.pl/en/s3.php
 National Library in Warsaw,,52.213661,21.003452,Filtry,8425839,52.21878,20.99655,Poland,city,http://bn.org.pl/en/
@@ -203,6 +205,7 @@ Birmingham Conservatoire of Birmingham City University,,52.479281,-1.904862,Birm
 University of Aberdeen,http://d-nb.info/gnd/262019-4,57.1683,-2.1061,Aberdeen,2657832,57.14369,-2.09814,United Kingdom,city,https://www.abdn.ac.uk
 Aberdeen University Library,,57.165075,-2.106259,Aberdeen,2657832,57.14369,-2.09814,United Kingdom,city,https://www.abdn.ac.uk/library/using-libraries/the-sir-duncan-rice-library-123.php
 University College London,http://d-nb.info/gnd/62498-6,51.524124,-0.134133,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.ucl.ac.uk
+University College London Library,,51.524713,-0.133502,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.ucl.ac.uk/library/special-collections
 Royal Holloway,http://d-nb.info/gnd/5127949-6,51.4263,-0.5631,Egham,2650188,51.43158,-0.55239,United Kingdom,city,https://www.royalholloway.ac.uk/home.aspx
 Regency Town House,http://d-nb.info/gnd/6525998-1,50.8253,-0.1594,Hove,2646504,50.83088,-0.1672,United Kingdom,city,http://rth.org.uk
 Queen Mary University,http://d-nb.info/gnd/6029847-9,51.5248,-0.0385,East London,6692464,51.52332,-0.03888,United Kingdom,city,http://www.qmul.ac.uk
@@ -241,14 +244,16 @@ University of California Irvine,http://d-nb.info/gnd/26537-8,33.6506,-117.8425,I
 University of California,http://d-nb.info/gnd/2025100-2,37.8773,-122.2451,Southside,11126294,37.86747,-122.25281,United States,city,https://www.universityofcalifornia.edu
 University of California Press,,37.949408,-122.367276,Richmond,5387428,37.93576,-122.34775,United States,city,http://www.ucpress.edu
 California Digital Library,,37.808471,-122.267483,Oakland,5378538,37.80437,-122.2708,United States,city,http://www.cdlib.org
+University of Delaware Library,,39.678132,-75.752913,Newark,4143861,39.68372,-75.74966,United States,city,https://library.udel.edu/
 Texas A&M University,http://d-nb.info/gnd/140763-6,30.613301,-96.339906,Spear,4733497,30.60159,-96.33691,United States,city,https://www.tamu.edu
 Southeastern Louisiana University,,30.51933,-90.469962,University Place,4344353,30.51686,-90.47453,United States,city,https://www.southeastern.edu
 Society of Biblical Literature,http://d-nb.info/gnd/4181719-9,33.801862,-84.320123,Turner Village,4227430,33.80094,-84.3277,United States,city,https://www.sbl-site.org
 Rutgers University,http://d-nb.info/gnd/5281802-0,40.500886,-74.447373,New Brunswick,5101717,40.48622,-74.45182,United States,city,http://www.rutgers.edu
 Roy Rosenzweig Center for History and New Media (George Mason University),,38.83323,-77.3082,Green Acres,4762018,38.83983,-77.3036,United States,city,https://rrchnm.org
 Princeton University,http://d-nb.info/gnd/1011480-4,40.343985,-74.651459,Princeton,5102922,40.34872,-74.65905,United States,city,https://www.princeton.edu
+Princeton University Library,,40.350503,-74.657030,Princeton,5102922,40.34872,-74.65905,United States,city,http://library.princeton.edu/lewis
 Northwestern University Library,http://d-nb.info/gnd/1044287-X,42.0537,-87.6733,South Evanston,4911902,42.03725,-87.68061,United States,city,http://www.library.northwestern.edu
-New York Public Library,http://d-nb.info/gnd/1024673-3,40.7538,-73.9817,Diamond District,6944378,40.7566,-73.9786,United States,city,https://www.nypl.org
+New York Public Library,http://d-nb.info/gnd/1024673-3,40.7538,-73.9817,New York City,5128581,40.71427,-74.00597,United States,city,https://www.nypl.org
 Maryland Institute of Technology in the Humanities (MITH),,38.98597,-76.94505,College Park,4351977,38.98067,-76.93692,United States,city,http://mith.umd.edu
 Loyola University Chicago,http://d-nb.info/gnd/10072143-6,41.999803,-87.658218,North Edgewater,4903885,41.99337,-87.66228,United States,city,http://www.luc.edu
 Harry Ransom Humanities Research Center,http://d-nb.info/gnd/3018790-4,30.284362,-97.741263,Austin,4671654,30.26715,-97.74306,United States,city,http://www.hrc.utexas.edu
@@ -269,6 +274,7 @@ Institute for the Study of the Ancient World,,40.779927,-73.960265,New York City
 Google,,37.41986,-122.078831,Palo Alto,5380748,37.44188,-122.14302,United States,city,https://www.google.com
 University of Michigan Press,,42.270756,-83.746844,Ann Arbor,4984247,42.27756,-83.74088,United States,city,https://www.press.umich.edu
 Center for Hellenic Studies,,38.917565,-77.062046,Washington DC,4138106,38.91706,-77.00025,United States,city,https://chs.harvard.edu
+Library of Congress,,38.888703,-77.004714,Washington DC,4138106,38.91706,-77.00025,United States,city,https://www.loc.gov/
 Rochester Institute of Technology,,43.086106,-77.670501,Rochester,5134086,43.15478,-77.61556,United States,city,http://www.rit.edu
 Indiana University of Pennsylvania,,40.614226,-79.161084,Indiana,4921868,40.00032,-86.25027,United States,city,https://www.iup.edu
 Ball State University,,40.206105,-85.406993,Muncie,4924006,40.19338,-85.38636,United States,city,http://cms.bsu.edu
@@ -282,6 +288,11 @@ The Morgan Library and Museum,,40.749242,-73.981392,New York City,5128581,40.714
 Ramapo College of New Jersey,,41.081503,-74.174627,Mahwah,5100776,41.08871,-74.14376,United States,city,https://www.ramapo.edu
 Trinity University,,29.461845,-98.483159,San Antonio,4726206,29.42412,-98.49363,United States,city,https://new.trinity.edu/
 Beinecke Rare Book and Manuscript Library,,41.311597,-72.927260,New Haven,4839366,41.30815,-72.92816,United States,city,http://beinecke.library.yale.edu/
+American Antiquarian Society,,42.277365,-71.810317,Worcester,4956184,42.26259,-71.80229,United States,city,http://www.americanantiquarian.org/
+Amherst College,,42.370921,-72.517003,Amherst,4929022,42.36723,-72.51852,United States,city,https://www.amherst.edu/
+Boston Public Library,,42.349427,-71.078826,Boston,4930956,42.35843,-71.05977,United States,city,http://www.bpl.org/
+Smith College Libraries,,42.317070,-72.638796,Northampton,4945819,42.32509,-72.6412,United States,city,https://www.smith.edu/libraries/
+Vassar College,,41.686798,-73.895716,Poughkeepsie,5132143,41.70037,-73.92097,United States,city,https://www.vassar.edu/
 Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,http://www.filos.unam.mx
 N/A,,,,,,,,,,
 Various,,,,,,,,,,
