@@ -8,7 +8,7 @@ More information:
 * [How to contribute to the Catalogue?](https://github.com/gfranzini/digEds_cat/blob/master/CONTRIBUTING.md)
 
 <h3>Affiliation(s)</h3>
-This project's home is the UCL Centre for Digital Humanities. The <em>Catalogue</em> [Web Application](https://dig-ed-cat.eos.arz.oeaw.ac.at/) is a collaboration with the Austrian Centre for Digital Humanities.
+This project's home is the UCL Centre for Digital Humanities. The <em>Catalogue</em> [Web Application](https://dig-ed-cat.acdh.oeaw.ac.at/) is a collaboration with the Austrian Centre for Digital Humanities.
 
 <h3>Citation</h3>
 
