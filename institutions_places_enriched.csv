@@ -2,6 +2,7 @@ Institution Name,Institution GND,Institution Lat,Institution Lng,located at,loca
 National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
 National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Parkes,8555700,-35.30177,149.13041,Australia,city,https://www.nla.gov.au
 State Library Victoria,,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
+Victoria University Library,,-37.792850,144.898997,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.vu.edu.au/library
 University of Sydney Library,,-33.888560,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
 State Library of New South Wales,,-33.866744,151.212785,Sydney,2147714,-33.86785,151.20732,Australia,city,http://www.sl.nsw.gov.au/
 Zentrum für Informationsmodellierung Universität Graz,,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
@@ -13,23 +14,28 @@ University of Vienna,,48.213184,16.360052,Vienna,2761369,48.20849,16.37208,Austr
 Robert Musil-Institut für Literaturforschung - Kärntner Literaturarchiv at Alpen-Adria-Universität Klagenfurt,,46.616095,14.265285,Klagenfurt am Wörthersee,2774326,46.62472,14.30528,Austria,city,https://www.aau.at/musil/
 Universität für Musik und darstellende Kunst,,48.195714,16.38139,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.mdw.ac.at
 University of Antwerp,http://d-nb.info/gnd/5017340-6,51.1641,4.4066,Antwerp,2803138,51.21989,4.40346,Belgium,city,https://www.uantwerpen.be/en/
+University of Ghent,,51.046569,3.727918,Ghent,2797656,51.05,3.71667,Belgium,city,https://www.ugent.be/
 Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal- en Letterkunde),,51.0558,3.7281,Binnenstad,11352054,51.05374,3.72549,Belgium,city,http://ctb.kantl.be
 Royal Museum for Central Africa,,50.830895,4.518294,Tervuren,2785622,50.82372,4.51418,Belgium,city,http://www.africamuseum.be/home
 King Baudouin Foundation,,50.840375,4.362300,Bruxelles,2800866,50.85045,4.34878,Belgium,city,https://www.kbs-frb.be/en
 Letterenhuis,,51.222857,4.404685,Antwerp,2803138,51.21989,4.40346,Belgium,city,http://www.letterenhuis.be/nl
 University of New Brunswick,http://d-nb.info/gnd/11143-0,45.9462,-66.6406,Barkers Point,5893060,45.95165,-66.62339,Canada,city,http://www.unb.ca
+University of New Brunswick Archives and Special Collections,,45.946066,-66.642794,Fredericton,5957776,45.94541,-66.66558,Canada,city,http://www.unb.ca/its/get-it-help.html
 University of Calgary,http://d-nb.info/gnd/3003635-5,51.078164,-114.135796,Montgomery,6077007,51.07511,-114.16449,Canada,city,http://www.ucalgary.ca
 Memorial University of Newfoundland,http://d-nb.info/gnd/16156656-X,47.5717,-52.7324,Sand Pits,6140443,47.56659,-52.73134,Canada,city,https://www.mun.ca
 University of Victoria,http://d-nb.info/gnd/5088685-X,48.4661,-123.3125,Cadboro Bay,5913113,48.46667,-123.3,Canada,city,http://www.uvic.ca
 University of Saskatchewan,,52.1334,-106.631365,Saskatoon,6141256,52.13238,-106.66892,Canada,city,https://www.usask.ca
 Bruce Peel Special Collections Library at the University of Alberta,,53.525787,-113.521607,Edmonton,5946768,53.55014,-113.46871,Canada,city,https://bpsc.library.ualberta.ca/
 University of Zagreb,http://d-nb.info/gnd/1014349-X,45.81057,15.969784,Britanski trg,6618988,45.81284,15.96497,Croatia,city,http://www.unizg.hr/homepage/
-University of Copenhagen,http://d-nb.info/gnd/36485-X,55.680205,12.572393,Inner City,6949461,55.6761,12.5683,Denmark,city,http://www.ku.dk/english/
+University of Copenhagen,http://d-nb.info/gnd/36485-X,55.680205,12.572393,Copenhagen,2618425,55.67594,12.56553,Denmark,city,http://www.ku.dk/english/
+Det Kongelige Bibliotek,,55.673406,12.582663,Copenhagen,2618425,55.67594,12.56553,Denmark,city,http://www.kb.dk/da/index.html
 St. Catherine's Monastery,,28.555934,33.976037,Saint Catherine,8521413,28.56191,33.94934,Egypt,city,http://www.sinaimonastery.com/index.php/en/
 Svenska Litteratursällskapet,http://d-nb.info/gnd/1005799-7,60.170814,24.955789,Kruununhaka,650744,60.17174,24.9566,Finland,city,http://www.sls.fi
 Institut Universitaire de France,,48.847431,2.348720,Paris,2988507,48.85341,2.3488,France,city,http://www.iufrance.fr
+Lafayette University Library,,45.773950,3.087964,Clermont-Ferrand,3024635,45.77966,3.08628,France,city,http://bibliotheque.clermont-universite.fr/bibliotheque-lafayette
+Archives Nationales,,498.948111,2.364400,Pierrefitte-sur-Seine,2987271,48.96691,2.36104,France,city,http://www.archives-nationales.culture.gouv.fr/
 Université Bordeaux Montaigne,,44.795414,-0.616322,Talence,2973495,44.80477,-0.59543,France,city,http://www.u-bordeaux-montaigne.fr/en/index.html
-Université Sorbonne Nouvelle - Paris 3,http://d-nb.info/gnd/1020917-7,48.839804,2.353901,Paris,2988507,48.85341,2.3488,France,city,http://www.univ-paris3.fr
+Université Sorbonne Nouvelle Paris 3,http://d-nb.info/gnd/1020917-7,48.839804,2.353901,Paris,2988507,48.85341,2.3488,France,city,http://www.univ-paris3.fr
 École française d'Extrême-Orient,,48.864541,2.292172,Paris,2988507,48.85341,2.3488,France,city,http://www.efeo.fr
 Université d’Angers,,47.477092,-0.549938,Angers,3037656,47.46667,-0.55,France,city,http://www.univ-angers.fr/fr/index.html
 Université Jean Monnet Saint-Etienne,http://d-nb.info/gnd/3056310-0,45.427167,4.387831,Saint-Etienne,2980291,45.43389,4.39,France,city,https://www.univ-st-etienne.fr/fr/index.html
@@ -53,6 +59,7 @@ Bibliothèque municipale de Tours,,47.397311,0.687969,Tours,2972191,47.38333,0.6
 École de l’Innovation et de l’Expertise Informatique (EPITECH),,45.756988,4.857023,Lyon,2996944,45.74846,4.84671,France,city,http://www.epitech.eu
 École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB),,45.780139,4.862513,Villeurbanne,2968254,45.76667,4.88333,France,city,http://www.enssib.fr
 Université Blaise Pascal,,45.764098,3.112335,Aubière,3036364,45.75157,3.11251,France,city,http://www.univ-bpclermont.fr
+Musée Condé,,49.193851,2.485204,Chantilly,3026827,49.19461,2.47124,France,city,http://www.domainedechantilly.com/fr/
 Christophorus Records,,0,0,Freiburg,2925177,47.9959,7.85222,Germany,city,http://www.christophorus-records.de/v2.php
 Frankfurter Goethehaus,,50.111227,8.677608,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,http://www.goethehaus-frankfurt.de
 Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799,9.975629,Eimsbüttel,2911293,53.56667,9.98333,Germany,city,http://www.igdj-hh.de/home-175.html
@@ -157,6 +164,7 @@ University of Alcalá,,40.482472,-3.362865,Alcalá de Henares,3130616,40.48205,-
 Universitat de Barcelona,http://d-nb.info/gnd/42050-5,41.3872,2.1637,Eixample,6544100,41.38896,2.16179,Spain,city,http://www.ub.edu/web/ub/en/
 Biblioteca Nacional de España,http://d-nb.info/gnd/1027025-5,40.42394,-3.6902,Madrid,3117735,40.4165,-3.70256,Spain,city,http://www.bne.es/es/Inicio/index.html
 Real Biblioteca del Palacio Real de Madrid,,40.417962,-3.7143,Madrid,3117735,40.4165,-3.70256,Spain,city,http://www.realbiblioteca.es
+Real Colegio de San Jorge Mártir de Irlandeses de la Universidad de Alcalá,,40.481072,-3.366458,Alcalá de Henares,3130616,40.48205,-3.35996,Spain,city,
 University of Salamanca,,40.961332,-5.666930,Salamanca,3111108,40.96882,-5.66388,Spain,city,http://www.usal.es/
 University of Zürich,http://d-nb.info/gnd/6109294-0,47.3749,8.5489,Zürich,6295483,47.37161,8.54501,Switzerland,city,http://www.uzh.ch/en.html
 University of Fribourg,http://d-nb.info/gnd/1068116757,46.806253,7.151837,Fribourg,2660718,46.80237,7.15128,Switzerland,city,https://www3.unifr.ch/home/en/
@@ -292,6 +300,7 @@ Trinity University,,29.461845,-98.483159,San Antonio,4726206,29.42412,-98.49363,
 Beinecke Rare Book and Manuscript Library,,41.311597,-72.927260,New Haven,4839366,41.30815,-72.92816,United States,city,http://beinecke.library.yale.edu/
 American Antiquarian Society,,42.277365,-71.810317,Worcester,4956184,42.26259,-71.80229,United States,city,http://www.americanantiquarian.org/
 Amherst College,,42.370921,-72.517003,Amherst,4929022,42.36723,-72.51852,United States,city,https://www.amherst.edu/
+Maine State Library,,44.306128,-69.782739,Augusta,4957003,44.31062,-69.77949,United States,city,http://www.maine.gov/msl/
 Boston Public Library,,42.349427,-71.078826,Boston,4930956,42.35843,-71.05977,United States,city,http://www.bpl.org/
 Smith College Libraries,,42.317070,-72.638796,Northampton,4945819,42.32509,-72.6412,United States,city,https://www.smith.edu/libraries/
 Vassar College,,41.686798,-73.895716,Poughkeepsie,5132143,41.70037,-73.92097,United States,city,https://www.vassar.edu/
