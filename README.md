@@ -15,6 +15,10 @@ This project's home is the UCL Centre for Digital Humanities. The <em>Catalogue<
 
 <strong>Franzini, G. (2012-) <em>A Catalogue of Digital Editions</em>.</strong> [![DOI](https://zenodo.org/badge/42574907.svg)](https://zenodo.org/badge/latestdoi/42574907)
 
+<h3>Indexing</h3>
+
+Indexed in [OpenAIRE](https://www.openaire.eu/search/dataset?datasetId=r37b0ad08687::c2ad7b8b5225d5abc748a1c6bbb07aeb) and in the [Datenbank-Infosystem (DBIS)](http://dbis.uni-regensburg.de//fachliste.php?lett=l).
+
 <h3>Licence</h3>
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Catalogue of Digital Editions</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gretafranzini.com" property="cc:attributionName" rel="cc:attributionURL">Greta Franzini</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
