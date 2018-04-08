@@ -195,7 +195,7 @@ University of Basel,http://d-nb.info/gnd/36146-X,47.5589,7.5835,Grossbasel,76457
 Swiss Lawyers Society,,46.948063,7.447138,Bern,2661552,46.94809,7.44744,Switzerland,city,https://www.ssrq-sds-fds.ch/typo3/index.php?id=2&L=3
 Stiftsbibliothek St. Gallen,http://d-nb.info/gnd/2089619-0,47.423144,9.376729,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.stibi.ch
 Abbey of Saint Gall,,47.423540,9.377652,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.bistum-stgallen.ch/
-SIB Swiss Institute of Bioinformatics ,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46.516,6.63282,Switzerland,city,http://www.sib.swiss
+SIB Swiss Institute of Bioinformatics ,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46516,6.63282,Switzerland,city,http://www.sib.swiss
 Old Bailey Criminal Court,http://d-nb.info/gnd/4695256-1,51.515767,-0.101799,London,2643743,51.50853,-0.12574,United Kingdom,city,https://courttribunalfinder.service.gov.uk/courts/central-criminal-court
 Kent History and Library Centre,,51.280154,0.517976,Maidstone,2643179,51.26667,0.51667,United Kingdom,city,http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203
 Lambeth Palace Library,http://d-nb.info/gnd/16441-0,51.495736,-0.120314,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.lambethpalacelibrary.org/
@@ -335,6 +335,7 @@ Vassar College,http://d-nb.info/gnd/126587-8,41.686798,-73.895716,Poughkeepsie,5
 Cornell University Library,http://d-nb.info/gnd/1080320-8,42.453453,-76.473510,Ithaca,5122432,42.44063,-76.49661,United States,city,https://www.library.cornell.edu/
 Swarthmore College Peace Collection,http://d-nb.info/gnd/4078095-8,39.906846,-75.355643,Swarthmore,4561628,39.90206,-75.34991,United States,city,https://www.swarthmore.edu/
 Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),http://d-nb.info/gnd/63989-8,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,http://www.filos.unam.mx
+Magyar Tudományos Akadémia Könyvtár,http://d-nb.info/gnd/1087239087,47.501668,19.046267,Budapest,3054643,47.49801,19.03991,Hungary,city,http://konyvtar.mta.hu/
 N/A,,,,,,,,,,
 Various,,,,,,,,,,
 not provided,,,,,,,,,,
