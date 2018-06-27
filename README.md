@@ -8,11 +8,16 @@ More information:
 * [How to contribute to the Catalogue?](https://github.com/gfranzini/digEds_cat/blob/master/CONTRIBUTING.md)
 
 <h3>Affiliation(s)</h3>
-This project's home is the UCL Centre for Digital Humanities. The <em>Catalogue</em> [Web Application](https://dig-ed-cat.acdh.oeaw.ac.at/) is a collaboration with the Austrian Centre for Digital Humanities.
+
+This project's home is the UCL Centre for Digital Humanities. The <em>Catalogue</em> [Web Application](https://dig-ed-cat.acdh.oeaw.ac.at) is a collaboration with the Austrian Centre for Digital Humanities.
 
 <h3>Citation</h3>
 
 <strong>Franzini, G. (2012-) <em>A Catalogue of Digital Editions</em>.</strong> [![DOI](https://zenodo.org/badge/42574907.svg)](https://zenodo.org/badge/latestdoi/42574907)
+
+<h3>Indexing</h3>
+
+Indexed in [OpenAIRE](https://www.openaire.eu/search/dataset?datasetId=r37b0ad08687::c2ad7b8b5225d5abc748a1c6bbb07aeb) and in the [Datenbank-Infosystem (DBIS)](http://dbis.uni-regensburg.de//fachliste.php?lett=l).
 
 <h3>Licence</h3>
 
