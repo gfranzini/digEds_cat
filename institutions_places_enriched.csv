@@ -1,8 +1,8 @@
 Institution Name,Institution GND,Institution Lat,Institution Lng,located at,location geonames ID,location Lat,location Lng,part of,type of location,institution website
 National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
 National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Canberra,2172517,-35.28346,149.12807,Australia,city,https://www.nla.gov.au
-State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
-Victoria University Library,,-37.792850,144.898997,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.vu.edu.au/library
+State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37814,144.96332,Australia,city,https://www.slv.vic.gov.au/
+Victoria University Library,,-37.792850,144.898997,Melbourne,2158177,-37814,144.96332,Australia,city,https://www.vu.edu.au/library
 University of Sydney Library,,-33.888560,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
 State Library of New South Wales,http://d-nb.info/gnd/4268267-8,-33.866744,151.212785,Sydney,2147714,-33.86785,151.20732,Australia,city,http://www.sl.nsw.gov.au/
 Zentrum für Informationsmodellierung Universität Graz,http://d-nb.info/gnd/1137284463,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
@@ -74,6 +74,7 @@ University of Würzburg,http://d-nb.info/gnd/36189-6,49.7827,9.9677,Wurzburg,280
 University of Tübingen,http://d-nb.info/gnd/36187-2,48.529478,9.04377,Tübingen,2820860,48.52266,9.05222,Germany,city,https://www.uni-tuebingen.de/en/university.html
 Musikwissenschaftliches Institut der Universität Tübingen,http://d-nb.info/gnd/36187-2,48.52031,9.057021,Tübingen,2820860,48.52266,9.05222,Germany,city,http://www.uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/altertums-und-kunstwissenschaften/mwi/aktuell.html
 University of Heidelberg,,49.419145,8.670253,Heidelberg,2907911,49.40768,8.69079,Germany,city,https://www.uni-heidelberg.de/index_e.html
+Heidelberg University Library,http://d-nb.info/gnd/2002498-8,49.409743,8.705888,Heidelberg,2907911,49.40768,8.69079,Germany,city,http://www.ub.uni-heidelberg.de/Englisch/Welcome.html
 University of Trier,http://d-nb.info/gnd/2153481-0,49.745762,6.688459,Tarforst,2823992,49.74157,6.69196,Germany,city,https://www.uni-trier.de/index.php?id=58229&L=2
 University of Hamburg,http://d-nb.info/gnd/35534-3,53.566567,9.984614,Hamburg,2911298,53.57532,10.01534,Germany,city,https://www.uni-hamburg.de/en.html
 Südwest-Rundfunk Tübingen,,48.522776,9.066659,Tübingen,2820860,48.52266,9.05222,Germany,city,https://www.swr.de/unternehmen/organisation/standorte-studio-tuebingen/-/id=7687068/did=7938418/nid=7687068/eurjnr/index.html
