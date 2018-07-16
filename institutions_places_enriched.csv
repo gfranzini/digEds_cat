@@ -1,8 +1,8 @@
 Institution Name,Institution GND,Institution Lat,Institution Lng,located at,location geonames ID,location Lat,location Lng,part of,type of location,institution website
 National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
 National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Canberra,2172517,-35.28346,149.12807,Australia,city,https://www.nla.gov.au
-State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37814,144.96332,Australia,city,https://www.slv.vic.gov.au/
-Victoria University Library,,-37.792850,144.898997,Melbourne,2158177,-37814,144.96332,Australia,city,https://www.vu.edu.au/library
+State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
+Victoria University Library,,-37.792850,144.898997,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.vu.edu.au/library
 University of Sydney Library,,-33.888560,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
 State Library of New South Wales,http://d-nb.info/gnd/4268267-8,-33.866744,151.212785,Sydney,2147714,-33.86785,151.20732,Australia,city,http://www.sl.nsw.gov.au/
 Zentrum für Informationsmodellierung Universität Graz,http://d-nb.info/gnd/1137284463,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
@@ -83,7 +83,7 @@ Herzog August Bibliothek Wolfenbüttel,http://d-nb.info/gnd/1072988283,52.1647,1
 Heinrich-Heine-Institut Düsseldorf,http://d-nb.info/gnd/2062050-0,51.222277,6.77287,Dusseldorf,2934246,51.22172,6.77616,Germany,city,https://www.duesseldorf.de/heineinstitut/
 Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.51407,13.39422,Berlin,2950159,52.52437,13.41053,Germany,city,http://www.bbaw.de
 Bayerische Staatsbibliothek,http://d-nb.info/gnd/2068538-5,48.1478,11.5802,Maxvorstadt,6940468,48.14702,11.56903,Germany,city,https://www.bsb-muenchen.de
-Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.9945,8.2672,Mainz-Oberstadt,8128529,49.98625,8.26447,Germany,city,http://www.adwmainz.de/startseite.html
+Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.9945,8.2672,Mainz,8128529,49.98625,8.26447,Germany,city,http://www.adwmainz.de/startseite.html
 Goethe Universität Frankfurt am Main,http://d-nb.info/gnd/35074-6,50.120557,8.653013,Bockenheim,2947354,50.12498,8.64538,Germany,city,http://www.goethe-university-frankfurt.de/en?locale=en
 Universität Freiburg,http://d-nb.info/gnd/2038600-X,47.994875,7.846739,Freiburg,2925177,47.9959,7.85222,Germany,city,https://www.uni-freiburg.de
 Ludwig-Maximilians-Universität München,http://d-nb.info/gnd/2002585-3,48.150857,11.581044,Maxvorstadt,6940468,48.14702,11.56903,Germany,city,https://www.en.uni-muenchen.de/index.html
