@@ -3,7 +3,7 @@ National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Ca
 National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Canberra,2172517,-35.28346,149.12807,Australia,city,https://www.nla.gov.au
 State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
 Victoria University Library,,-37.792850,144.898997,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.vu.edu.au/library
-University of Sydney Library,,-33.888560,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
+University of Sydney Library,http://d-nb.info/gnd/80357-1,-33.888560,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
 State Library of New South Wales,http://d-nb.info/gnd/4268267-8,-33.866744,151.212785,Sydney,2147714,-33.86785,151.20732,Australia,city,http://www.sl.nsw.gov.au/
 Zentrum für Informationsmodellierung Universität Graz,http://d-nb.info/gnd/1137284463,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
 Franz Nabl Institut für Literaturforschung Universität Graz,http://d-nb.info/gnd/2125265-8,47.074703,15.451488,Graz,2778067,47.06667,15.45,Austria,city,https://franz-nabl-institut.uni-graz.at/
@@ -11,6 +11,7 @@ Stiftung Mozarteum Salzburg,http://d-nb.info/gnd/16271979-6,47.803503,13.041992,
 Österreichische Nationalbibliothek,http://d-nb.info/gnd/2050296-5,48.205432,16.365011,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.onb.ac.at
 Austrian Centre for Digital Humanities at the Austrian Academy of Sciences,http://d-nb.info/gnd/1123037736,48.209133,16.377123,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/acdh/acdh-home/
 University of Vienna,http://d-nb.info/gnd/2024703-5,48.213184,16.360052,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.univie.ac.at/en/
+Theatermuseum Wien,http://d-nb.info/gnd/1033329-0,48.205668,16.368535,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.theatermuseum.at/
 Robert Musil-Institut für Literaturforschung - Kärntner Literaturarchiv at Alpen-Adria-Universität Klagenfurt,http://d-nb.info/gnd/2154836-5,46.616095,14.265285,Klagenfurt am Wörthersee,2774326,46.62472,14.30528,Austria,city,https://www.aau.at/musil/
 Universität für Musik und darstellende Kunst,http://d-nb.info/gnd/5299670-0,48.195714,16.38139,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.mdw.ac.at
 Karl-Franzens Universität Graz,http://d-nb.info/gnd/36157-4,47.077804,15.449923,Graz,2778067,47.06667,15.45,Austria,city,https://www.uni-graz.at/
