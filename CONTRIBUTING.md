@@ -13,7 +13,7 @@ There are **three different ways to contribute a digital edition**:
 2. If you're not familiar with GitHub, you can create a GitHub [issue](https://github.com/gfranzini/digEds_cat/issues) with as much information about the edition as possible (see "Data fields" section below). The more information you provide, the sooner the edition will appear in the _Catalogue_.
 3. If you'd rather not use GitHub at all, you can fill-in [this Google Form](https://goo.gl/forms/4Ya3jwRCBi0VSexx2). Your entry will be moderated and added to the _Catalogue_ by an administrator.
 
-It's important you're consistent and follow these guidelines for the [web application](https://dig-ed-cat.eos.arz.oeaw.ac.at/) to display your contribution correctly.
+It's important you're consistent and follow these guidelines for the [web application](https://dig-ed-cat.acdh.oeaw.ac.at/) to display your contribution correctly.
 
 ## Contributing via GitHub
 The fields the _Catalogue_ uses to classify information are listed below. Some take free text, others use predefined values. 
