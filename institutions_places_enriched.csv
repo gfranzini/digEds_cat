@@ -33,6 +33,7 @@ University of Zagreb,http://d-nb.info/gnd/1014349-X,45.81057,15.969784,Zagreb,31
 Nacionalna i sveučilišna knjižnica u Zagrebu,http://d-nb.info/gnd/10025602-8,45.796644,15.977560,Zagreb,3186886,45.81444,15.97798,Croatia,city,http://www.nsk.hr/
 University of Copenhagen,http://d-nb.info/gnd/36485-X,55.680205,12.572393,Copenhagen,2618425,55.67594,12.56553,Denmark,city,http://www.ku.dk/english/
 Det Kongelige Bibliotek,http://d-nb.info/gnd/43027-4,55.673406,12.582663,Copenhagen,2618425,55.67594,12.56553,Denmark,city,http://www.kb.dk/da/index.html
+Aarhus University,http://d-nb.info/gnd/42570-9,56.16888,10.20158,Aarhus,2624652,56.15674,10.21076,Denmark,city,https://international.au.dk/
 St. Catherine's Monastery,http://d-nb.info/gnd/660210-1,28.555934,33.976037,Mount Catherine,353913,28.51,33.95463,Egypt,city,http://www.sinaimonastery.com/index.php/en/
 Svenska Litteratursällskapet,http://d-nb.info/gnd/1005799-7,60.170814,24.955789,Kruununhaka,650744,60.17174,24.9566,Finland,city,http://www.sls.fi
 Institut Universitaire de France,http://d-nb.info/gnd/2160908-1,48.847431,2.348720,Paris,2988507,48.85341,2.3488,France,city,http://www.iufrance.fr
@@ -105,7 +106,7 @@ Klassik Stiftung Weimar,http://d-nb.info/gnd/6045529-9,50.980289,11.332184,Weima
 Thüringer Universitäts- und Landesbibliothek,http://d-nb.info/gnd/5053491-9,50.930577,11.587758,Jena,2895044,50.92878,11.5899,Germany,city,http://www.thulb.uni-jena.de
 Landesarchiv Thüringen - Staatsarchiv Greiz,http://d-nb.info/gnd/1119456932,50.660061,12.196998,Greiz,6551044,50.6577,12.19047,Germany,city,http://www.thueringen.de/th1/tsk/kultur/staatsarchive/standorte/greiz/index.aspx
 Friedrich-Schiller-Universität Jena,http://d-nb.info/gnd/36164-1,50.929545,11.589813,Jena,2895044,50.92878,11.5899,Germany,city,https://www.uni-jena.de
-Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11.571,Germany,city,http://www.mgh.de
+Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11571,Germany,city,http://www.mgh.de
 Beethoven-Haus Bonn,http://d-nb.info/gnd/2085343-9,50.736873,7.101201,Bonn,2946447,50.73438,7.09549,Germany,city,https://www.beethoven.de/home
 Detmold Hochschule für Musik,http://d-nb.info/gnd/5073685-1,51.930908,8.876223,Detmold,2937936,51.93855,8.87318,Germany,city,http://www.hfm-detmold.de/
 Oberlausitzische Bibliothek der Wissenschaften Görlitz,http://d-nb.info/gnd/5049269-X,51.155918,14.992386,Görlitz,2918987,51.15518,14.98853,Germany,city,https://www.goerlitzer-sammlungen.de/
@@ -122,12 +123,12 @@ Aristotle University of Thessaloniki,http://d-nb.info/gnd/37764-8,40.630841,22.9
 Heraklion Archaeological Museum,http://d-nb.info/gnd/2068055-7,35.338818,25.137012,Heraklion,261745,35.32787,25.14341,Greece,city,http://heraklionmuseum.gr/
 Archaeological Museum of Chania,,35.515491,24.017716,Chania,260114,35.51124,24.02921,Greece,city,http://chaniamuseum.culture.gr/
 National Archaeological Museum of Athens,,37.989031,23.732761,Athens,264371,37.97945,23.71622,Greece,city,http://www.namuseum.gr/
-Archaeological Museum of Thebes,http://d-nb.info/gnd/4224921-1,38.323799,23.317204,Thebes,252910,38.325,23.31889,Greece,city,https://www.mthv.gr/
+Archaeological Museum of Thebes,http://d-nb.info/gnd/4224921-1,38.323799,23.317204,Thebes,252910,38325,23.31889,Greece,city,https://www.mthv.gr/
 Archaeological Museum of Nafplio,,37.566116,22.796278,Nafplio,256637,37.56863,22.80691,Greece,city,http://www.nafplio.gr/moyseiamenu/arxaiologikommenu.html
 Archaeological Site of Tiryns,,37.599714,22.799620,Tiryns,252849,37.5972,22.80011,Greece,city,https://www.gtp.gr/TDirectoryDetails.asp?ID=15304
 National and University Library of Iceland,http://d-nb.info/gnd/5246547-0,64.142973,-21.950709,Reykjavík,3413829,64.13548,-21.89541,Iceland,city,https://landsbokasafn.is/index.php/english
 Indian Ministry of Culture,,28.6162,77.2158,New Delhi,1273294,28.65195,77.23149,India,city,http://www.indiaculture.nic.in
-Maynooth University,http://d-nb.info/gnd/16033067-1,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
+Maynooth University,http://d-nb.info/gnd/16033067-1,53.383885,-6.600075,Maynooth,2962668,53385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
 University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.ucd.ie
 Trinity College Dublin,http://d-nb.info/gnd/1010756-3,53.343810,-6.254567,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.tcd.ie/
 Royal Irish Academy ,http://d-nb.info/gnd/37842-2,53.340705,-6.258219,Dublin,2964574,53.33306,-6.24889,Ireland,city,https://www.ria.ie/
@@ -203,7 +204,7 @@ University of Basel,http://d-nb.info/gnd/36146-X,47.5589,7.5835,Grossbasel,76457
 Swiss Lawyers Society,,46.948063,7.447138,Bern,2661552,46.94809,7.44744,Switzerland,city,https://www.ssrq-sds-fds.ch/typo3/index.php?id=2&L=3
 Stiftsbibliothek St. Gallen,http://d-nb.info/gnd/2089619-0,47.423144,9.376729,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.stibi.ch
 Abbey of Saint Gall,,47.423540,9.377652,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.bistum-stgallen.ch/
-SIB Swiss Institute of Bioinformatics ,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46.516,6.63282,Switzerland,city,http://www.sib.swiss
+SIB Swiss Institute of Bioinformatics ,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46516,6.63282,Switzerland,city,http://www.sib.swiss
 Old Bailey Criminal Court,http://d-nb.info/gnd/4695256-1,51.515767,-0.101799,London,2643743,51.50853,-0.12574,United Kingdom,city,https://courttribunalfinder.service.gov.uk/courts/central-criminal-court
 Kent History and Library Centre,,51.280154,0.517976,Maidstone,2643179,51.26667,0.51667,United Kingdom,city,http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203
 Lambeth Palace Library,http://d-nb.info/gnd/16441-0,51.495736,-0.120314,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.lambethpalacelibrary.org/
