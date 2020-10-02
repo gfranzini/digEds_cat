@@ -41,6 +41,7 @@ Institut Universitaire de France,http://d-nb.info/gnd/2160908-1,48.847431,2.3487
 Lafayette University Library,,45.773950,3.087964,Clermont-Ferrand,3024635,45.77966,3.08628,France,city,http://bibliotheque.clermont-universite.fr/bibliotheque-lafayette
 Archives Nationales,,498.948111,2.364400,Pierrefitte-sur-Seine,2987271,48.96691,2.36104,France,city,http://www.archives-nationales.culture.gouv.fr/
 Université Bordeaux Montaigne,http://d-nb.info/gnd/1081101628,44.795414,-0.616322,Bordeaux,3031582,44.84044,-0.5805,France,city,http://www.u-bordeaux-montaigne.fr/en/index.html
+Université Paris-Sorbonne,http://d-nb.info/gnd/1210825449,48.848574,2.343257,Paris,2988507,48.85341,2.3488,France,city,https://www.sorbonne-universite.fr/universite
 Université Sorbonne Nouvelle Paris 3,http://d-nb.info/gnd/1020917-7,48.839804,2.353901,Paris,2988507,48.85341,2.3488,France,city,http://www.univ-paris3.fr
 École française d'Extrême-Orient,http://d-nb.info/gnd/1003498-5,48.864541,2.292172,Paris,2988507,48.85341,2.3488,France,city,http://www.efeo.fr
 Université d’Angers,http://d-nb.info/gnd/2024963-9,47.477092,-0.549938,Angers,3037656,47.46667,-0.55,France,city,http://www.univ-angers.fr/fr/index.html
@@ -58,7 +59,7 @@ Laboratoire d'excellence HASTEC (Histoire et anthropologie des sciences techniqu
 Bibliothèque de l'Arsenal,http://d-nb.info/gnd/1056486-X,48.850311,2.363610,Paris,2988507,48.85341,2.3488,France,city,http://www.bnf.fr/fr/la_bnf/sites/a.site_bibliotheque_arsenal.html
 Université de Montpellier 3,,43.631575,3.870542,Castelnau-le-Lez,3028337,43.63333,3.9,France,city,https://www.univ-montp3.fr
 Bibliothèque municipale de Rouen,http://d-nb.info/gnd/1032332-6,49.431302,1.08378,Rouen,2982652,49.44313,1.09932,France,city,https://www.rouen.fr/adresse/bibliotheque-villon
-Centre Flaubert de l'Université de Rouen,,49.458426,1.067995,Rouen,2982652,49.44313,1.09932,France,city,http://flaubert.univ-rouen.fr
+Centre Flaubert de l'Université de Rouen,http://d-nb.info/gnd/6077726-6,49.458426,1.067995,Rouen,2982652,49.44313,1.09932,France,city,http://flaubert.univ-rouen.fr
 Institut Ausonius Université Bordeaux Montaigne,http://d-nb.info/gnd/5515436-0,44.795424,-0.616349,Bordeaux,3031582,44.84044,-0.5805,France,city,http://www.u-bordeaux-montaigne.fr/fr/recherche/equipes_de_recherche/ausonius.html
 Centre d'Études Supérieures de la Renaissance,http://d-nb.info/gnd/1019899-4,47.391996,0.682313,Tours,2972191,47.38333,0.68333,France,city,http://cesr.univ-tours.fr
 Bibliothèque municipale de Tours,http://d-nb.info/gnd/1086970012,47.397311,0.687969,Tours,2972191,47.38333,0.68333,France,city,http://www.bm-tours.fr/
@@ -163,9 +164,10 @@ Casa Editrice Leo S. Olschki,http://d-nb.info/gnd/4240918-4,43.757048,11.304235,
 Biblioteca Nazionale Centrale di Firenze,http://d-nb.info/gnd/1003299-X,43.767122,11.262353,Firenze,3176959,43.77925,11.24626,Italy,city,http://www.bncf.firenze.sbn.it/
 Biblioteca Medicea Laurenziana,http://d-nb.info/gnd/1019149-5,43.774359,11.254045,Firenze,3176959,43.77925,11.24626,Italy,city,https://www.bmlonline.it/
 Università degli Studi di Palermo,http://d-nb.info/gnd/36305-4,38.11779,13.369839,Palermo,2523920,38.13205,13.33561,Italy,city,http://www.unipa.it
-Archivio Storico Comunale di Vercelli,,45.322910,8.421382,Vercelli,3164565,45.32163,8.41989,Italy,city,http://www.asvercelli.beniculturali.it/
-Archivio Capitolare di Vercelli,,45.329724,8.423083,Vercelli,3164565,45.32163,8.41989,Italy,city,http://tesorodelduomovc.it/
+Archivio Storico Comunale di Vercelli,http://d-nb.info/gnd/5309239-9,45.322910,8.421382,Vercelli,3164565,45.32163,8.41989,Italy,city,http://www.asvercelli.beniculturali.it/
+Archivio Capitolare di Vercelli,http://d-nb.info/gnd/5309278-8,45.329724,8.423083,Vercelli,3164565,45.32163,8.41989,Italy,city,http://tesorodelduomovc.it/
 Biblioteca Casanatense,http://d-nb.info/gnd/1023158-4,41.898828,12.479341,Roma,3169070,41.89193,12.51133,Italy,city,http://www.casanatense.it/it/
+Università di Macerata,http://d-nb.info/gnd/1025471-7,43.299200,13.449858,Macerata,3174380,43.29789,13.45293,Italy,city,https://www.unimc.it/en
 Biblioteca Apostolica Vaticana,http://d-nb.info/gnd/1003302-6,41.903898,12.450101,Città del Vaticano,6691831,41.90268,12.45414,Stato della Città del Vaticano,city,https://www.vatlib.it/
 University of Utrecht,http://d-nb.info/gnd/5570633-2,52.090151,5.122598,Utrecht,2745912,52.09083,5.12222,Netherlands,city,https://www.uu.nl/en
 Nationaal Archief,http://d-nb.info/gnd/10041732-2,52.080727,4.326424,Den Haag,2747373,52.07667,4.29861,Netherlands,city,http://www.nationaalarchief.nl
