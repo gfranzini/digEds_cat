@@ -172,6 +172,7 @@ Archivio Capitolare di Vercelli,http://d-nb.info/gnd/5309278-8,45.329724,8.42308
 Biblioteca Casanatense,http://d-nb.info/gnd/1023158-4,41.898828,12.479341,Roma,3169070,41.89193,12.51133,Italy,city,http://www.casanatense.it/it/
 Università di Macerata,http://d-nb.info/gnd/1025471-7,43.2992,13.449858,Macerata,3174380,43.29789,13.45293,Italy,city,https://www.unimc.it/en
 Biblioteca Apostolica Vaticana,http://d-nb.info/gnd/1003302-6,41.903898,12.450101,Città del Vaticano,6691831,41.90268,12.45414,Stato della Città del Vaticano,city,https://www.vatlib.it/
+Koninklijke Nederlandse Akademie Van Wetenschappen,https://d-nb.info/gnd/37531-7 ,52.3715388210675,4.89944081912825,Amsterdam,2759794,52.37403,4.88969,Netherlands,city,https://www.knaw.nl/nl
 University of Utrecht,http://d-nb.info/gnd/5570633-2,52.090151,5.122598,Utrecht,2745912,52.09083,5.12222,Netherlands,city,https://www.uu.nl/en
 Nationaal Archief,http://d-nb.info/gnd/10041732-2,52.080727,4.326424,Den Haag,2747373,52.07667,4.29861,Netherlands,city,http://www.nationaalarchief.nl
 Huygens ING,http://d-nb.info/gnd/16344478-X,52.081982,4.326968,Amsterdam,2759794,52.37403,4.88969,Netherlands,city,https://www.huygens.knaw.nl/?lang=en
@@ -350,6 +351,10 @@ Vassar College,http://d-nb.info/gnd/126587-8,41.686798,-73.895716,Poughkeepsie,5
 Cornell University Library,http://d-nb.info/gnd/1080320-8,42.453453,-76.47351,Ithaca,5122432,42.44063,-76.49661,United States,city,https://www.library.cornell.edu/
 Swarthmore College Peace Collection,http://d-nb.info/gnd/4078095-8,39.906846,-75.355643,Swarthmore,4561628,39.90206,-75.34991,United States,city,https://www.swarthmore.edu/
 Tufts University,http://d-nb.info/gnd/1029986-5,42.40748,-71.119023,Boston,4930956,42.35843,-71.05977,United States,city,https://www.tufts.edu/
+Yale Fortunoff Archive,https://d-nb.info/gnd/3004798-5 ,41.3116460769968,-72.9272868340894,New Haven,4839366,41.30815,-72.92816,United States,city,https://fortunoff.library.yale.edu/archive/
+USC Shoah Foundation,https://d-nb.info/gnd/10358131-5,34.0293451108266,-118.283184041086,Los Angeles,5368361,34.05223,-118.24368,United States,city,https://sfi.usc.edu/
+United States Holocaust Memorial Museum,https://d-nb.info/gnd/5075370-8 ,38.8867864693148,-77.0326083859531,Washington DC,4138106,38.91706,-77.00025,United States,city,https://www.ushmm.org/
+Yale DH Lab,,41.3110547200714,-72.9285188201162,New Haven,4839366,41.30815,-72.92816,United States,city,https://dhlab.yale.edu/
 Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),http://d-nb.info/gnd/63989-8,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,http://www.filos.unam.mx
 Magyar Tudományos Akadémia Könyvtára,http://d-nb.info/gnd/1087239087,47.501668,19.046267,Budapest,3054643,47.49801,19.03991,Hungary,city,http://konyvtar.mta.hu/
 University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city,http://www.u-szeged.hu/english
