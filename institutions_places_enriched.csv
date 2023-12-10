@@ -18,6 +18,7 @@
 "Universität für Musik und darstellende Kunst","http://d-nb.info/gnd/5299670-0",48.195714,16.38139,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.mdw.ac.at"
 "Karl-Franzens Universität Graz","http://d-nb.info/gnd/36157-4",47.077804,15.449923,"Graz",2778067,47.06667,15.45,"Austria","city","https://www.uni-graz.at/"
 "Institut für Geschichtswissenschaften und Europäische Ethnologie (Universität Innsbruck)","http://d-nb.info/gnd/16332395-1",47.26409,11.384556,"Innsbruck",2775220,47.26266,11.39454,"Austria","city","https://www.uibk.ac.at/geschichte-ethnologie/"
+"Wienbibliothek im Rathaus","https://d-nb.info/gnd/10144442-4 ",48.2120818616728,16.3575141158021,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.wienbibliothek.at/"
 "University of Antwerp","http://d-nb.info/gnd/5017340-6",51.1641,4.4066,"Antwerp",2803138,51.21989,4.40346,"Belgium","city","https://www.uantwerpen.be/en/"
 "University of Ghent","http://d-nb.info/gnd/10019747-4",51.046569,3.727918,"Ghent",2797656,51.05,3.71667,"Belgium","city","https://www.ugent.be/"
 "Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal- en Letterkunde)","http://d-nb.info/gnd/10082555-2",51.0558,3.7281,"Ghent",2797656,51.05,3.71667,"Belgium","city","http://ctb.kantl.be"
@@ -206,6 +207,7 @@
 "University of Salamanca","http://d-nb.info/gnd/1010555-4",40.961332,-5.66693,"Salamanca",3111108,40.96882,-5.66388,"Spain","city","http://www.usal.es/"
 "Universidade de Santiago de Compostela","http://d-nb.info/gnd/1016480-7",42.888525,-8.544972,"Santiago de Compostela",3109642,42.88052,-8.54569,"Spain","city","http://www.usc.es/"
 "Archivo Histórico Nacional","http://d-nb.info/gnd/4289371-9",40.440719,-3.687042,"Madrid",3117735,40.4165,-3.70256,"Spain","city","http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/portada.html;jsessionid=15BDD0D663682DB6E2587ED5DB17F975"
+"Newman Institute Uppsala","https://d-nb.info/gnd/16075017-9 ",59.8561885634586,17.6379696234583,"Uppsala",2666199,59.85882,17.63889,"Sweden","city","https://newman.se/"
 "University of Zürich","http://d-nb.info/gnd/6109294-0",47.3749,8.5489,"Zürich",6295483,47.37161,8.54501,"Switzerland","city","http://www.uzh.ch/en.html"
 "ETH Zürich",,47.3764059647837,8.54742156260337,"Zürich",6295483,47.37161,8.54501,"Switzerland","city","https://ethz.ch/en.html"
 "Università della Svizzera Italiana","https://d-nb.info/gnd/2178299-4 ",46.0107112854388,8.95815763618789,"Lugano",2659836,46.01008,8.96004,"Switzerland","city",
@@ -217,6 +219,7 @@
 "Stiftsbibliothek St. Gallen","http://d-nb.info/gnd/2089619-0",47.423144,9.376729,"St. Gallen",2658822,47.42391,9.37477,"Switzerland","city","http://www.stibi.ch"
 "Abbey of Saint Gall",,47.42354,9.377652,"St. Gallen",2658822,47.42391,9.37477,"Switzerland","city","http://www.bistum-stgallen.ch/"
 "SIB Swiss Institute of Bioinformatics","http://d-nb.info/gnd/1086795962",46.519648,6.574022,"Lausanne",2659994,46.516,6.63282,"Switzerland","city","http://www.sib.swiss"
+"School of Advanced Study",,51.5212077581414,-0.128692377323318,"London",2643743,51.50853,-0.12574,"United Kingdom","city",
 "Old Bailey Criminal Court","http://d-nb.info/gnd/4695256-1",51.515767,-0.101799,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://courttribunalfinder.service.gov.uk/courts/central-criminal-court"
 "Kent History and Library Centre",,51.280154,0.517976,"Maidstone",2643179,51.26667,0.51667,"United Kingdom","city","http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203"
 "Lambeth Palace Library","http://d-nb.info/gnd/16441-0",51.495736,-0.120314,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.lambethpalacelibrary.org/"
